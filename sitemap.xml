@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/Miller-Library/taxa_webV2/index.html</loc>
+    <lastmod>2023-06-28T06:32:25.652Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/Miller-Library/taxa_webV2/content/rmarkdown.html</loc>
-    <lastmod>2023-06-28T06:26:42.053Z</lastmod>
+    <lastmod>2023-06-28T06:32:24.832Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa_webV2/content/code.html</loc>
-    <lastmod>2023-06-28T06:26:39.517Z</lastmod>
+    <lastmod>2023-06-28T06:32:22.572Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa_webV2/content/customizing.html</loc>
-    <lastmod>2023-06-28T06:26:37.353Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Miller-Library/taxa_webV2/content/rendering.html</loc>
-    <lastmod>2023-06-28T06:26:36.357Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Miller-Library/taxa_webV2/index.html</loc>
-    <lastmod>2023-06-28T06:26:33.813Z</lastmod>
+    <lastmod>2023-06-28T06:32:20.548Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa_webV2/content/add-content.html</loc>
-    <lastmod>2023-06-28T06:26:36.857Z</lastmod>
+    <lastmod>2023-06-28T06:32:18.264Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa_webV2/content/publishing.html</loc>
-    <lastmod>2023-06-28T06:26:37.873Z</lastmod>
+    <lastmod>2023-06-28T06:32:21.072Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Miller-Library/taxa_webV2/content/rendering.html</loc>
+    <lastmod>2023-06-28T06:32:23.000Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa_webV2/content/acknowledgements.html</loc>
-    <lastmod>2023-06-28T06:26:40.001Z</lastmod>
+    <lastmod>2023-06-28T06:32:25.228Z</lastmod>
   </url>
 </urlset>
