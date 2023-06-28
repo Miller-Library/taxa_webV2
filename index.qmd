@@ -1,31 +1,62 @@
 ---
 title: "Taxa Project"
-subtitle: "Extracting SPecies OCcurences (SPOC) from a corpus of student papers"
+subtitle: "Extracting species occurrences from a corpus of student papers"
 page-layout: full
 ---
 
 ## Motivation for Project
 
 Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them.
-\Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.
+Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.
 
-Knowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by.
-\Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake.
-
+Knowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake.
 
 
 ## Goals for Project
+
 The goal of this project is to employ natural language processing, machine learning, and data visualization to amplify the work of librarians in identifying and verifying these observations.
 
-## GitHub Set-up
+To develop a dataset of species occurrences (a species at a given place at a specific time), we need to identify and extract scientifically relevant entities from the corpus. These entities include:
 
-* Click the green "use template" button to make a repository with this content.  Make sure to make your repo public (since GitHub Pages doesn't work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch).
-<img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png">
+- Taxonomic names
+- Location(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) or latitude/longitude
+- A date when the species was observed
 
-* Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory.
-<img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png">
+Optionally, as supporting information, we can extract habitat type(s) (e.g., “subtidal”) from the text, too. 
 
-* Turn on GitHub Actions under Settings > Actions > General
-<img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png">
+# Data Inputs
 
-* Edit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the  Settings > Pages page to find the url.
+## Student Papers spanning the West Coast of North America
+
+The Stanford Taxa Project is part of a larger effort (called Data Over Decades) with librarian partners up and down the western coast of North America. We each hold large collections of student research reports that contain observations of environmental conditions, species, and populations recorded over a span of at least nine decades. As we seek funding to support the digitization and preservation of collections from partner institutions, the Taxa Project explores the potential of computational methods to amplify the work of librarians in identifying and verifying species observations in student papers from [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/) of Stanford University (HMS). We hold 746 HMS student papers that were created from 1963 - 2011. Of these, 672 are open access, and 74 are restricted to use by Stanford-affiliated folks only. 
+
+## Potential corpus
+
+The undergraduate student research papers available for the Data Over Decades project number into the thousands once more papers in these collections have been fully digitized (see Table 1). These papers were created annually, over several decades, as the capstone project for students taking an applied research course at their respective research station. For the Taxa Project, we are using the set of open access papers from Hopkins Marine Station as our initial corpus.
+
+| Institution | Approx. papers | Date Range | Digital | OCR’d | Open Access |
+| --- | --- | --- | --- | --- | --- |
+| [Bamfield Marine Sciences Centre](https://bamfieldmsc.com/) (consortium) | 5,426 papers | 1973 - present | [No](https://www.librarycat.org/lib/BMSC/search/text/student+report) | No | No |
+| [Friday Harbor Labs](https://fhl.uw.edu/), University of Washington | 5,000 papers; 2011-2020, 480 papers in hand | 1946 - present | [Pre-2011](http://db.lib.washington.edu/fhlclasspapers/) not scanned; [2011+](https://digital.lib.washington.edu/researchworks/handle/1773/16337) born-digital | 2011-2020, 480 papers | Pre-2011, No; 2011+ Yes |
+| [Hatfield Marine Science Center](https://hmsc.oregonstate.edu/), Oregon State University | 400 papers | 1967 - present | No | No | No |
+| [Bodega Marine Laboratory](https://marinescience.ucdavis.edu/bml/about), UC Davis | 3,800 papers | 1928 - present | [No](https://marinescience.ucdavis.edu/sites/g/files/dgvnsk9221/files/inline-files/CHL_BML_STUDENT_REPORTS_CATALOG_to_2021.pdf) | No | No |
+| [Moss Landing Marine Labs](https://mlml.sjsu.edu/), San Jose State University | 630 theses | 1999 - present | No | No | No |
+| UC Berkeley (research conducted at Hopkins) | 239 papers | 1947 - 1952 | No | No | No |
+| Hopkins Marine Station, Stanford University | 746 papers | 1963 - 2011** | [Yes](https://searchworks.stanford.edu/view/hq527zr3245) | Yes | 672 Yes; 74 No |
+| [Wrigley Marine Science Center](https://dornsife-wrigley.usc.edu/research/wmsc/), USC, UCLA, Carleton College (corpus held at HMS Library) | 300 papers | 1970s - 2000 | Yes | Yes | No |
+| UC Santa Cruz (corpus held at HMS Library) | 59 papers | 1973 - 2000 | [Yes](https://searchworks.stanford.edu/catalog?f%5Bcollection%5D%5B%5D=bj090cv2271) | Yes | No |
+
+*Table 1. A list of project partners in the Data Over Decades project, with an approximate number of papers at each site.*
+
+[Google Map of library partners in the Data Over Decades project.](https://www.google.com/maps/d/u/0/edit?mid=1GAiOpYgy7YF0PdFR8m-wl1mOtJOhWdUx&usp=sharing)
+
+## Student Papers - From Paper to Digital
+
+We partnered with the Stanford Libraries [Digital Production Group (DPG)](https://library.stanford.edu/research/digitization-services/labs/digital-production-group) to scan all of the Hopkins Marine Station student papers. The DPG is staffed by highly skilled professional imaging specialists and student assistants, and they have well-established workflows for capturing and processing digital content, and accessioning it into the Stanford Digital Repository (SDR). Their scanning process generated, for each page, a high-resolution JPEG 2000 for preservation, a medium resolution jpg for the catalog media viewer interface, an ALTO XML file, and a text-searchable PDF of the full paper. These files are all stored in Stanford Digital Repository (SDR) for preservation and access purposes. 
+
+For this phase of the project we will be working with the PDFs, but we plan to incorporate an open software image OCR step into our workflow so it will be more directly portable to our community of practice.
+
+<aside>
+💡 The following DPG staff contributed to the digitization and accessioning of the Hopkins Marine Station student papers: Katharine Dimitruk, Alexander Nguyen, Laura Nguyen, Linda Lam (supervisor).
+
+</aside>
