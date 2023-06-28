@@ -1,0 +1,26 @@
+---
+title: Plan of Action (updated June 28, 2023)
+---
+
+# High Level Method 
+
+1. Read the student papers and collect ground truth data (10 each)
+2. Conversational Experiment making use of transformer LLM process for "assisted reading" of the papers
+3. Identify entities & verify against authorities/knowledge bases
+4. Interface for validation of each species occurrence
+5. OCR process for other papers
+
+
+## Read Student Papers
+
+We all develop a shared understanding of the papers and how they are structured (or not). Gather a list of questions that we can use to guide a conversational model.
+
+## Conversational Experiment
+Build an experiment with already OCR'd set of papers based on how we identified SPOCs in step 1
+
+## Identify entities
+Our early experiments with OpenAI model to identify entities was very successful. We think this additional step will help us in the verification process by: 1. Making sure that the entities align with results of assisted reading 2. Allow us access to alternate name forms, visual verification (pictures!) and geo-location
+
+## Interface for validation
+This step brings together the assisted reading with the entity (species, place, habitat, etc.) identification to help with the verification of the species occurrence. 
+
