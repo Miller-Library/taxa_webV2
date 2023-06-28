@@ -7,7 +7,7 @@ website:
   site-url: ""
   repo-url: "https://github.com/Miller-Library/taxa_webV2"
   repo-actions: [edit, source, issue]
-  favicon: images/millerlogo.ico
+  favicon: millerlogo.ico
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -16,7 +16,7 @@ website:
   sidebar:
     background: "#D9E3E4"
     logo: "https://github.com/Miller-Library/taxa_webV2/blob/main/millerlogo.png"
-    favicon: images/millerlogo.ico
+    favicon: millerlogo.ico
     pinned: true
     align: center
     tools:
