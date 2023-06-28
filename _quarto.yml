@@ -21,11 +21,11 @@ website:
     align: center
     tools:
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://library.stanford.edu/hopkins
+        text: "Hopkins Marine Station"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/Miller-Library
+        text: "Harold A. Miller Library"
 
     style: "docked"
     search: true
