@@ -6,7 +6,10 @@ page-layout: full
 
 ## Motivation for Project
 
-Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things : Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change. Knowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by.
+Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things : Long-term biological and environmental observations, and an ability to discover and access them.
+Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.
+
+Knowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by.
 Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake.
 
 
