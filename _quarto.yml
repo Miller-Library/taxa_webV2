@@ -1,25 +1,25 @@
-project: 
+project:
   type: website
 
-website: 
+website:
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "TAXA Project"
+  site-url: ""
+  repo-url: "https://github.com/Miller-Library/taxa_webV2"
   repo-actions: [edit, source, issue]
-  favicon: images/favicon.ico
-  
+  favicon: images/millerlogo.ico
+
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
-  
+
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
-    favicon: images/favicon.ico
+    logo: "https://github.com/Miller-Library/taxa_webV2/blob/main/millerlogo.png"
+    favicon: images/millerlogo.ico
     pinned: true
     align: center
-    tools: 
+    tools:
       - icon: globe
         href: https://nmfs-opensci.github.io
         text: "NMFS Open Science"
@@ -49,7 +49,7 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss] 
+      light: [cosmo, theme.scss]
       dark: [cosmo, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
@@ -59,5 +59,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
