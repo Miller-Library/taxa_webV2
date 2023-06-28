@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taxa Project",
+    "section": "",
+    "text": "Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.\nKnowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake."
+  },
+  {
+    "objectID": "index.html#motivation-for-project",
+    "href": "index.html#motivation-for-project",
+    "title": "Taxa Project",
+    "section": "",
+    "text": "Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.\nKnowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake."
+  },
+  {
+    "objectID": "index.html#goals-for-project",
+    "href": "index.html#goals-for-project",
+    "title": "Taxa Project",
+    "section": "Goals for Project",
+    "text": "Goals for Project\nThe goal of this project is to employ natural language processing, machine learning, and data visualization to amplify the work of librarians in identifying and verifying these observations.\nTo develop a dataset of species occurrences (a species at a given place at a specific time), we need to identify and extract scientifically relevant entities from the corpus. These entities include:\n\nTaxonomic names\nLocation(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) or latitude/longitude\nA date when the species was observed\n\nOptionally, as supporting information, we can extract habitat type(s) (e.g., “subtidal”) from the text, too."
+  },
+  {
+    "objectID": "index.html#student-papers-spanning-the-west-coast-of-north-america",
+    "href": "index.html#student-papers-spanning-the-west-coast-of-north-america",
+    "title": "Taxa Project",
+    "section": "Student Papers spanning the West Coast of North America",
+    "text": "Student Papers spanning the West Coast of North America\nThe Stanford Taxa Project is part of a larger effort (called Data Over Decades) with librarian partners up and down the western coast of North America. We each hold large collections of student research reports that contain observations of environmental conditions, species, and populations recorded over a span of at least nine decades. As we seek funding to support the digitization and preservation of collections from partner institutions, the Taxa Project explores the potential of computational methods to amplify the work of librarians in identifying and verifying species observations in student papers from Hopkins Marine Station of Stanford University (HMS). We hold 746 HMS student papers that were created from 1963 - 2011. Of these, 672 are open access, and 74 are restricted to use by Stanford-affiliated folks only."
+  },
+  {
+    "objectID": "index.html#potential-corpus",
+    "href": "index.html#potential-corpus",
+    "title": "Taxa Project",
+    "section": "Potential corpus",
+    "text": "Potential corpus\nThe undergraduate student research papers available for the Data Over Decades project number into the thousands once more papers in these collections have been fully digitized (see Table 1). These papers were created annually, over several decades, as the capstone project for students taking an applied research course at their respective research station. For the Taxa Project, we are using the set of open access papers from Hopkins Marine Station as our initial corpus.\n\n\n\nInstitution\nApprox. papers\nDate Range\nDigital\nOCR’d\nOpen Access\n\n\n\n\nBamfield Marine Sciences Centre (consortium)\n5,426 papers\n1973 - present\nNo\nNo\nNo\n\n\nFriday Harbor Labs, University of Washington\n5,000 papers; 2011-2020, 480 papers in hand\n1946 - present\nPre-2011 not scanned; 2011+ born-digital\n2011-2020, 480 papers\nPre-2011, No; 2011+ Yes\n\n\nHatfield Marine Science Center, Oregon State University\n400 papers\n1967 - present\nNo\nNo\nNo\n\n\nBodega Marine Laboratory, UC Davis\n3,800 papers\n1928 - present\nNo\nNo\nNo\n\n\nMoss Landing Marine Labs, San Jose State University\n630 theses\n1999 - present\nNo\nNo\nNo\n\n\nUC Berkeley (research conducted at Hopkins)\n239 papers\n1947 - 1952\nNo\nNo\nNo\n\n\nHopkins Marine Station, Stanford University\n746 papers\n1963 - 2011**\nYes\nYes\n672 Yes; 74 No\n\n\nWrigley Marine Science Center, USC, UCLA, Carleton College (corpus held at HMS Library)\n300 papers\n1970s - 2000\nYes\nYes\nNo\n\n\nUC Santa Cruz (corpus held at HMS Library)\n59 papers\n1973 - 2000\nYes\nYes\nNo\n\n\n\nTable 1. A list of project partners in the Data Over Decades project, with an approximate number of papers at each site.\nGoogle Map of library partners in the Data Over Decades project."
+  },
+  {
+    "objectID": "index.html#student-papers---from-paper-to-digital",
+    "href": "index.html#student-papers---from-paper-to-digital",
+    "title": "Taxa Project",
+    "section": "Student Papers - From Paper to Digital",
+    "text": "Student Papers - From Paper to Digital\nWe partnered with the Stanford Libraries Digital Production Group (DPG) to scan all of the Hopkins Marine Station student papers. The DPG is staffed by highly skilled professional imaging specialists and student assistants, and they have well-established workflows for capturing and processing digital content, and accessioning it into the Stanford Digital Repository (SDR). Their scanning process generated, for each page, a high-resolution JPEG 2000 for preservation, a medium resolution jpg for the catalog media viewer interface, an ALTO XML file, and a text-searchable PDF of the full paper. These files are all stored in Stanford Digital Repository (SDR) for preservation and access purposes.\nFor this phase of the project we will be working with the PDFs, but we plan to incorporate an open software image OCR step into our workflow so it will be more directly portable to our community of practice.\n\n💡 The following DPG staff contributed to the digitization and accessioning of the Hopkins Marine Station student papers: Katharine Dimitruk, Alexander Nguyen, Laura Nguyen, Linda Lam (supervisor)."
+  },
+  {
     "objectID": "content/rmarkdown.html",
     "href": "content/rmarkdown.html",
     "title": "R Markdown",
@@ -63,76 +105,6 @@
     "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
   },
   {
-    "objectID": "content/rendering.html",
-    "href": "content/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
-  },
-  {
-    "objectID": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
-  },
-  {
-    "objectID": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
-  },
-  {
-    "objectID": "content/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Taxa Project",
-    "section": "",
-    "text": "Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.\nKnowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake."
-  },
-  {
-    "objectID": "index.html#motivation-for-project",
-    "href": "index.html#motivation-for-project",
-    "title": "Taxa Project",
-    "section": "",
-    "text": "Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.\nKnowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake."
-  },
-  {
-    "objectID": "index.html#goals-for-project",
-    "href": "index.html#goals-for-project",
-    "title": "Taxa Project",
-    "section": "Goals for Project",
-    "text": "Goals for Project\nThe goal of this project is to employ natural language processing, machine learning, and data visualization to amplify the work of librarians in identifying and verifying these observations.\nTo develop a dataset of species occurrences (a species at a given place at a specific time), we need to identify and extract scientifically relevant entities from the corpus. These entities include:\n\nTaxonomic names\nLocation(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) or latitude/longitude\nA date when the species was observed\n\nOptionally, as supporting information, we can extract habitat type(s) (e.g., “subtidal”) from the text, too."
-  },
-  {
-    "objectID": "index.html#student-papers-spanning-the-west-coast-of-north-america",
-    "href": "index.html#student-papers-spanning-the-west-coast-of-north-america",
-    "title": "Taxa Project",
-    "section": "Student Papers spanning the West Coast of North America",
-    "text": "Student Papers spanning the West Coast of North America\nThe Stanford Taxa Project is part of a larger effort (called Data Over Decades) with librarian partners up and down the western coast of North America. We each hold large collections of student research reports that contain observations of environmental conditions, species, and populations recorded over a span of at least nine decades. As we seek funding to support the digitization and preservation of collections from partner institutions, the Taxa Project explores the potential of computational methods to amplify the work of librarians in identifying and verifying species observations in student papers from Hopkins Marine Station of Stanford University (HMS). We hold 746 HMS student papers that were created from 1963 - 2011. Of these, 672 are open access, and 74 are restricted to use by Stanford-affiliated folks only."
-  },
-  {
-    "objectID": "index.html#potential-corpus",
-    "href": "index.html#potential-corpus",
-    "title": "Taxa Project",
-    "section": "Potential corpus",
-    "text": "Potential corpus\nThe undergraduate student research papers available for the Data Over Decades project number into the thousands once more papers in these collections have been fully digitized (see Table 1). These papers were created annually, over several decades, as the capstone project for students taking an applied research course at their respective research station. For the Taxa Project, we are using the set of open access papers from Hopkins Marine Station as our initial corpus.\n\n\n\nInstitution\nApprox. papers\nDate Range\nDigital\nOCR’d\nOpen Access\n\n\n\n\nBamfield Marine Sciences Centre (consortium)\n5,426 papers\n1973 - present\nNo\nNo\nNo\n\n\nFriday Harbor Labs, University of Washington\n5,000 papers; 2011-2020, 480 papers in hand\n1946 - present\nPre-2011 not scanned; 2011+ born-digital\n2011-2020, 480 papers\nPre-2011, No; 2011+ Yes\n\n\nHatfield Marine Science Center, Oregon State University\n400 papers\n1967 - present\nNo\nNo\nNo\n\n\nBodega Marine Laboratory, UC Davis\n3,800 papers\n1928 - present\nNo\nNo\nNo\n\n\nMoss Landing Marine Labs, San Jose State University\n630 theses\n1999 - present\nNo\nNo\nNo\n\n\nUC Berkeley (research conducted at Hopkins)\n239 papers\n1947 - 1952\nNo\nNo\nNo\n\n\nHopkins Marine Station, Stanford University\n746 papers\n1963 - 2011**\nYes\nYes\n672 Yes; 74 No\n\n\nWrigley Marine Science Center, USC, UCLA, Carleton College (corpus held at HMS Library)\n300 papers\n1970s - 2000\nYes\nYes\nNo\n\n\nUC Santa Cruz (corpus held at HMS Library)\n59 papers\n1973 - 2000\nYes\nYes\nNo\n\n\n\nTable 1. A list of project partners in the Data Over Decades project, with an approximate number of papers at each site.\nGoogle Map of library partners in the Data Over Decades project."
-  },
-  {
-    "objectID": "index.html#student-papers---from-paper-to-digital",
-    "href": "index.html#student-papers---from-paper-to-digital",
-    "title": "Taxa Project",
-    "section": "Student Papers - From Paper to Digital",
-    "text": "Student Papers - From Paper to Digital\nWe partnered with the Stanford Libraries Digital Production Group (DPG) to scan all of the Hopkins Marine Station student papers. The DPG is staffed by highly skilled professional imaging specialists and student assistants, and they have well-established workflows for capturing and processing digital content, and accessioning it into the Stanford Digital Repository (SDR). Their scanning process generated, for each page, a high-resolution JPEG 2000 for preservation, a medium resolution jpg for the catalog media viewer interface, an ALTO XML file, and a text-searchable PDF of the full paper. These files are all stored in Stanford Digital Repository (SDR) for preservation and access purposes.\nFor this phase of the project we will be working with the PDFs, but we plan to incorporate an open software image OCR step into our workflow so it will be more directly portable to our community of practice.\n\n💡 The following DPG staff contributed to the digitization and accessioning of the Hopkins Marine Station student papers: Katharine Dimitruk, Alexander Nguyen, Laura Nguyen, Linda Lam (supervisor)."
-  },
-  {
     "objectID": "content/add-content.html",
     "href": "content/add-content.html",
     "title": "Customize",
@@ -182,10 +154,66 @@
     "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
   },
   {
-    "objectID": "content/acknowledgements.html",
-    "href": "content/acknowledgements.html",
-    "title": "Acknowledgments",
+    "objectID": "content/rendering.html",
+    "href": "content/rendering.html",
+    "title": "Rendering",
     "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
+  },
+  {
+    "objectID": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "href": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "title": "Rendering",
+    "section": "Step 1. Make sure you have a recent RStudio",
+    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
+  },
+  {
+    "objectID": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "href": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "title": "Rendering",
+    "section": "Step 2. Clone and create RStudio project",
+    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
+  },
+  {
+    "objectID": "content/rendering.html#step-3.-render-within-rstudio",
+    "href": "content/rendering.html#step-3.-render-within-rstudio",
+    "title": "Rendering",
+    "section": "Step 3. Render within RStudio",
+    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
+  },
+  {
+    "objectID": "content/plan.html",
+    "href": "content/plan.html",
+    "title": "Plan of Action (updated June 28, 2023)",
+    "section": "",
+    "text": "Read the student papers and collect ground truth data (10 each)\nConversational Experiment making use of transformer LLM process for “assisted reading” of the papers\nIdentify entities & verify against authorities/knowledge bases\nInterface for validation of each species occurrence\nOCR process for other papers\n\n\n\nWe all develop a shared understanding of the papers and how they are structured (or not). Gather a list of questions that we can use to guide a conversational model.\n\n\n\nBuild an experiment with already OCR’d set of papers based on how we identified SPOCs in step 1\n\n\n\nOur early experiments with OpenAI model to identify entities was very successful. We think this additional step will help us in the verification process by: 1. Making sure that the entities align with results of assisted reading 2. Allow us access to alternate name forms, visual verification (pictures!) and geo-location\n\n\n\nThis step brings together the assisted reading with the entity (species, place, habitat, etc.) identification to help with the verification of the species occurrence."
+  },
+  {
+    "objectID": "content/plan.html#read-student-papers",
+    "href": "content/plan.html#read-student-papers",
+    "title": "Plan of Action (updated June 28, 2023)",
+    "section": "",
+    "text": "We all develop a shared understanding of the papers and how they are structured (or not). Gather a list of questions that we can use to guide a conversational model."
+  },
+  {
+    "objectID": "content/plan.html#conversational-experiment",
+    "href": "content/plan.html#conversational-experiment",
+    "title": "Plan of Action (updated June 28, 2023)",
+    "section": "",
+    "text": "Build an experiment with already OCR’d set of papers based on how we identified SPOCs in step 1"
+  },
+  {
+    "objectID": "content/plan.html#identify-entities",
+    "href": "content/plan.html#identify-entities",
+    "title": "Plan of Action (updated June 28, 2023)",
+    "section": "",
+    "text": "Our early experiments with OpenAI model to identify entities was very successful. We think this additional step will help us in the verification process by: 1. Making sure that the entities align with results of assisted reading 2. Allow us access to alternate name forms, visual verification (pictures!) and geo-location"
+  },
+  {
+    "objectID": "content/plan.html#interface-for-validation",
+    "href": "content/plan.html#interface-for-validation",
+    "title": "Plan of Action (updated June 28, 2023)",
+    "section": "",
+    "text": "This step brings together the assisted reading with the entity (species, place, habitat, etc.) identification to help with the verification of the species occurrence."
   }
 ]

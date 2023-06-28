@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>TAXA Project - Acknowledgments</title>
+<title>TAXA Project - Plan of Action (updated June 28, 2023)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,7 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/code.html" rel="prev">
+<link href="../content/customizing.html" rel="next">
+<link href="../index.html" rel="prev">
 <link href="../millerlogo.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -75,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/acknowledgements.html">Acknowledgements</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/plan.html">Add content</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -113,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/add-content.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/plan.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Add content</span></a>
   </div>
 </li>
@@ -143,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/acknowledgements.html" class="sidebar-item-text sidebar-link active">
+  <a href="../content/acknowledgements.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Acknowledgements</span></a>
   </div>
 </li>
@@ -153,14 +154,26 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#high-level-method" id="toc-high-level-method" class="nav-link active" data-scroll-target="#high-level-method">High Level Method</a>
+  <ul class="collapse">
+  <li><a href="#read-student-papers" id="toc-read-student-papers" class="nav-link" data-scroll-target="#read-student-papers">Read Student Papers</a></li>
+  <li><a href="#conversational-experiment" id="toc-conversational-experiment" class="nav-link" data-scroll-target="#conversational-experiment">Conversational Experiment</a></li>
+  <li><a href="#identify-entities" id="toc-identify-entities" class="nav-link" data-scroll-target="#identify-entities">Identify entities</a></li>
+  <li><a href="#interface-for-validation" id="toc-interface-for-validation" class="nav-link" data-scroll-target="#interface-for-validation">Interface for validation</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Miller-Library/taxa_webV2/edit/main/content/plan.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Miller-Library/taxa_webV2/blob/main/content/plan.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/Miller-Library/taxa_webV2/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Acknowledgments</h1>
+<h1 class="title">Plan of Action (updated June 28, 2023)</h1>
 </div>
 
 
@@ -175,9 +188,34 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>This repo and GitHub Action was based on the tutorial by Openscapes <a href="https://github.com/Openscapes/quarto-website-tutorial">quarto-website-tutorial</a> by Julia Lowndes and Stefanie Butland.</p>
+<section id="high-level-method" class="level1">
+<h1>High Level Method</h1>
+<ol type="1">
+<li>Read the student papers and collect ground truth data (10 each)</li>
+<li>Conversational Experiment making use of transformer LLM process for “assisted reading” of the papers</li>
+<li>Identify entities &amp; verify against authorities/knowledge bases</li>
+<li>Interface for validation of each species occurrence</li>
+<li>OCR process for other papers</li>
+</ol>
+<section id="read-student-papers" class="level2">
+<h2 class="anchored" data-anchor-id="read-student-papers">Read Student Papers</h2>
+<p>We all develop a shared understanding of the papers and how they are structured (or not). Gather a list of questions that we can use to guide a conversational model.</p>
+</section>
+<section id="conversational-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="conversational-experiment">Conversational Experiment</h2>
+<p>Build an experiment with already OCR’d set of papers based on how we identified SPOCs in step 1</p>
+</section>
+<section id="identify-entities" class="level2">
+<h2 class="anchored" data-anchor-id="identify-entities">Identify entities</h2>
+<p>Our early experiments with OpenAI model to identify entities was very successful. We think this additional step will help us in the verification process by: 1. Making sure that the entities align with results of assisted reading 2. Allow us access to alternate name forms, visual verification (pictures!) and geo-location</p>
+</section>
+<section id="interface-for-validation" class="level2">
+<h2 class="anchored" data-anchor-id="interface-for-validation">Interface for validation</h2>
+<p>This step brings together the assisted reading with the entity (species, place, habitat, etc.) identification to help with the verification of the species occurrence.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -530,11 +568,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/code.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Code in your files</span>
+      <a href="../index.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Home</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="../content/customizing.html" class="pagination-link">
+        <span class="nav-page-text">Customizing</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -543,7 +584,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">© CC-1.0</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Miller-Library/taxa_webV2/edit/main/content/acknowledgements.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Miller-Library/taxa_webV2/blob/main/content/acknowledgements.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/Miller-Library/taxa_webV2/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    </div>
     <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
