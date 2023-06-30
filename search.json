@@ -221,13 +221,20 @@
     "href": "content/experiments.html",
     "title": "Experiments",
     "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start wit"
+    "text": "A foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few random student paper (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This is what we found."
   },
   {
     "objectID": "content/experiments.html#getting-to-know-llms-and-langchain",
     "href": "content/experiments.html#getting-to-know-llms-and-langchain",
     "title": "Experiments",
     "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start wit"
+    "text": "A foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few random student paper (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This is what we found."
+  },
+  {
+    "objectID": "content/experiments.html#chat-my-data-boxing_glove-chatpdf-boxing_glove-ask-my-pdf",
+    "href": "content/experiments.html#chat-my-data-boxing_glove-chatpdf-boxing_glove-ask-my-pdf",
+    "title": "Experiments",
+    "section": "Chat My Data :boxing_glove: ChatPDF :boxing_glove: Ask My PDF",
+    "text": "Chat My Data :boxing_glove: ChatPDF :boxing_glove: Ask My PDF"
   }
 ]
