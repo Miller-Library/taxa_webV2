@@ -36,7 +36,7 @@ website:
       - href: content/plan.qmd
         text: Project Plan
       - href: content/experiments.qmd
-        text: Experiemnts
+        text: Experiments
 
 format:
   html:
