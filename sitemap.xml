@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/Miller-Library/taxa-project/index.html</loc>
-    <lastmod>2023-07-05T18:06:50.715Z</lastmod>
+    <loc>https://github.com/Miller-Library/taxa-project/content/rmarkdown.html</loc>
+    <lastmod>2023-07-05T18:23:59.705Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/plan.html</loc>
-    <lastmod>2023-07-05T18:06:49.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Miller-Library/taxa-project/content/rendering.html</loc>
-    <lastmod>2023-07-05T18:06:47.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Miller-Library/taxa-project/content/publishing.html</loc>
-    <lastmod>2023-07-05T18:06:45.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Miller-Library/taxa-project/content/add-content.html</loc>
-    <lastmod>2023-07-05T18:06:42.731Z</lastmod>
+    <lastmod>2023-07-05T18:23:57.793Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/customizing.html</loc>
-    <lastmod>2023-07-05T18:06:44.975Z</lastmod>
+    <lastmod>2023-07-05T18:23:57.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Miller-Library/taxa-project/content/add-content.html</loc>
+    <lastmod>2023-07-05T18:23:56.289Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Miller-Library/taxa-project/index.html</loc>
+    <lastmod>2023-07-05T18:23:52.965Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/code.html</loc>
-    <lastmod>2023-07-05T18:06:46.883Z</lastmod>
+    <lastmod>2023-07-05T18:23:55.925Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Miller-Library/taxa-project/content/rmarkdown.html</loc>
-    <lastmod>2023-07-05T18:06:49.147Z</lastmod>
+    <loc>https://github.com/Miller-Library/taxa-project/content/publishing.html</loc>
+    <lastmod>2023-07-05T18:23:56.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Miller-Library/taxa-project/content/rendering.html</loc>
+    <lastmod>2023-07-05T18:23:57.401Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/experiments.html</loc>
-    <lastmod>2023-07-05T18:06:50.043Z</lastmod>
+    <lastmod>2023-07-05T18:23:58.177Z</lastmod>
   </url>
 </urlset>
