@@ -14,8 +14,9 @@ website:
     left: "&copy; CC-1.0"
 
   sidebar:
+    title: "TAXA Project"
     background: "#D9E3E4"
-    logo: "https://github.com/Miller-Library/taxa_webV2/blob/main/millerlogo.png"
+    logo: "images/millerlogo.png"
     favicon: millerlogo.ico
     pinned: true
     align: center
