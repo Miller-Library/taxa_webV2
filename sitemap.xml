@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/rmarkdown.html</loc>
-    <lastmod>2023-07-12T21:26:04.180Z</lastmod>
+    <lastmod>2023-07-26T21:23:12.576Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/plan.html</loc>
-    <lastmod>2023-07-12T21:26:01.856Z</lastmod>
+    <lastmod>2023-07-26T21:23:10.444Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/customizing.html</loc>
-    <lastmod>2023-07-12T21:26:00.668Z</lastmod>
+    <lastmod>2023-07-26T21:23:09.299Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/add-content.html</loc>
-    <lastmod>2023-07-12T21:25:59.816Z</lastmod>
+    <lastmod>2023-07-26T21:23:08.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Miller-Library/taxa-project/architectures.html</loc>
+    <lastmod>2023-07-26T21:23:06.783Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/index.html</loc>
-    <lastmod>2023-07-12T21:25:56.016Z</lastmod>
+    <lastmod>2023-07-26T21:23:04.259Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/code.html</loc>
-    <lastmod>2023-07-12T21:25:59.404Z</lastmod>
+    <lastmod>2023-07-26T21:23:08.095Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/publishing.html</loc>
-    <lastmod>2023-07-12T21:26:00.256Z</lastmod>
+    <lastmod>2023-07-26T21:23:08.891Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/rendering.html</loc>
-    <lastmod>2023-07-12T21:26:01.072Z</lastmod>
+    <lastmod>2023-07-26T21:23:09.700Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Miller-Library/taxa-project/content/experiments.html</loc>
-    <lastmod>2023-07-12T21:26:02.348Z</lastmod>
+    <lastmod>2023-07-26T21:23:10.848Z</lastmod>
   </url>
 </urlset>
