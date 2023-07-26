@@ -1,7 +1,8 @@
 ---
 title: Plan of Action (updated June 28, 2023)
-execute:
-  echo: false
+format:
+  html: 
+	code-fold: true
 ---
 
 # High Level Method 
