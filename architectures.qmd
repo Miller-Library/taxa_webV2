@@ -1,0 +1,95 @@
+---
+title: "Architecture options for taxa"
+author: Nicole
+date: "July 12, 2023"
+format:
+  html:
+    toc: false
+    echo: false
+    keep-hidden: true
+    code-tools: true
+
+---
+
+# Optional Architectures
+These are some of the options we want to try out and compare. The yellow lines indicate possible alternates.
+
+
+```{ojs}
+
+neato`
+digraph {
+    labelloc = "b"
+    fontname = Arial
+    node [
+        shape = rectangle
+        width = 1.5
+        color= lightgray
+        style = filled
+        fontname="Helvetica,Arial,sans-serif"
+    ]
+    edge [
+    len = 2 
+    penwidth = 1.5 
+    arrowhead=open
+    color= darkgray
+  ]
+    start = regular
+    normalize = 0
+
+    subgraph cluster_0 {
+        style=filled;
+        color= deepskyblue;
+        node [style=filled,color=white];
+        SentenceTransformers -> SentenceTransformerEmbeddings -> Annoy -> MultiQueryRetriever;
+        label = "Option #1";
+    }
+
+    subgraph cluster_1 {
+        style=filled;
+        color= yellowgreen;
+        node [style=filled,color=white];
+        TikToken -> OpenAIEmbeddings -> FAISS -> ContextualCompression;
+        label = "Option #2";
+    }
+
+subgraph cluster_2 {
+        style=filled;
+        color= orange;
+        node [style=filled,color=white];
+        NLTK -> LlamaCCP -> Pinecone -> PineconeSelfQuerying;
+        label = "Option #3";
+    }
+
+subgraph cluster_3 {
+        style=filled;
+        color= deeppink;
+        node [style=filled,color=white];
+        SpaCY -> SpaCYEmbeddings -> Chroma -> ChromaSelfQuerying;
+        label = "Option #4";
+    }
+
+
+    source -> PyMuPDF;
+  PyMuPDF -> SentenceTransformers;
+  PyMuPDF -> TikToken;
+  PyMuPDF -> NLTK;
+  PyMuPDF -> SpaCY;
+    FAISS -> MultiQueryRetriever [color = yellow]
+  Annoy -> ContextualCompression [color = yellow]
+  LlamaCCP -> FAISS [color = yellow]
+  LlamaCCP -> Chroma [color = yellow] 
+  SpaCYEmbeddings -> Pinecone [color = yellow] 
+  OpenAIEmbeddings -> Annoy [color = yellow] 
+
+    source [shape=Msquare];
+}
+`
+
+
+```
+
+```{ojs}
+neato = require("@observablehq/graphviz@0.2")
+
+```
