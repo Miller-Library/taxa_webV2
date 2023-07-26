@@ -1,5 +1,7 @@
 ---
 title: Plan of Action (updated June 28, 2023)
+execute:
+  echo: false
 ---
 
 # High Level Method 
@@ -16,7 +18,89 @@ title: Plan of Action (updated June 28, 2023)
 We all develop a shared understanding of the papers and how they are structured (or not). Gather a list of questions that we can use to guide a conversational model.
 
 ## Conversational Experiment
-Build an experiment with already OCR'd set of papers based on how we identified SPOCs in step 1
+Build an experiment with already OCR'd set of papers based on how we identified SPOCs in step 1.
+
+### Some Options
+
+- Index all of the documents, ask for all the species occurrences across all the docs, in a list, with citation in the paper (paper ID, page). A button next to each one shows the excerpts from the paper with the evidence, highlighted. Link to review the full highlighted paper if necessary. 
+- Complex prompt to return dense chunks of information with species name, location, depth, habitat, etc. with explanation of the information source. 
+- Conversational verification, one paper at a time. Prompt for the first best guess at SPOCs from the given paper, further interrogation (memory required) to verify.
+
+```{ojs}
+
+neato`
+digraph {
+	labelloc = "b"
+	fontname = Arial
+	node [
+		shape = rectangle
+		width = 1.5
+		color= lightgray
+		style = filled
+		fontname="Helvetica,Arial,sans-serif"
+	]
+	edge [
+    len = 2 
+    penwidth = 1.5 
+    arrowhead=open
+    color= darkgray
+  ]
+	start = regular
+	normalize = 0
+
+	subgraph cluster_0 {
+		style=filled;
+		color= deepskyblue;
+		node [style=filled,color=white];
+		SentenceTransformers -> SentenceTransformerEmbeddings -> Annoy -> MultiQueryRetriever;
+		label = "Option #1";
+	}
+
+	subgraph cluster_1 {
+		style=filled;
+		color= yellowgreen;
+		node [style=filled,color=white];
+		TikToken -> OpenAIEmbeddings -> FAISS -> ContextualCompression;
+		label = "Option #2";
+	}
+
+subgraph cluster_2 {
+		style=filled;
+		color= orange;
+		node [style=filled,color=white];
+		NLTK -> LlamaCCP -> Pinecone -> PineconeSelfQuerying;
+		label = "Option #3";
+	}
+
+subgraph cluster_3 {
+		style=filled;
+		color= deeppink;
+		node [style=filled,color=white];
+		SpaCY -> SpaCYEmbeddings -> Chroma -> ChromaSelfQuerying;
+		label = "Option #4";
+	}
+
+
+	source -> PyMuPDF;
+  PyMuPDF -> SentenceTransformers;
+  PyMuPDF -> TikToken;
+  PyMuPDF -> NLTK;
+  PyMuPDF -> SpaCY;
+	FAISS -> MultiQueryRetriever [color = yellow]
+  Annoy -> ContextualCompression [color = yellow]
+  LlamaCCP -> FAISS [color = yellow]
+  LlamaCCP -> Chroma [color = yellow] 
+  SpaCYEmbeddings -> Pinecone [color = yellow] 
+  OpenAIEmbeddings -> Annoy [color = yellow] 
+
+	source [shape=Msquare];
+}
+`
+```
+
+```{ojs}
+neato = require("@observablehq/graphviz@0.2")
+```
 
 ## Identify entities
 Our early experiments with OpenAI model to identify entities was very successful. We think this additional step will help us in the verification process by: 1. Making sure that the entities align with results of assisted reading 2. Allow us access to alternate name forms, visual verification (pictures!) and geo-location

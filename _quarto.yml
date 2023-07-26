@@ -14,8 +14,9 @@ website:
     left: "&copy; CC-1.0"
 
   sidebar:
+    title: "TAXA Project"
     background: "#D9E3E4"
-    logo: "https://github.com/Miller-Library/taxa_webV2/blob/main/millerlogo.png"
+    logo: "images/millerlogo.png"
     favicon: millerlogo.ico
     pinned: true
     align: center
@@ -34,17 +35,9 @@ website:
       - href: index.qmd
         text: Home
       - href: content/plan.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+        text: Project Plan
+      - href: content/experiments.qmd
+        text: Experiments
 
 format:
   html:
