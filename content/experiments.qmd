@@ -25,7 +25,7 @@ The first question we gave to each chat tool was, "*What is this paper about?*"
 
 ## Testing Architectures
 
-Having experimented with prompts across some pre-made conversational tools, the next step is to explore different combinations of tools/methods for 1. Text splitting, 2. Embeddings, 3. Vector store, 4. Vector store query. We came up with four main options (below) with some possible variations (see the yellow arrows).
+Having experimented with prompts across some pre-made conversational tools, the next step is to explore different combinations of tools/methods for 1. Load, 2. Transform (Text splitting), 3. Embed, 4. Store, 5. Retrieve (Vector store query). We came up with four main options (below) with some possible variations (see the yellow arrows).
 ```{ojs}
 
 neato`
