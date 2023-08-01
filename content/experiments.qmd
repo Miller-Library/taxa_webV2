@@ -68,7 +68,7 @@ subgraph cluster_2 {
 		style=filled;
 		color= orange;
 		node [style=filled,color=white];
-		NLTK -> LlamaCCP -> Pinecone -> PineconeSelfQuerying;
+		NLTK -> LlamaCCP -> Chroma -> ChromaSelfQuerying;
 		label = "Option #3";
 	}
 
