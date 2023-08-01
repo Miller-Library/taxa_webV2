@@ -15,7 +15,7 @@ website:
 
   sidebar:
     title: "TAXA Project"
-    background: "#D9E3E4"
+    background: "#ffffff"
     logo: "images/millerlogo.png"
     favicon: millerlogo.ico
     pinned: true
