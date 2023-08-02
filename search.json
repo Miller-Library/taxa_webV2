@@ -112,8 +112,8 @@
     "text": "Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.\nKnowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake."
   },
   {
-    "objectID": "index.html#motivation-for-project",
-    "href": "index.html#motivation-for-project",
+    "objectID": "index.html#motivations-for-project",
+    "href": "index.html#motivations-for-project",
     "title": "Taxa Project",
     "section": "",
     "text": "Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them. Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.\nKnowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake."
@@ -123,7 +123,7 @@
     "href": "index.html#goals-for-project",
     "title": "Taxa Project",
     "section": "Goals for Project",
-    "text": "Goals for Project\nThe goal of this project is to employ natural language processing, machine learning, and data visualization to amplify the work of librarians in identifying and verifying these observations.\nTo develop a dataset of species occurrences (a species at a given place at a specific time), we need to identify and extract scientifically relevant entities from the corpus. These entities include:\n\nTaxonomic names\nLocation(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) or latitude/longitude\nA date when the species was observed\n\nOptionally, as supporting information, we can extract habitat type(s) (e.g., “subtidal”) from the text, too."
+    "text": "Goals for Project\nThe goal of this project is to employ natural language processing, machine learning, and data visualization to amplify the work of librarians in identifying and verifying these observations.\nTo develop a dataset of species occurrences (a species at a given place at a specific time), we need to identify and extract scientifically relevant entities from the corpus. These entities include:\n\nTaxonomic names\nLocation(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) and/or latitude/longitude\nA date when the species was observed\n\nOptionally, as supporting information, we can extract habitat type(s) (e.g., “subtidal”) from the text, too."
   },
   {
     "objectID": "index.html#student-papers-spanning-the-west-coast-of-north-america",
