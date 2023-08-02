@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "content/experiments_1.html",
+    "href": "content/experiments_1.html",
+    "title": "Experiments",
+    "section": "",
+    "text": "A foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurrence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few student papers at random (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This was our process and what we found."
+  },
+  {
+    "objectID": "content/experiments_1.html#getting-to-know-llms-and-langchain",
+    "href": "content/experiments_1.html#getting-to-know-llms-and-langchain",
+    "title": "Experiments",
+    "section": "",
+    "text": "A foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurrence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few student papers at random (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This was our process and what we found."
+  },
+  {
+    "objectID": "content/experiments_1.html#tools-we-tried",
+    "href": "content/experiments_1.html#tools-we-tried",
+    "title": "Experiments",
+    "section": "Tools we tried",
+    "text": "Tools we tried\n\nChat My Data 📝 ChatPDF 📝 Ask My PDF\n\nChat My Data is here: https://blog.langchain.dev/tutorial-chatgpt-over-your-data/\nChatPDF is here: https://www.chatpdf.com/\nAsk My PDF is here: https://ask-my-pdf.streamlit.app/\n\nThe first question we gave to each chat tool was, “What is this paper about?”\n\n\n\n\n\n\n\n\n\n\nModel\nPaper\nWhat is this paper about?\nSummarize the paper concisely with reference to materials and methods.\n\n\n\n\n0\nPDF GPT\nfhl_2014_Charifson_34622.pdf; Snail Predation ...\nThis paper is about the potential for charact...\nThe paper discussed the morphometrics and con...\n\n\n1\nChat Your Data\nfhl_2014_Charifson_34622.pdf; Snail Predation ...\nThe paper is about an experimental study that ...\nThe paper acknowledges the support and facilit...\n\n\n2\nAsk My PDF\nfhl_2014_Charifson_34622.pdf; Snail Predation ...\nThe paper is about the relationship between pr...\nThe paper investigates the relationship betwee...\n\n\n\n\n\nComparing results for initial questions across the three tools.\n\n\nSource: experiments.ipynb"
+  },
+  {
+    "objectID": "content/experiments_1.html#testing-architectures",
+    "href": "content/experiments_1.html#testing-architectures",
+    "title": "Experiments",
+    "section": "Testing Architectures",
+    "text": "Testing Architectures\nHaving experimented with prompts across some pre-made conversational tools, the next step is to explore different combinations of tools/methods for 1. Load, 2. Transform (Text splitting), 3. Embed, 4. Store, 5. Retrieve (Vector store query). We came up with four main options (below) with some possible variations (see the yellow arrows).\n\n\nCode\nneato`\ndigraph {\n    labelloc = \"b\"\n    fontname = Arial\n    node [\n        shape = rectangle\n        width = 1.5\n        color= lightgray\n        style = filled\n        fontname=\"Helvetica,Arial,sans-serif\"\n    ]\n    edge [\n    len = 2 \n    penwidth = 1.5 \n    arrowhead=open\n    color= darkgray\n  ]\n    start = regular\n    normalize = 0\n\n    subgraph cluster_0 {\n        style=filled;\n        color= deepskyblue;\n        node [style=filled,color=white];\n        SentenceTransformers -&gt; SentenceTransformerEmbeddings -&gt; Annoy -&gt; MultiQueryRetriever;\n        label = \"Option #1\";\n    }\n\n    subgraph cluster_1 {\n        style=filled;\n        color= yellowgreen;\n        node [style=filled,color=white];\n        TikToken -&gt; OpenAIEmbeddings -&gt; FAISS -&gt; ContextualCompression;\n        label = \"Option #2\";\n    }\n\nsubgraph cluster_2 {\n        style=filled;\n        color= orange;\n        node [style=filled,color=white];\n        NLTK -&gt; LlamaCCP -&gt; Chroma -&gt; ChromaSelfQuerying;\n        label = \"Option #3\";\n    }\n\nsubgraph cluster_3 {\n        style=filled;\n        color= deeppink;\n        node [style=filled,color=white];\n        SpaCY -&gt; SpaCYEmbeddings;\n        label = \"Option #4\";\n    }\n\n\n    source -&gt; PyMuPDF;\n  PyMuPDF -&gt; SentenceTransformers;\n  PyMuPDF -&gt; TikToken;\n  PyMuPDF -&gt; NLTK;\n  PyMuPDF -&gt; SpaCY;\n    FAISS -&gt; MultiQueryRetriever [color = yellow]\n  Annoy -&gt; ContextualCompression [color = yellow]\n  LlamaCCP -&gt; FAISS [color = yellow]\n  SpaCYEmbeddings -&gt; Chroma [color = yellow] \n  OpenAIEmbeddings -&gt; Annoy [color = yellow] \n\n    source [shape=Msquare];\n}\n`\n\n\n\n\n\n\n\n\n\nCode\nneato = require(\"@observablehq/graphviz@0.2\")"
+  },
+  {
+    "objectID": "content/add-content.html",
+    "href": "content/add-content.html",
+    "title": "Customize",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
+  },
+  {
+    "objectID": "content/add-content.html#edit-and-add-your-pages",
+    "href": "content/add-content.html#edit-and-add-your-pages",
+    "title": "Customize",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
+  },
+  {
+    "objectID": "content/add-content.html#add-your-pages-the-project",
+    "href": "content/add-content.html#add-your-pages-the-project",
+    "title": "Customize",
+    "section": "Add your pages the project",
+    "text": "Add your pages the project\n\nAdd the files to _quarto.yml"
+  },
+  {
     "objectID": "content/rmarkdown.html",
     "href": "content/rmarkdown.html",
     "title": "R Markdown",
@@ -56,53 +105,25 @@
     "text": "This step brings together the assisted reading with the entity (species, place, habitat, etc.) identification to help with the verification of the species occurrence."
   },
   {
-    "objectID": "content/customizing.html",
-    "href": "content/customizing.html",
-    "title": "Customization",
+    "objectID": "content/experiments.html",
+    "href": "content/experiments.html",
+    "title": "experiments",
     "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+    "text": "pip install pandas"
   },
   {
-    "objectID": "content/customizing.html#quarto-documentation",
-    "href": "content/customizing.html#quarto-documentation",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+    "objectID": "content/experiments.html#getting-to-know-llms-and-langchain",
+    "href": "content/experiments.html#getting-to-know-llms-and-langchain",
+    "title": "experiments",
+    "section": "Getting to know LLMs and LangChain",
+    "text": "Getting to know LLMs and LangChain\nA foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurrence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few student papers at random (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This was our process and what we found."
   },
   {
-    "objectID": "content/customizing.html#examples",
-    "href": "content/customizing.html#examples",
-    "title": "Customization",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
-  },
-  {
-    "objectID": "content/add-content.html",
-    "href": "content/add-content.html",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
-  },
-  {
-    "objectID": "content/add-content.html#edit-and-add-your-pages",
-    "href": "content/add-content.html#edit-and-add-your-pages",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
-  },
-  {
-    "objectID": "content/add-content.html#add-your-pages-the-project",
-    "href": "content/add-content.html#add-your-pages-the-project",
-    "title": "Customize",
-    "section": "Add your pages the project",
-    "text": "Add your pages the project\n\nAdd the files to _quarto.yml"
-  },
-  {
-    "objectID": "architectures.html",
-    "href": "architectures.html",
-    "title": "Architecture options for taxa",
-    "section": "",
-    "text": "Optional Architectures\nThese are some of the options we want to try out and compare. The yellow lines indicate possible alternates.\n\nneato`\ndigraph {\n    labelloc = \"b\"\n    fontname = Arial\n    node [\n        shape = rectangle\n        width = 1.5\n        color= lightgray\n        style = filled\n        fontname=\"Helvetica,Arial,sans-serif\"\n    ]\n    edge [\n    len = 2 \n    penwidth = 1.5 \n    arrowhead=open\n    color= darkgray\n  ]\n    start = regular\n    normalize = 0\n\n    subgraph cluster_0 {\n        style=filled;\n        color= deepskyblue;\n        node [style=filled,color=white];\n        SentenceTransformers -&gt; SentenceTransformerEmbeddings -&gt; Annoy -&gt; MultiQueryRetriever;\n        label = \"Option #1\";\n    }\n\n    subgraph cluster_1 {\n        style=filled;\n        color= yellowgreen;\n        node [style=filled,color=white];\n        TikToken -&gt; OpenAIEmbeddings -&gt; FAISS -&gt; ContextualCompression;\n        label = \"Option #2\";\n    }\n\nsubgraph cluster_2 {\n        style=filled;\n        color= orange;\n        node [style=filled,color=white];\n        NLTK -&gt; LlamaCCP -&gt; Pinecone -&gt; PineconeSelfQuerying;\n        label = \"Option #3\";\n    }\n\nsubgraph cluster_3 {\n        style=filled;\n        color= deeppink;\n        node [style=filled,color=white];\n        SpaCY -&gt; SpaCYEmbeddings -&gt; Chroma -&gt; ChromaSelfQuerying;\n        label = \"Option #4\";\n    }\n\n\n    source -&gt; PyMuPDF;\n  PyMuPDF -&gt; SentenceTransformers;\n  PyMuPDF -&gt; TikToken;\n  PyMuPDF -&gt; NLTK;\n  PyMuPDF -&gt; SpaCY;\n    FAISS -&gt; MultiQueryRetriever [color = yellow]\n  Annoy -&gt; ContextualCompression [color = yellow]\n  LlamaCCP -&gt; FAISS [color = yellow]\n  LlamaCCP -&gt; Chroma [color = yellow] \n  SpaCYEmbeddings -&gt; Pinecone [color = yellow] \n  OpenAIEmbeddings -&gt; Annoy [color = yellow] \n\n    source [shape=Msquare];\n}\n`\n\n\n\n\n\n\n\nneato = require(\"@observablehq/graphviz@0.2\")"
+    "objectID": "content/experiments.html#tools-we-tried",
+    "href": "content/experiments.html#tools-we-tried",
+    "title": "experiments",
+    "section": "Tools we tried",
+    "text": "Tools we tried\n\nChat My Data 📝 ChatPDF 📝 Ask My PDF\n\nChat My Data\nChatPDF\nAsk My PDF\n\nThe first question we gave to each chat tool was, “What is this paper about?”"
   },
   {
     "objectID": "index.html",
@@ -147,53 +168,11 @@
     "text": "Student Papers - From Paper to Digital\nWe partnered with the Stanford Libraries Digital Production Group (DPG) to scan all of the Hopkins Marine Station student papers. The DPG is staffed by highly skilled professional imaging specialists and student assistants, and they have well-established workflows for capturing and processing digital content, and accessioning it into the Stanford Digital Repository (SDR). Their scanning process generated, for each page, a high-resolution JPEG 2000 for preservation, a medium resolution jpg for the catalog media viewer interface, an ALTO XML file, and a text-searchable PDF of the full paper. These files are all stored in Stanford Digital Repository (SDR) for preservation and access purposes.\nFor this phase of the project we will be working with the PDFs, but we plan to incorporate an open software image OCR step into our workflow so it will be more directly portable to our community of practice.\n\n💡 The following DPG staff contributed to the digitization and accessioning of the Hopkins Marine Station student papers: Katharine Dimitruk, Alexander Nguyen, Laura Nguyen, Linda Lam (supervisor)."
   },
   {
-    "objectID": "content/code.html",
-    "href": "content/code.html",
-    "title": "Rendering with Code",
+    "objectID": "architectures.html",
+    "href": "architectures.html",
+    "title": "Architecture options for taxa",
     "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
-  },
-  {
-    "objectID": "content/code.html#modify-the-github-action",
-    "href": "content/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
-  },
-  {
-    "objectID": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
-  },
-  {
-    "objectID": "content/publishing.html",
-    "href": "content/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/publishing.html#dont-like-using-gh-pages",
-    "href": "content/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+    "text": "Optional Architectures\nThese are some of the options we want to try out and compare. The yellow lines indicate possible alternates.\n\nneato`\ndigraph {\n    labelloc = \"b\"\n    fontname = Arial\n    node [\n        shape = rectangle\n        width = 1.5\n        color= lightgray\n        style = filled\n        fontname=\"Helvetica,Arial,sans-serif\"\n    ]\n    edge [\n    len = 2 \n    penwidth = 1.5 \n    arrowhead=open\n    color= darkgray\n  ]\n    start = regular\n    normalize = 0\n\n    subgraph cluster_0 {\n        style=filled;\n        color= deepskyblue;\n        node [style=filled,color=white];\n        SentenceTransformers -&gt; SentenceTransformerEmbeddings -&gt; Annoy -&gt; MultiQueryRetriever;\n        label = \"Option #1\";\n    }\n\n    subgraph cluster_1 {\n        style=filled;\n        color= yellowgreen;\n        node [style=filled,color=white];\n        TikToken -&gt; OpenAIEmbeddings -&gt; FAISS -&gt; ContextualCompression;\n        label = \"Option #2\";\n    }\n\nsubgraph cluster_2 {\n        style=filled;\n        color= orange;\n        node [style=filled,color=white];\n        NLTK -&gt; LlamaCCP -&gt; Pinecone -&gt; PineconeSelfQuerying;\n        label = \"Option #3\";\n    }\n\nsubgraph cluster_3 {\n        style=filled;\n        color= deeppink;\n        node [style=filled,color=white];\n        SpaCY -&gt; SpaCYEmbeddings -&gt; Chroma -&gt; ChromaSelfQuerying;\n        label = \"Option #4\";\n    }\n\n\n    source -&gt; PyMuPDF;\n  PyMuPDF -&gt; SentenceTransformers;\n  PyMuPDF -&gt; TikToken;\n  PyMuPDF -&gt; NLTK;\n  PyMuPDF -&gt; SpaCY;\n    FAISS -&gt; MultiQueryRetriever [color = yellow]\n  Annoy -&gt; ContextualCompression [color = yellow]\n  LlamaCCP -&gt; FAISS [color = yellow]\n  LlamaCCP -&gt; Chroma [color = yellow] \n  SpaCYEmbeddings -&gt; Pinecone [color = yellow] \n  OpenAIEmbeddings -&gt; Annoy [color = yellow] \n\n    source [shape=Msquare];\n}\n`\n\n\n\n\n\n\n\nneato = require(\"@observablehq/graphviz@0.2\")"
   },
   {
     "objectID": "content/rendering.html",
@@ -224,31 +203,73 @@
     "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
   },
   {
-    "objectID": "content/experiments.html",
-    "href": "content/experiments.html",
-    "title": "Experiments",
+    "objectID": "content/publishing.html",
+    "href": "content/publishing.html",
+    "title": "Publishing",
     "section": "",
-    "text": "A foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurrence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few student papers at random (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This was our process and what we found."
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
   },
   {
-    "objectID": "content/experiments.html#getting-to-know-llms-and-langchain",
-    "href": "content/experiments.html#getting-to-know-llms-and-langchain",
-    "title": "Experiments",
+    "objectID": "content/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/publishing.html#dont-like-using-gh-pages",
+    "href": "content/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+  },
+  {
+    "objectID": "content/code.html",
+    "href": "content/code.html",
+    "title": "Rendering with Code",
     "section": "",
-    "text": "A foundational element of using LangChain as a wrapper for large language models (LLMs) like GPT4 is the prompt. A prompt in the LLM context is just like a prompt in the usual context: it’s a thoughtfully designed question meant to elicit a response. If you want to use an LLM to explore text, it is critically important to design an effective prompt that will help the model generate accurate and helpful responses. We are exploring the use of LLMs to help us “read” undergraduate student research papers in marine science and figure out if the paper contains a species occurrence. That is, did the student observe or collect a given species at a given place during the course of their research? If they did, that kind of information is a species occurrence (species + place + date).\nTo explore the potential for using LLMs in this work, we selected a few online tools that are designed to help the user ask questions about text provided to the application. We picked a few student papers at random (all open access) and iterated on a series of questions to learn how to engineer prompts that might give us the information we need to determine if a paper includes a species occurrence. This was our process and what we found."
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
   },
   {
-    "objectID": "content/experiments.html#tools-we-tried",
-    "href": "content/experiments.html#tools-we-tried",
-    "title": "Experiments",
-    "section": "Tools we tried",
-    "text": "Tools we tried\n\nChat My Data 📝 ChatPDF 📝 Ask My PDF\n\nChat My Data is here: https://blog.langchain.dev/tutorial-chatgpt-over-your-data/\nChatPDF is here: https://www.chatpdf.com/\nAsk My PDF is here: https://ask-my-pdf.streamlit.app/\n\nThe first question we gave to each chat tool was, “What is this paper about?”"
+    "objectID": "content/code.html#modify-the-github-action",
+    "href": "content/code.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
   },
   {
-    "objectID": "content/experiments.html#testing-architectures",
-    "href": "content/experiments.html#testing-architectures",
-    "title": "Experiments",
-    "section": "Testing Architectures",
-    "text": "Testing Architectures\nHaving experimented with prompts across some pre-made conversational tools, the next step is to explore different combinations of tools/methods for 1. Load, 2. Transform (Text splitting), 3. Embed, 4. Store, 5. Retrieve (Vector store query). We came up with four main options (below) with some possible variations (see the yellow arrows).\n\n\nCode\nneato`\ndigraph {\n    labelloc = \"b\"\n    fontname = Arial\n    node [\n        shape = rectangle\n        width = 1.5\n        color= lightgray\n        style = filled\n        fontname=\"Helvetica,Arial,sans-serif\"\n    ]\n    edge [\n    len = 2 \n    penwidth = 1.5 \n    arrowhead=open\n    color= darkgray\n  ]\n    start = regular\n    normalize = 0\n\n    subgraph cluster_0 {\n        style=filled;\n        color= deepskyblue;\n        node [style=filled,color=white];\n        SentenceTransformers -&gt; SentenceTransformerEmbeddings -&gt; Annoy -&gt; MultiQueryRetriever;\n        label = \"Option #1\";\n    }\n\n    subgraph cluster_1 {\n        style=filled;\n        color= yellowgreen;\n        node [style=filled,color=white];\n        TikToken -&gt; OpenAIEmbeddings -&gt; FAISS -&gt; ContextualCompression;\n        label = \"Option #2\";\n    }\n\nsubgraph cluster_2 {\n        style=filled;\n        color= orange;\n        node [style=filled,color=white];\n        NLTK -&gt; LlamaCCP -&gt; Chroma -&gt; ChromaSelfQuerying;\n        label = \"Option #3\";\n    }\n\nsubgraph cluster_3 {\n        style=filled;\n        color= deeppink;\n        node [style=filled,color=white];\n        SpaCY -&gt; SpaCYEmbeddings -&gt; Chroma -&gt; ChromaSelfQuerying;\n        label = \"Option #4\";\n    }\n\n\n    source -&gt; PyMuPDF;\n  PyMuPDF -&gt; SentenceTransformers;\n  PyMuPDF -&gt; TikToken;\n  PyMuPDF -&gt; NLTK;\n  PyMuPDF -&gt; SpaCY;\n    FAISS -&gt; MultiQueryRetriever [color = yellow]\n  Annoy -&gt; ContextualCompression [color = yellow]\n  LlamaCCP -&gt; FAISS [color = yellow]\n  LlamaCCP -&gt; Chroma [color = yellow] \n  SpaCYEmbeddings -&gt; Pinecone [color = yellow] \n  OpenAIEmbeddings -&gt; Annoy [color = yellow] \n\n    source [shape=Msquare];\n}\n`\n\n\n\n\n\n\n\n\n\nCode\nneato = require(\"@observablehq/graphviz@0.2\")"
+    "objectID": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+  },
+  {
+    "objectID": "content/customizing.html",
+    "href": "content/customizing.html",
+    "title": "Customization",
+    "section": "",
+    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+  },
+  {
+    "objectID": "content/customizing.html#quarto-documentation",
+    "href": "content/customizing.html#quarto-documentation",
+    "title": "Customization",
+    "section": "",
+    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+  },
+  {
+    "objectID": "content/customizing.html#examples",
+    "href": "content/customizing.html#examples",
+    "title": "Customization",
+    "section": "Examples",
+    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
   }
 ]
