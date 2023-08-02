@@ -3,9 +3,8 @@
 .RData
 .Ruserdata
 *.Rproj
-
+.ipynb_checkpoints
 .DS_Store
 /.quarto/
 /_site/
-/.ipynb_checkpoints/
 /.github/
