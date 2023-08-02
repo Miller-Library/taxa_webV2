@@ -23,6 +23,10 @@ To explore the potential for using LLMs in this work, we selected a few online t
 
 The first question we gave to each chat tool was, "*What is this paper about?*"
 
+{{< embed experiments.ipynb#tools-test >}}
+
+
+
 ## Testing Architectures
 
 Having experimented with prompts across some pre-made conversational tools, the next step is to explore different combinations of tools/methods for 1. Load, 2. Transform (Text splitting), 3. Embed, 4. Store, 5. Retrieve (Vector store query). We came up with four main options (below) with some possible variations (see the yellow arrows).
@@ -76,7 +80,7 @@ subgraph cluster_3 {
 		style=filled;
 		color= deeppink;
 		node [style=filled,color=white];
-		SpaCY -> SpaCYEmbeddings -> Chroma -> ChromaSelfQuerying;
+		SpaCY -> SpaCYEmbeddings;
 		label = "Option #4";
 	}
 
@@ -89,8 +93,7 @@ subgraph cluster_3 {
 	FAISS -> MultiQueryRetriever [color = yellow]
   Annoy -> ContextualCompression [color = yellow]
   LlamaCCP -> FAISS [color = yellow]
-  LlamaCCP -> Chroma [color = yellow] 
-  SpaCYEmbeddings -> Pinecone [color = yellow] 
+  SpaCYEmbeddings -> Chroma [color = yellow] 
   OpenAIEmbeddings -> Annoy [color = yellow] 
 
 	source [shape=Msquare];
