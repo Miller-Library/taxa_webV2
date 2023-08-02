@@ -4,7 +4,7 @@ subtitle: "Extracting species occurrences from a corpus of student papers"
 page-layout: full
 ---
 
-## Motivation for Project
+## Motivations for Project
 
 Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them.
 Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.
@@ -19,7 +19,7 @@ The goal of this project is to employ natural language processing, machine learn
 To develop a dataset of species occurrences (a species at a given place at a specific time), we need to identify and extract scientifically relevant entities from the corpus. These entities include:
 
 - Taxonomic names
-- Location(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) or latitude/longitude
+- Location(s) (named; “Hopkins Beach”, “Fisherman’s Cove”) and/or latitude/longitude
 - A date when the species was observed
 
 Optionally, as supporting information, we can extract habitat type(s) (e.g., “subtidal”) from the text, too. 

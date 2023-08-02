@@ -36,7 +36,7 @@ website:
         text: Home
       - href: content/plan.qmd
         text: Project Plan
-      - href: content/experiments.qmd
+      - href: content/experiments.ipynb
         text: Experiments
 
 format:
