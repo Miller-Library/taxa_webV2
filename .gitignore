@@ -5,6 +5,7 @@
 *.Rproj
 .ipynb_checkpoints
 .DS_Store
+.env
 /.quarto/
 /_site/
 /.github/
