@@ -39,7 +39,7 @@ website:
       - href: content/experiments.ipynb
         text: Experiments
       - href: content/Option1.ipynb
-        text: Option #1 Architecture
+        text: Option 1 Architecture
 
 format:
   html:
