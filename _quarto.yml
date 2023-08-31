@@ -38,7 +38,7 @@ website:
         text: Project Plan
       - href: content/experiments.ipynb
         text: Experiments
-      - href: content/Option #1.ipynb
+      - href: content/Option1.ipynb
         text: Option #1 Architecture
 
 format:
