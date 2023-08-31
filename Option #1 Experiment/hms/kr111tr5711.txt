@@ -1,0 +1,1012 @@
+6 $
+@
+ABSTRACT
+BACHELOR, E. Pe. (Hopkins Marine Station of Stanford
+University, Pacific Grove, California), A Comparative
+Study of the Productivity of Prionitis lanceolata
+Harvey Near and Away from the Carmel Marine Sewage
+Outfall.
+The benthic red alga Prionitis lanceolata
+Harvey shows an increased primary productivity in
+the outfall canyon of the Carmel, California, marine
+© sewage outfall. At a distance of twenty meters from
+the outfall this productivity shows a large reduction |
+before again rising to a high value at approximately
+20 to 4O meters. The differing productivities of
+samples from Mission Point, Monastery Beach, and
+Cabrillo Point (Hopkins Marine Station) are compared
+in relation to the currents which were found. Possible
+causes for these differences in productivity are
+diseussed. The validity of the "light and dark bottle"
+method of benthic algal productivity measurement
+used here is also discussed.
+©
+65~
+) ole
+©
+INTRODUCTION
+Prionitis lanceolata Harvey is a species of
+benthic red algae which is widely distributed in
+the Monterey Bay, California, intertidal regions,
+generally occurring in the +1.0 to -1.5 foot tide
+levels. This alga has been found in very close
+proximity to the marine sewage outfalls of Carmel
+and Pacific Grove, and for this reason was chosen
+as an experimental tool of marine sewage pollution
+study. The increasing problems of waste disposal
+in the bay area have made change mandatory; the
+© need for a good indicator of sewage pollution has
+become increasingly necessary, so that intelligent,
+ecologically acceptable decisions may be made
+concerning the future of the marine sewage outfalls.
+This paper presents the results of primary
+productivity measurements of P. lanceolata samples
+collected near and away from the outfall. Some
+hypotheses are made with»respect to the sewage's
+effect on the primary productivity. The "light and
+dark bottle" method of algal productivity measurement
+as used here, was found to not be especially applicable
+when applied to benthic marine algae. Therefore,
+© the significance of the results should be accepted cautiously.
+wD
+© MATERIALS AND METHODS
+Knowledge of the dispersion behavior of the
+sewage was important to both the collection of
+samples and the interpretation of experimental results;
+therefore, two group projects were completed during
+the term of study. First, a map of the immediate
+outfall area was constructed through the use of
+compass readings and measured lines. This map was
+marked in a grid with squares proportional to 625 rt?
+of area. Each of these squares was in turn divided
+into 25 squares, each with sides proportional to
+five feet. This gridded map (figure 1) greatly
+© aided in location and identification of algal samples.
+A map of the entire Carmel Bay area, partially
+represented in figures 3, 4, was obtained from the
+California State Department of Beaches and Parks.
+Second, two current studies were undertaken
+using fluorescein dye and color coded, marked bottles.
+The bottles were set from a small skiff in predetermined
+lines, and compass readings (figure 2, tables I, II)
+made at timed intervals from a suitable reference
+point. The bottles! actions were then plotted using
+this information (figures 3, 4). The dye was made
+up into 0 gm packets, containing a 35" x 35" x %"
+©
+67
+@ piece of plywood as a floating device, and used to
+mark the bottle drops from the skiff and to conduct
+microcurrent studies in the immediate area of the
+outfall (figure 5).
+Collection of samples
+Prionitis lanceolata was collected, labeled
+with the collection site sample number (eege, 50-b),
+and placed in plastic bags for transport to the lab.
+The location, time of collection, tidal conditions,
+and a deseription of the algae and the collection
+site were all noted on a collection sheet (appendix).
+© If the alga was to be used at a later time it was
+stored in Dr. Le. Re. Blinks! greenhouse aquaria.
+Experimental procedure
+Before testing, algal samples were scrubbed
+with fresh sea water to remove as many of the
+epiphytes and epizoites as possible. Algal
+sections of approximately the same size, and from
+the. same part of the plant, were cut and placed into
+the clear and opaque B.0.D. bottles. After the
+volumes of the bottles were measured, the bottles
+© were filled with sea water which had had N, gas bubbled
+6
+ol
+
+© through it for approximately ten to fifteen minutes.
+A pump system was devised which allowed this water
+to be transfered to the bottles from the carboy using
+the Nitrogen as the pumping source. Thus, only a
+minimal uptake of atmospheric oxygen by the water was
+allowed. The aeration by Nitrogen lowered and standardized
+the ambient dissolved oxygen in the sea water appreciably.
+The B.0.D. bottles were then sealed, their stoppers
+taped in place, and incubated for one hour in the
+holding tanks (depth = +1.5 ft, temperature = 14°C).
+At the end of the incubation the bottles were removed,
+the dissolved 0, "fixed" (Strickland and Parsons,
+1965), and a 50 ml volume removed from each bottle
+
+© for the standard Winkler titration (Strickland and
+Parsons, 1965). Two "initial bottles" containing
+only the aerated sea water were fixed using the same
+procedure and also titrated. Test time, duration
+of test, ambient conditions (e.ge, sunny), and the
+titration results were noted on a test data sheet
+(appendix). The algae were removed from the bottles,
+placed on filter paper, and dried in an oven, After
+being allowed to cool in contact with the air, the
+algal samples were weighed individually. Calculations
+of the gross productivity, net productivity, and
+respiration were made using modified formulas from
+
+i) Strickland and Parsons (1965).
+noe
+©
+RESULTS
+The gross productivity and net productivity of
+Prionitis lanceolata showed changes with increasing
+distance from the outfall (figures 6, 7). These changes
+coincide fairly well with one another, the net
+productivity showing less erratic behavior, and thus
+) possibly being a better measure of the true productivity.
+The results were also plotted as a function of the
+visual dispersion of the effluent (dye studies).
+This curve shows the same trend as the others, but
+is probably the best interpretation of the data,
+© since it most closely illustrates the actual effects
+of the effluent at the outfall. The results indicate
+| an increased productivity rate at the outfall,
+followed by a decline in this rate a short distance
+away. The productivity is again elevated 20-0 meters
+from the outfall, decreasing to a low at approximately
+70 meters. Beyond this distance, values to the south
+of the outfall are greater than those found for the
+algae which lie to the north of the outfall and for
+; the HMS control. This trend correlates with the
+currents found in the bay (figures 3, ).
+G
+Lee
+-6=
+@
+DISCUSSION
+The pigment content per gram wet weight of
+Prionitis lanceolata has been shown to be at high
+levels in samples from very near sewage outfalls,
+and to decrease to a much lower value a short distance
+away (10-20 meters). This pigmentation rises to
+a normal value at a heater distance from the outfall
+(40-120 meters) (Peter Roy, personal communication).
+The increased pigmentation of the algae found in
+closest proximity to the outfall may not, however,
+cause the increase in productivity seen experimentally
+© (figures 6, 7) when the algae remain in the outfall
+environment. The alga in its natural environment
+may be affected by increased growth of epiphytic
+diatomaceous slime, turbidity, and other factors
+introduced by the effluent such as changes in temperature,
+salinity, and pH. The extra pigmentation in the
+outfall canyon samples may be an adaptation which
+suffices only to raise the production to a level
+close to that of other “unpolluted" members of the
+same speciese Conversely, the increased pigmentation
+may actually cause an elevated productivity at the
+outfall. ,
+e) A profitable continuation of this experiment
+/l
+<7
+ree would be firstly, to test unwashed algae from the
+outfall canyon in its environmental water, rather
+than introducing this alga, scrubbed, into fresh
+sea water. This would give a truer indication of
+the productivity of the alga under those environmental
+conditions present. Secondly, to test for productivity
+changes versus the pigment content of the alga, which
+should seemingly have a large effect on the productivity.
+Increased amounts of nutrients introduced into
+the area via the outfall may account for the increases
+in productivity found at greater distances (20-120
+meter radius), where pigmentation might be at a normal
+, level. Currents in the bay move predominantly to
+Ce the south from the outfall (figure 3), thus, increase
+in nutrients with some dilution may also account
+for the greater productivity found at Monastery Beach
+compared to those found for the algae at Mission
+Point to the north and the HMS control.
+The validity of the experimental procedure used
+here for the benthic marine algae may be doubtful.
+During incubation air bubbles tended to accumulate
+on the surface of many of the algal samples. These
+bubbles did not dissolve into solution, These bubbles
+may have been 05 produced by the algal sample, and
+an error is present in the results found since true
+© production was not measured. This error is probably
+about 3%. If the bubbles were produced by an epiphytic
+72
+o8a
+© slime, their presence would not invalidate the results.
+: However, where slime covers the algae there may be
+a decreased productivity due to reduction of incident
+light (L. R. Blinks, personal communication).
+Other experimental parameters may cause erroneous
+results. Incident sunlight was used as the light
+source for incubation. Tests run at different times
+of day would necessarily produce inconsistencies
+in this parameter. "The effect of production of a
+given quantity of algae varies from hour to hour,
+It may be reduced both by increase and decrease of
+the light intensity to which the species are adapted.
+Therefore, the assimilation rate oscillates according
+@ to time of day as well as to weather" (Findenegg, 1964).
+The portion of the algae used for the testing also
+may produce large variation in the results, even if
+care is taken to select opposing branches of like
+size from the same portion of the plant (James
+Schreiber, personal communication).
+There are many factors which affect the light
+and dark bottle method of algal productivity measurements.
+The data suggests that there are definite effects
+occurring on the productivity of P. lanceolata at
+the outfall; a larger sample size would introduce
+more certainty into the results. The results presented
+© in this paper and their significance should be accepted
+with caution, until more evidence is presented.
+-9=
+0 ACKNOWLEDGEMENTS
+I would like to extend my thanks to all of the
+professors at Hopkins Marine Station who made themselves
+available for consultation and assistance at any time
+and were instrumental in the completion of my research.
+A special thank you is given to Dr. Isabella Abbott
+for her kind encouragement and help. Jim Schreiber,
+Van Remson, Mike Nakata, Doug Grey, Joe Welsh, and
+Jim Sutton---Thank you.
+Supported in part by the NSF Undergraduate
+Research Program Grant No GY-7288.
+@
+:
+|
+©
+“#10<
+REFERENCES
+Findenegg, I. 1965. Relationship Between Standing
+Crop and Primary Productivity, pe 273+ Im Ce Re
+Goldman (ed.), Primary Productivity in Aquatic
+Environments. Mem, Ist. Ital. Idrobiol., 18
+Supple, University of California Press, Berkeley.
+Strickland, J. De. H ., and T. Re Parsons. i968,
+A Practical Handbook of Seawater Analysis.
+Fisheries Research Board of Canada, Ottawa, 311 p.
+(2
+Figure 1. The immediate outfall area showing collection
+© sites (A) and the sample numbers. Scale 1:20
+Figure 2. All readings in tables I and II are in
+degrees east of North. Recovered
+bottles are designated * .
+Figure 3. The initial positions and end points of the
+bottles in current study 1 are designated @.
+Recovery points are indicated by LA °
+Scale 1:10,000
+Figure 4. Initial and end positions of the marked
+bottles are indicated by MJ in current
+study 2. Recovered bottles are marked A ps
+@ Secale 1:10,000
+, Figure 5. Currents in the area immediate to the
+outfall are indicated by the heavy black
+arrowse Note the trend for the currents to
+move across the outfall to the south and
+generally miss the southern end of the
+rocky area. Scale 1:20
+Figure 6. The gross productivity of P. lanceolata as a
+function of the distance from the outfall is
+diagramed by the heavy dark line. Net productivity
+: is indicated by the thinner line, H, Hopkins
+© Marine Station; MB, Monastery Beaeh; MP, Mission
+Point.
+76
+© Figure 1. Net productivity is plotted as a function
+of distance from the outfall for Prionitis
+lanceolata. H, Hopkins Marine Station;
+MB, Monastery Beach; MP, Mission Point.
+Figure 8. Gross productivity of Prionitis lanceolata
+is plotted versus the effluent distribution
+as estimated from the dye studies.
+Table IIil. inc. t., incoming tides otg.e t., outgoing tide;
+(appendix) S, sunny; br, bright; oc, overcast; g, gross
+productivity; n, net productivity; r,
+respiration
+a
+@
+"0
+, es
+| eee =
+oH —
+@ | e FL} 8 s] r)
+aS / ES RA} =
+| rare a \ ’ (Ss : o
+| i Ne AN ss al =
+oe ania ate ih eee E
+”
+| KE 2
+| i a} 3 =
+et - (A 1
+| 1
+ens PE cee EE
+oe ee eee
+we “G, ou Fe,
+. i pes) Ae
+ee SNS BBP
+Sa US a
+IER A a A
+| iregt W\45 re
+=n ao
+re Pt
+C (hes =
+ag
+=
+oe
+ieeau seuss causcsuuas en! Nae ee eee eee eean cans is ee a anoees renanone a : a ins en eees! janes aRenet Fs Ty AY
+! ' ) ae ts
+E [ies eetiees teat | fe eaten eee aed eat eee cect Sere :
+Bee EH Point Lobos ; AN
+* )
+| } et 7Z™ ire
+| 1 : | ; t f s of
+| . t
+i . q / 74
+© | ) Monastery Pocabeaay } pity pH
+| Beach if : pale |
+| a : poet | |
+| Here SET EEE acinar aeration ariie |
+| jase ce it fa raat bai RINE Hat ae rtaett |
+eseceneed ey abpaees rae if ne He aaa iit f HH )
+| | EERE Hee eae eee tea \- Bee |
++ t ,
+| | ‘ \ \ ! ee | | | He
+| \ Lash Tig | |
+| ” \ \ geen, Tee Segoe ane eH
+) 6, NS \ iH \ tthe | )
+ft \\e \ | | a aa 5H ~ 35 8 i
+| MY N |
+3 \ \ \4 ! ] \ aa Seabarness| aebcss See
+3 \ ‘\ \\ \ f \ \ ~
+; i. Sus’ ses sassrsasees: \ peocitiitt Se )
+: EAM \ i |
+) ) " \ yt \ saab ceseoes )
+bd ’ \ ry \ ! / Mt Sere t tT ke Stites =]
+H F ta tf 2 aj \ ; / 7 Raed
+© 2 \ fa ae eect serenuaet eitizie |
+# ‘ se 4 ml | 17 peatesceeeass treed Ul Eat |
+| : NY Fa He A I ere c B is Xx = )
+=. | Meee. Es \ SPH sontiins armel Bay — Hig vensieteatancs
+" ) Salone ‘7h i y Mr )
+a | . \ \\ ~ |
+; ‘ om\
+| ‘Oo ; tom! 7
+r | outfall AP, bei beaeab i | | ieee
+: area saad feseis, ni |
+z i \. 2a Heesaseesssessisens |
+ae : Sur eene rowta, 32 )
+; \ )
+j ‘ \ f 1 f
+: . \ :
+t - XS +
+| Carmel ; Eiiateia |
+WW River i \ |
+E ; )
+Ts, ! |
+«= a :
+@ if Current Study 1 |
+Ne 5-11-70 |
+i ‘ ‘ T I ' ;
+key Mission 0930-1630
+bottle Point Hit ¥
+: BY :
+OG oy os » |
+N ;
+u ) |
+| i |
+tcc I Cort tit a an Li SSeS Soeee See Chieti AUGER RUSE SSSR RECS CORSE ESSER SER BEE ; ae
+SQ.
+EPH Be 5 AN AYP Tare T TATE HA TEE WW A a LN bP Bs OR a ~ fa a a ow OG IM 8D jaeanaaee, we + a gaze
+i | { : | i | | : ¢ i }
+| | | Point Lobos 2; | oN
+6. : Figure 4 ‘ a
+) ia i S
+| | fat i size Q |
+| ; O03 . | r H 5
+| | He st HEE eet gc
+is Gael eT ;
+© | Monastery th set Pa aaieerieal Eeb ast |
+} Beach wit roe )
+| a -m! ae eecisiaaftaat as |
+; 2 ns ¢ 4s o . ; :
+. ) TP ie ae . Tied ot a3 a is \e
+i | Pt 7 . a2. oat | ‘ wot | seeaas: t : |
+| af : | ale BEEN sees |
+HEE sianinat et ietaietsy SEE SH. etaat HErEREe are taae taettn etter |
+| f pr | ¥ '
+| call Teen tittiies  SSSey seats feact peaneeteaztzay ctssecaii | |
+| SE NEE tia Het gt Boh |
+| | | BN 3 Uf CHEE caaaadia deeeesaaid atetizias | |
+| dicated ae areal |
+} / } i | “yy. et J} ~ 1 jes at SHH i } f 4
+| 54 hy iY daaanars 4 |
+eee a
+) : ' ’ i ; )
+| | 84 a Sate Canna RE pies neni leceseeeal ieeseaeeees ceceniaceareies: |
+| > 4D Sr Se { { Nn N- ;
+i . ~ et ‘ 5 | f aaaee ~- tH
+i ’ 1 - ~s “ j
+| Mie HA Nk ac | edautosatoves/Foastasien toieey.saeestoaits |
+Me
+| | | | HE 7A seth: catresdaaasfftte seseuedesger cae fotedensases gesssssinetaesi” soeaes i SY
+) " a ~‘. Bbdbectaag fesse Z | eee |
+'~ ‘as 7S ge || ia /
+© | TAA eer area y = )
+t cn > 4 eatimat jSaunlGemddeend Sant Wodeae 5 SS
+: a A " SS ~_ ae
+) . \. MY: ‘ Sranteseaen-"s56) Th Set
+| * taut tadueratatie 2: mersee seats Dau— = gga
+- | | ebb SoaHiinteates reeset Carmel Bay~ -~. Pat |
+NI i tH et aT) iS —~,_" ~ /
+nh ) : ~ ike Sites iastiensssastass AH
+‘ ‘ eet LP ber ett 11 te
+0 | ; atte Scuceesess )
+| ' Trt eee et Pr be cot 42
+: outfall | —"
+| area i
+F l ; as
+| ~- | !
+i » the Pt ;
+L : * bd Ba ‘ :
+: .
+’ ‘ r
+st tH :
+: . s the
+Carmel un tt et “ :
+an River : |
+‘ ‘
+a | at i
+| . ‘ | | :
+eo | rede | Current Study 2
+’
+; \
+| si 5-25-10
+) t ; 1
+| | Mission ‘ 1000-1400
+| ) a
+| | Point sesiives ) )
+© ; |
+2
+we
+4 : + » + ;
+Pr ;
+ace
+| | steal |
+iE elect ett ee TE EEE EEE Tiree eee neeesererpeeeeeecn
+, SS
+. | ae g
+a) i fated tae Z ine be = Ay, ioctl 0S
+Pa Vr“ N22 Sn ED
+aA Garey
+Banas f|\ Nog Ne =|
+BesHeHea We C NN SSN Oe ot
+22. SUAS Sarat
+BN
+| | Scceeeessssest | y <\ 2 ¥ sesbeees
+een
+ESTE
+© | Nees |
+LEAS 2a:
+. Es | IN? 7S re) Ed
+IESG
+Puppies
+OM
+Nt) Re :
+* ete
+eC
+SEREEESEEECEGESEEREEEEEEECoCeE EERE EEEEEEEDRSaaEE EET TEEE aE Sa 33 G2EED SEEM EREES Cases Reged Sead Doses ceted ated 05300 CESEE EEE SE SERENE Tape 4
+Paseanerraaer | | |
+| cae
+| pei | ~ 4 | =< |
+eo | , : .
+= |
+bee | I | | rae j
+| So | Eee “HES
+PEt Hanae | | e4
+| co
+as * cn | ES
+fe — | a staat
+<< =
+=r | e-.
+i Ad | dS =
+sc | | wre
+=
+a | o i
+n> ! =|
+|. | | | | I>< Hie an.
+=| | _ |
+i= |
+a} | )
+Seabed ; Oo )
+coe Lo]
+® cs oa
+ond
+jer ae |
+Ss @ |
+wet —_ Lf '
+i > E
+t |--- Go bad k
+=> |
+f ios | oS |
+A : 46
+2 i?)
+° |
+| v—-)
+e D ef, qs
+© x )
+2 =) .
+WY Ce) 5) —<—_—$_# |
+: gi <= |
+|
+© J Ee
+| 5 (<) ri
+A A a y "aagEEETidi, Foon
+| o oO C—) So ee ur
+productivity in mg.C/mg.dry weight alga/hr. |
+2
+te |
+| =
+ion
+— S
+oe anes
+Da P=
+bee Sts | a 2
+aoe, =
+| =
+= ) S
+| CO wy
+a “i xp & = >
+2 | :
+Pom | < = =
+i rer bx}
+> c —
+ee ' =
+zi |
+Lie
+2 }—
+a|=>
+a. | oO
+— onl | qs
+© ~ = :
+> = |
+want bbe
+=o | i
+aE a } qa
+= sree |
+Po) = o
+oc
+=
+sh — Qa i < =
+bok Oo
+= a |
+oe : 43S
+oO 1
+i? | as
+= o
+- oO
+GN
+|
+@ |
+| @) inj
+A A AAA A A A A A at
+SS oo co | mel wo Loo = cA NN dane aie
+: 48 6 6 4 Se 6 ee Se
+net productivity in mgC/mg.dry weightalga/hr. BESEEFEEEPEEEE EE
+; i
+. <
+ev |
+! Teer
+| tae
+pe ae =
+ao | =
+® : 3 te:
+2a Y de E
+ies ! co
+c=-%
+fies
+~ | iq oc
+| =
+— =) Pra
+=z | ”
+> ° | 45
+= : =
+vie é 45
+” =
+: oe
+oa =
+|= ° =
+= = I —
+== | a
+«zl | bed
+@ o.|22 vf
+ir ° | q%
+fo } fone =~
+> iit
+— 2 y | 4 is
+a ! se
+= ° . 423
+— | DiS
+oS I>< <9on
+r—) a
+= | S
+| 4m
+3 =
+Oy <3
+! 7
+cm
+° | A ~
+) =
+© ” 4a
+!
+é ASA ACA me aan,
+S in = - a = o
+productivity in mg.C/mg. dry weight alga/hr.
+: HEEEEEEEEEEESes eas acazszeet OOSHSSnaaMassneet i atbtas inset OEM RSE HaaEE REECE GaacEOEee nSPaGaaEEPOeEEE PEEESTES aaeeeeeECEEECTEE |
+@ | 0. PRODUCTIVITY TEST RESULTS |
+| | |
+| Sample | conditions Sample : conditions |
+© —_{ turer meImescyat ste Lt | numer MEGMESYWII ae |
+| | @520373 | oejbr | S| s,br |
+22h inc. ae H-5 | 0.00552 | ine. t )
+| of | | 9.000005 | 5-16 |
+| 0618506 s,or | & | | 0.1199 | s,br
+| 6heh | 0,0239 otg. t 0 | #6 |.0.00902 | inc. t
+| -0.001 ies et | 9.00000h | 5-26
+| 0.34656 | s,br | & | | 0.207587 | s,br
+| 30-¢ | 0.0152 otg. t| 0 | mp1 20021. Z otg. t
+| -0.00091 SF Gee ae a 0.000h8 “15
+oh =P eee =
+| Sheh |_0.00807 | otg. t|_" | mp-2 | 0.01086 ote. t
+| -0.00069 oy © eel sie eet 0.00066 -19
+| hhep |_0.00382 otg. t|_" | mp-3 |0,.0066 otg. t
+| 0.0008 5-13 | CT 5-19
+rsrceais | othe" A] aap [ontuter — s,br
+© 0.0001 5-13 | -0.000K6 5-2
+recast ote ue Ponta ate
+Ben |_0206365 | otg. t|_M | Hs 0.00599 ine. t
+-0,00019 “13 | I | 0.000 =22
+02079 s,br | 8 _ s,br
+27-3 | 0.00082 otg. t|_ | Bei 040155 ine. t
+0.0000 - ie eee -0.00026 -22
+020480 | s,br | 8 | s,br
+28-h | 0.0008 otg. t| A otg. t
+0.00002 yt EeES (ae Ee 0.00179 =2:
+50-b | 0.00018 otge t| 1 | MBe3 | 0.03946 ote. t
+: 0.0000 “3h [f= -2
+ae ee ae
+H-1 | 0.002 otge t 7s MB-l, | 0.019: otg. t
+0.00008 | “2
+e 0214098 | s.br | 2 0624790 s.br
+| ,
+/ by /
+e 0. PRODUCTIVITY TEST RESULTS |
+| 7 3 | : |
+|
+| Sample utihe conditions sample thr [Conditions
+© —_| timber medmedeyat rere | t | mumber (MBC SWE ate
+| | 0.18373 | oc,br | 8 | s,br |
+| 22eh ince t|_9 | wes [0.00552 | inc. t
+| By Waa inl | 0.000005 | 5-185
+| 0618506 s,or | 2 | 09,1199 | s,br |
+| 6bheh | 0.0236 otg. t| | w6 |0,00902 | inc. ¢ |
+| -0.001 wh 2 | 9.00000) | 5-26 |
+[ee EERE oes wea Pata ote
+| 30-g | 0,015k2 otg.e t|0 | mp-1 22041. 74 otg. t
+| -0.00091 SS ae ae 9.000h8 =19
+| Sueh |_0,00807 | otg. t|" | mp-2 | 0.01089 otg.e t
+| -0.00069 @12 EF 0.00066 -19
+fe gee aie
+hep |0.00382 otge t|_" | mp-3 |0.006K8 otg. t
+0.0008 5-13 | TT 5-169
+riser ote"sL 4 ay [State |e
+h7=q |_0.00279 otge t 22-p ine. t
+© 0.0001 5-13 | Tt | ~0,000h6 5-2
+rashes ote re Fane tte
+h8en |0.06365 | otg. t|_" | h7-s [0.00599 ines t
+-0,00019 “13 | ff | 0,000 -22
+0.07957 s,or 2 s,br
+27ms | 0.00082 otg. t| 0 | mBel 2401545 ine. t
+0.0000 =: He eee -0.00026 =22
+020480 | s,br | 8 | s,br
+28h | 0.0008 otg. t| fl | otg. t
+0.00002 “1h | Tt 0.00179 <2
+0.011306 | s,br | 8 _ s,br
+50-b |_0.00018 otge t] 1 | mMBe3 [0.03946 otg. t
+0.0000 ay "ieee ee eed =2
+fs Sa beet
+H-1 |_0.002 ote. t = MB, : otg. t
+0.00008 a ae
+s,br | £ | s,br
+© H-2 otge t| 0 | mP-y -0402163 — wees <
+-1! i 0.00059 a
+0.11595 s,obr | 8 | 0.070 s,br
+H-3 | 0.0085 otg. t| 0 | mp-5 |_0.008)6 otg. t
+© 0.00008 -1 BS oa -0,.002]1 -2
+Hel | 0,0 inc. t|_" | mp-6 |0.019 otg. t
+Fee 0.0000 oe ROGET “0.00109 -2 ratanetanstataie?
+; Fe OgO67742 | eepbe | 8 fie 1 Oper ee i Py
+P| mee ote. t| BM | ga | O;000RR | ote sg fs
+He o26. bts meG fy
+Fee ere eee ocpbr | 8 pe Oi abeh berber
+| Sl+s ote. 6) 8 |i Goa | 6.63190 totes 6)
+FEE | a?6 | ft ey SY Aubeet aeeeseeeececeeceeee
+| 020 oc,br | 8 [0.03706 | belbp fa
+2am | 0.01026 | otg. t| A | 0.01036 | ote. ts
+| -0.00018 sey SERGE! an 0.0015) 5-26 | |
+i | f : : / i i |
+at SCR, j
+SSate a ey : 6 v
+ecu MOP
+bape | aN oa .
+int ier fans He at ee
+«Ny aye Re Sans ten S Latta ney te ee “Dah
+sb arta) Bee a: ‘ere Be he er Ri ghd peas aD 7
+oe Bg Corea aie ae a tee Ba
+ML Sere oe ) Beek eH ce pote ups? gt Bey ae 3
+ne hee im Bets e pee aie k: ages rN ees eos Pe Sia he
+= " cae od Oe i ee Pre nk ey ee ae
+Jae” te - Ly Be baie. suse Pa By pal ear s hen a) ot ate sshd Rar HA att Cee a a *
+ae pe ay eter ae a a apd we ea: ae
+‘ *s fe ve eG ii Pe iie t Lge Wet: Bry xe gS YL mana ae Box'A as oe ASS: “J
+5 sit oe a 3 a oe So ray Abe fag ANS ey, : : a oy
+F re ee Sy Ned ‘ae Bae ie 2, nf LR ar ike ae ee Tate eee Sy. aot il ook ry
+Sg SRG Coe eats ae Liga & < Ruintaen as wok % ees pre Ba. ae ne A, _ ‘
+Te . rs oe ae. rise we cunene ae Per =e aN
+Seip i ne gp ee Soma ae es cia ats eee Bt en ae ke x ‘eae eae a
+; % : ia A : iP co : Seas eth eee Fee ta Lary aS ie eS Near as any Ee iS Sani oa oh
+: p x : . Sa _ figs PRE ee as Lom peace ni a, p's ado ae Sitey LN cep eter: Ke DPeeRD j
+er inoee! Og hae sé oe sees ae " Tae oe a a ee in. cate lays ake. ee Sea
+ip e : Se ane ero ts ha ty eee Pe hy, oe note baa Baek gone pote Bits meat oa ie
+ou ee a ee, Ned. ee OF i Ge a ae ear, Pas: ees ae ine Wi ers arnaneee Cae, Se at Re Sey Bs - a
+ee Kye E ot Ae SNe. Se ae it a one aN oS ore a Dae a <c ae os t oe °
+“ aS Seta need eh a be iene Sean sa A Rs hae ee eee hee Soe: ~" Be a; ses ae ae Mee ea eS Nagata ¥ A Ras Fai eS a pang oe rah
+ta epites bs be ‘ei fe: oy Pie aes sis athens aan iad rs pete LEE yw se : : - a i ‘ : ; : :
+ae es a tee Say Ebel tae ph ek aye te ee : Barn, Ps ae ace Bras 3 Pas ee 3 ee me ns s me | 2 : | : i
+peak ays Rac Mogae, mea Pa nf aoe aye ert ‘ soe an Ma pee a: MeN ea eres ey a Pets. § at AR Fe oe : ee :
+ear ae oes SN eae ey Re Reape” c3ey Pate fe a ot eae Pte Raat a ans ‘i op = Soh oa eo ue 2 - 2
+Na . : : : - : fa eae i at aa heseaeo eee otek ae i ee Ast eet aes tae ie. ae ‘Mane ea: Sects LSahaS, aoe aby Ae
+yeh Sats te cs pss rie ae east ce ed RR? Yeh, <i pay ae eee ne c ues . ia os Bee ae sae) ea ee a Caer. a ee - . é a : ;
+Seer wipe Bayete es Pee, ae Raye a ae aes Wig ee ie Tay Up ge a yar Bre han i te hag aR ean P a5, teak er es: ae hee fae a i he " :
+: e 5 - : ey ae Cae tein gs ate! fax fn aaa i ae Rie: Lae et Re Nis Bad a hear a ca ples eS se 4 BIER: 6 (:
+: , ap 7 ‘ as iets es pion Sak PE Seige et Rahat ae ie. eyo) AB: ath ey set fa fe ee Fe iy heresy: aay ae ie bas ees ie a en et et Te, om acy fhe hic tih re, AYE
+. ri, a Beri SAlyy ey te Sipe fo pees i: Me ae a Sig th ie py nae tee sa ee Cie on Sa a es ae tek at SHAS: Sate A ro A : : ‘ -
+Lad Poa ST one Pale ee ae aN Hise emir ae sat - We Ca¥ f ae nog a: ave ce a Ne Wists igi ee Ser ae saree iy : “s “ “ - 3 , : 7 ;
+- Bet aN $y ‘6 nak neo wa! sig Cee ees se, ag en . ans Ry Beg ay q if 2 er Oh shan hee Hi, u aa es Ves Be ¥ i Bars ek ae aE, tay aia aes et aD Cae ap “
+as r : Se ie ait diel Soe aye aps bee er ieee > a yes ta sa Boge Bat ia es) ae ae Ply : 2) eee i pot fe x i ie ae ne at ee Bt ee ag pa Pe ea ae See Fe a pe Po ‘e ver Hae) as. x
+, 3 , , : : . a ee Be ae ei ae ren cap, ae seh Se os ce Pte Pia ee oe By (obs perc * nt ae ‘< pigic Fhe gHe oe a 4
+. 3 | : 4 ; ; a 7 : 2 » a a ay pie e ncaa 7 it Pr Rea Peis pe ce has cay, a cata ? a poate ie aie oie Ee ee ee Bi
+8 ale Ft: Ee Be Ay Se eae Res rae ge 2 ae een sha. yen A see oes a fe e: ‘cata ay Tages i a oe oN 2 | ‘ : , |
+- Ne nga: Bie By va if 8 ues aS Ea eval caries hy east: Wige ent ere AB Sha ey Be 2: ae Sa a A % See ete pets Auta ack: See i, Pre ies Vi SN 3
+| s a o . i ities +p pan sits a i Bes iN Sagi tage} Len Bs py Wye hay, te ae ant hee Se ‘. gs tps Me, ea eae:
+ety ay ee pe" hes oe ee 29 i ae oliescs yi give: am Preset “ me ‘i ee aad af ser aad dag “ % Asis era : i ea me ee: ate ee re hte ae : :
+, ae iene Pug. Bh: ikea x hoe ae Ia, CEN ata oy tas Ue oie ay iy ae oh Exe Bo San ati da pet saa a Re: i ae ive. ‘ae oe gree PS ated ek Ng = ee? ih, vee oh ae, Cie ag Wet ai. ; et te
+4 e . : . : Ni ao eS; xy an ae ok ae aoe Rs yee: oe bs ae ee a Re eo cs Bi fhe irate ag ie
+& ; : ; : t 2 a ee igen at See aia pares in a ans: Ah ay Ri ig ee eae es Gantry By gen eee yi a Age i ees. ae aS Ba
+abe fags oa ee ae ( city ey Snail Sen cae ayy ae ee i Fe Bh Roary ‘es aa aie ee op: hee ee” nee Pao YA es + ek eZ ts) ae te. e Aa: mae Ae ‘Cie. Sa Pond ae: My B®. ; as Aes
+es Saat Dieses a CE a ot) ye eet sia a, Say ee a aye pS, Aa en STi 8 ‘i (ah ase ae Paras _ a . on : : ; ; : : | : .
+any, is say cy SH Sey, ee thas Rate my as Afr ie 3 By vas) pd bib 3 ates te 377, hs tare pgs vs ae a ERS i Are ie a ni, aes a ees Saw bikes at ge * OP? 2X iri) =. Sees en a pat LN Grbac oy : - fe :
+a ae Say Mia sie Be Pe aeted aay ea ee pa Pe eae re ee oe a aes ait an 4 : ™ : : : ‘ : . | , ; :
+ea ge ae Le NA ey “ ae ae? Cees it} ae reg eee Bn) NOt a a peeve ze Oa Wenn aoa og icy sh aM 2 ae et ONE oe Am as ts a ‘3 esha Piles ‘yaa eae Lt ate ae i ‘ ae a's
+, fs ; 9 i i he : es ae ie a Nis, oe By ee seg Sa pe ee pay ss pe giks Et aay ue peu fa eae ig A ie ee ‘pet bi i a figs ii
+eee hp Naas ee e te Rei 4 aes Kes ase rere Late Bes ies anne ay See oe Saat eee oat Ws sus ae ay ins Sea eB as an Ags ames baat a! Me tie Fors eh cok UL ite tet ha ay.
+h dye pK rs, ee 4 pie ie yew aes: ase wary a we WP Be ae 2 he ae eae ca Pie, ee AD Shs Pa eae Me Fo bi | x : =: : : : | , ) : : |
+5 ‘cs . : e a 2! ng os aes Ethos eae) pe ng Bat yk Sek bey es cary! eae eit Ree ge a BS uk i sien y eee i ay Kae Sony FS hee Wee tition fa 4st ie rs ey PAS se tra
+rae WA es Rae ve 3 a EX The we Bary oa xe af ARNG ee neh Sikes By Pace Fj a a) Si ey) ths a ee ye gs. a PRE 4 Fee ok iota: eae Te i pel ae nit a ty ‘cael ee Rise Bee? awe a na Nes la
+| . : a : . : i :) ae ee “aes ist ae pened Sa ers 6 Sea Bee eX cagehed Sea he ee aan Os SN SO Ee Sua: Re Aa este See sah) Bs ek ae. Foe: en
+te SU Aine Fe yee ek “rast Bao ‘ Bag ay a, Seek tS He Ceo es fie its ce ta” hs pat ary ts Lee a re AO aE. oe a a at tains Be: ed, As Ay Poe ras asain ce ed Eres, oo MR ay a ae Si i: ‘4 ae ‘ Y
+: ‘ » : : i wo Ao Mae cas Oren 4 ba Bessa ates aig Vee eee Mg Wage ta: : rte righ ds few g peas Sea Paani me Phas ites cf ne
+ee ees . Eye et, ae = ae ooh - ein mee it ks x Bihan a si ee tl $f ee ee Rh cscs ee: 1 |
+ee eaag Rei Bar asl E aes Ar “i ews eae atta S's Diet: ak ee ba ay fe Br ae atte Pe beatae ayeatie mace Tet toa de aah sn ts SN te NGS sary ee «Ing
+‘ a” : | : : 5 me aa i aria! is Sans a we. cs e's eo ah sees ee a ae ae is Fed pte. at Pana a ae Bi, eee ane Sea tebe avi: E
+Poe Beats oa aa ate Se a ar a oh ats AEN hE Res eG, ae a a! Gt, to nt 4 S “A _ | i : X : ;
+Ay bath te ie ot Pua oy ak abe Sage a es SS ue es Lat NS 2 ae Ph Py vf Raa Bre sis ee ‘ RoR T 8 ried Sea si ae Ate es ee ith 3 - My ,
+aed be Oe a 3 Net See Re at greet Aa: on ose ae aie ities a ie pe ae eg Sli Sit pray URS eye uF me he ee ae a : : ¢ a “ ; : : , : |
+eae mae a 5 bys at ak pee ct cA tet 2 te i mr "ieee of xa ape ite ey apes Pater: ae SS igs pan cakes: Aa cae nae te Pe Bash hea NRE Ye Peter nH Peas cae ieee ROR F wD z <
+iy 7 ae haps Cie state Edy st ee ee eat a ae Be a aes fees = Sipe Rt tae cy Vane mtky a Ee f eg Pe Ree eset at Sohne aR iti) . Nees e 2 4 - : a bs :
+sr oe ecu eae eae Pant te ava Bape Gy ciate Fe ; & te Ww eee Saaes Bs vee gey BE hat. 3 bi xv Ra PUR e ed * ee 3 a ea cathe 4 eee ot: event aes We ie a Ps : & : , f
+vin oe Sas Bea A ie aero ete bane oa ‘She Bae Sa | BA Sv es Sef ee ae t ‘ary RAs epee waa nue 2 tae. eae es 2 Gis BR SaeeR et fg ae PseL 5 en Sera sy, Sg ees es Jah ast ae
+ee SMe PRS he wee ee ry ai % ieee Bs es Rite ' Met Fy ee Ft Winns pide SSN ee reed a rea an re es eax ee a dhX:, ie ae ae Boon, sk Seti ie nes si oe ie ey By A = a 2 : :
+Phe) eae ae ae Ae itty Sikes a ) ah ed ae ee 7 SA B :: Bese is 3 ae. ao ve sp aero Rata Pe sae en : tae Py TPs ices S, : re | é
+ish ; Be. ee } ae ee a wie so ey oe, snes sh eS ‘i nA eae hah, ¥ $3 ey: ue iy ea Gane ae oe se - ‘e ; e : 2 |
+ci Fenn cael beet ef itunes ea eee aac: Bi me aoe e eX, tae ee baat eat aha, Pa: aay oark eae ‘i ce. or are vege sig Ng aay 7 tye i tse Bh? Sh Na ’ af : : a ie : .
+Re 3 he pl ae ih hs nee RB tig ey Rew Rie EA Bb Py a Bie 3 pA be gers af ti 2 aa Mgt 2 es Poe Bie alas Bie ee aged 2 ae , aoe Nees an Ree be ! aii 2
+fy Raa Beco hy Be? Baty er ae i rar a bab dioy fen I es Sate EN SN <4 rue we cae a eS z pk iS mes Tot ne ay au eA mgt Oa. a, alt ata 1G, oes ta rca y Tey se: % eh il Set Fe ur pt oe 4 i e wee: Beadle shy a
+‘eae oe es 4 RCs He ib oe ees nae See oR iii, srs Sage ae ry A ee hee RS: She H <a Sa ees ‘ cS “ c - ; fe | : | : :
+ae aes, yt Re We Bie ed a Rot, "Se eee cane A aA Path Sy ae sing WD NS PS ha a tees at ae at Bers eee Geena Raed a « ° : : :
+. ARS ae Spt eee ae i Oa Rae e Rey aes erage ah TS aa etx 2 ie fe! 9 $i ee De bgt Se “f Sa i Me oy : ‘ oN : | : | : , | |
+“ ‘ i e ie 5 ba ee A hs an 1 an ae Pia - OC age te cee Oo ik Bee os sh mien ae ik BA B Faroe Pays sree ae Bia ok %, Cae
+: is : a - : ee £e oe ot ae att a, ees (ee Penge? eh La Fa oe Ane 3 aE Oy Kat an ws hea ae) ge Ae ia Ae ie Bras Ne it ae aie iy oe a Sp PA et he oe met ae ars .
+¢ : a , - - . ay oe Fey oe Psa Bes aie sid NET BR pat) % core dy chee ih ean ee Pein a ae ne ee fen tee Foot et eet RR, ee Ni Wha,” Be ee. vote
+a _ of a ee Be een ni > hua PORN ¥ iret te gs Ng sate an Ae nM ie om Pri ee tt Pie mG ees, ee NES, ont cae 7 es ech a es hy sf a ieee iat Bh ces face th Ma i Se 4
+b ee 5S Pye ee iY gee eae peer Pan SRY teyee BE, a ty a ae Piet a iss By rida sy aoe Sir at on Sy ca: i r% ve oe sidanes an ee ‘y ; “ ‘é ; : n : : , |
+eo , ae ee wok ba eas pal ST Sa meg Pietra * ciee Caer y. A See "pe nih rh LF Pie noe . Bes 2 \e ee F <cene eae Nar eS af Roya ae con ma ad OMAA 3 fyi sie MM ee Falta Pie 3 Pe site eal, i
+A Ne £7: Hiei Cae i ey Rica arg th a yi Ban Kae fio Py ae EM $. ya” he ate oe ee cg Bere es oy a cm tp nate ie ae ats o ‘ . : . ; : , :
+ae | ae eae rigt seh 3 Ree Dat pi NA tio ak oe ‘ eae) ih a ; Spee Poeaay sie . 4 rh ik bs ' ee i as tt Mt eel Oe peak 8 om ias aM ee Weis a aN ice ae s %
+, ; | si . f = ’ oh e ; ae ara, Ae reais Peas 1) rigs aae. a yee NS x Lg oe te Sat > sig to bird Tea | i aA: Soe Pais: Seep
+: : a § Us oe boars Li ss fae ate PELE Bid a agi 4} ian tes ‘3 ie BSN pak SR awe fe Ba i pes ae ae os Seer aks Paw Wea crue. n ae in rea Fe dai Heo? rye ™ ea Bae RS oe eS. ai! i og La 2
+* "i ae ners Fat, Os eT is Rese SON SALA! AR na Re rats, ay? i gus) oe , ae os 4 7 * one" ne, ae. SON we ed Sa yay ee Tia VR thet tay Sak ee Bes aay 4 Bye oa sont <2 e :
+ee ie oy ete es a Ba ve panes ws a os eh ce Bae eat oh gees RL a avn Baar aS pare oh fer 29 ae as By ee ea a 7, aaa nig Brak * Tea piasts oS baa o 2
+: Be ic | . . s | : a ep a: a t ie eo Mg % edt Th 1a. ig os ak tate eta es Sk fh Pray Rc, ortae Fiat me ie 9 at wae bls hr, Ap de, ela ae
+) 4 “f : ss oS a as he z i ae Ue Se Ra ae :Y Baty uae Tees a ae ; Sa a Be at! en te Wee ae an OS mee ick hry tale Maen. Pee
+SB ANNA Fe 8 Sg trae “a ree Gee See ey ua pate Ree eee: ays he ha) he Ba Ha tae Asst wie pis 4K rs Oat ea. Mot a iteGn a PN oy erate ; eps wee. a x . .
+- oF oe ot MB toa NR ated ceo, 4 ere aks ya Re hes Ea pt HS “re oy Ny ate Shiga vate ‘ Se pone A ? ees Be Pa OF Bate eg 5% att 3 psi shih ee Hes eke ae lake: os
+; cil. a Ce 4 Sher in ies | ont yi om ey aearr i tas at ae ie rn MS a & * GR. 3 * se ec ee ; 2 ‘ Re ice erage Peat fae ee Ree! a gers ‘\eeed an *) Bora ae tig m Re arid nde Roe ip
+ses apa ae ie ove. Kop Sn eat ae at ek itary Ree Pitt ate yee es Se eRe i Seis, ot. eat ay - rr ae pi ‘ a patent Tha pie ite, pay pees oh ia | : 4 3
+ass Boe Ap ead eet jes 4 ee. i bis Sate oe Sai oe ae ne har s Re aan es: ae Sg rhe aah Meas ian Bene ee pyeek i. - se f :
+/ . ica, ene Barta a Sar Lait Mesa hs? 1m: pay: CaS Shee ¥ oo Bee oe Beg: Rte mt eS be ee Ri wae f isc. i ke ees ‘a a) aan et Sheets oie nC aw SER ae Me ee
+a 5, Cea * pags CF yet it Lee Mh esky us vat moe ae vy 4 a yf en A i: S. AS ba Bs ic ae SX Cree “Pei, ay is sete ey eee Neh nfo Pa 5 = aha PF, 2 Cat, rie Mi Goms
+a TET es Naa oe pit sh Re : ee ye ME Pat ae pe aati Rati Ry oy ar Ridges Te bet fee? oe Siti es oe Bierss FAN gee ee a a - nm . . : 7
+“8 ea as Pa iii atte wan Ba Gv end iv ie gure, Aes eae oes Ba, ole Be: ve ge eee Miler ui Fg ee 7 a : : : . : : : sf : :
+Bi De pg ge Bia Ae ee natty mesa ey Bee } Pr we gah: “a eas ee Mees. rae b etsy aa Fae ee aes cat a, ES Ee ae ee ‘ a nee iy pers gaa Cie igs iad: bares.
+: ‘ : 3 . Ee 3 ' . iis a oP 3% Se Piao A do SU i, as ee aes Te ict ae annie ES asi aS NE SS i agra i a Py ae bd eihy: E Pea 4 ag
+Aaa Bs eee BE ae i ¢ fom tee righ a Ne eee: Ry Ate ae AS i a8 eae buy + MK a ie nets ras } i rata vei cine coy see on a See ee eae Meee ie 5 -
+tattaet pean fat eS: RO acre Sei nae he OR aber ot egy ty AE eee i ae 2 sph. <b e ay ae Te he ee . oa 3 im . = | : : : :
+sf Ne Ss ae oar eK oS Ae gee ae fone: eae ie ease cates Y Mat at 5 gs. Hai: Tk years ae, : PSs Ngee A 2 aah pene ae Sire oe o - 4 : . . ‘ |
+ate ek ea ee Bs ark aH a i. Ba et ae, Ie etnaad RUN ie } Coed Pre ON Aa if eg ae eS hia sae Pease: ce fe ed Mig arn nes Se pace aa
+| Ay a wes Senet ty ia Set aes Roar ae Re Pia a Be eee 4 Ee RL ae in Gare Types bist ttt ee ve fe ses a Raat reo ace sh ROLY, Ne eth uae! tae eid Me Bye irate ts ve ay:
+Sieh e ee pha Ai sae oa ade dries eee x ae! ‘ AAR Rs ae Pet Ghee: No) i “ade? Ra he eae aN eg be se i oie fap" ee Pe CA oa eres ae a : a | : . : i .
+e - eC ee BM tae a Oe ie eo obec. pS he Sia la. aes ae flan: ti oa tke ad ey biome 7. ) {STE aes big ae ies ‘ sf Aaa, eee Ee m rat” Sekt oe ome oP ik ‘ BE: 7B 3 * igo 2 a ea a tl
+# Roary He ihe omen 1 eee ae : ye ae ay aes te i atte. ee bee ite he ore "ye as ery fig SO a Sy = 3 a i) be tae Sate “3 i = aa ? ; 2 | | :
+us css ro. nig toe Rios kes N es ai Be Cee g he Sh! ee are # aie Bae ee Sait 2d ot = Las air Bike ve tat, Pa oA" 5 ae ey “eet =f. bis Res Hae ae if aes 4 ra Wag a AY: nag. uve
+: $5 * - ay o oat iar 2: Abe! - RELY Sa ge rig Be Pie ie hah sn A mat ie Rik an ‘t 8 ahd a Hoke, ey: Shae pie tate) ha ae are, ie Az ere on Wee a ie ed peest ba
+Pag , REaae fe es een et See ns a pe BR SA ae 0 Ny 552 hes AR, ee he a: ee a : 2 , : : ; : | : | |
+Pas Re i ee. ye Rate ae 5 ie igh Ge oe eet heey: a Maat ee, a a ing ws. ou ee Qe Pig “cae ay, eS nian Msi ac By +f sogh pes Bote zt cn Mi a : : : f , ;
+Me as ah Te tet 4: eee ig eee 4% eas ae Sa Ride tase oer A a ee a AE eh id ene Meee en oS ete Gets Bisse ds pee rae iS Raia ey Coad, Cat eee x
+ee ait ‘<. $7 pecan of Oe ete . BEN Oe Bea ee aes Sr sei ao ae Lee ita - Wa Ox RS as v3 eae xt ei ws te a. aot fe Pag We Se 3 VN DpeA ers eg rive td a “i wa A eae 2 | ‘ 3 : : | : :
+: vary pr ae ‘ Read ey 0h Sees ad sto ale ae ae Bk yi by Rie Pe ae age rie re Meg to 4g oe abe Kret ite ithe aN oie Se i é Pee 4 oe ay Ne Mie ae SREY ae Neste a,
+ee a ey ee) a as Gg aa sg 2 he saci tes fort bine Pama d = ee Be BN ti fis Ae cisiren te (aaa Ags BS, ie eoery. el Pelee ORE? Seiee ‘ Borris ie xt
+ipa Bay, ba fhe Raye a iy “CEsy rata: ne ate ph sire a ik es Pat WF sie “Sx, mech eae tetan a ook el Pe mee, Mitts fa a Jes astpenlte SO a ane a vee ety pis, Ry re ny A fecha Aina yee ae betas fo : se
+shen bah sy ok ae Ste. Ake Bete a re eke eet: Meee Sg ae eon tee oe nae Bas Sake fGee ae - pee ee . Se . 4 : : :
+i Hehe 2 ik eet oN sere Ree vanies rake ey es ) a Fe aS ult ae shee aia i ote ish ote ag Bs ers TP Sate (< Pad Bes Ba me abe: ae 2 ees sh ee Rhy Es £ he. Rages ay te SS gah Wie
+wer q Patt ana Beet. et lie ARN ge ia i ARES A La Oe ek Wey bees Pig's oo te a MPP prs: as el ea mt 2 Wisi ~ + a cK Maer ts) aes Boh a SiO he e
+(tie eo. ee) Bee ih oie sae i Son ip s ie oe ea ae oe 5 a : - o 3 . ,
+: ? ; . ; oe Peas a tate ite se Ag Par BGA 1 ae rt Neate be ay ek, Shes hes hrs pees ee dene icy ers y ae RR Sr wien: parr ts
+as eh ey ko 8 ie a ay po boss 2 its es ‘es ‘ ae soe ELC ten ye es cia eye es 1) ee ae aee a ahs Py GY hhc : 4 sy bas ten te pd y Soe sir rea ‘ eae make ote tot sy RY co ae .
+: : “) na ae Ba. ‘3 at se ae s “48 na Sat po Ses Paks Poa eS Mugen a. Gan Agate Ves ba di Bie I Rae ae a Eee ia OR tig ret eva + Pits bed y ta a rer Mapes) eye Pat es 7 aN at Raat
+re nih hd dae She te Cd: Pare isa hee tay e ba 7 oy, kate ge Wek hei ‘Fi Rata v4 4 Seb sih ang ty Ee oe iy Be, vn, oA ey AY Fue es i a é ; ie : : F : : :
+Ae ee eB at 2 Oi caer ih $3 eae ny Ee Byes igh ae zis pf lod ” saat hook Dis! oe ey i By MF ob (r ner scat tS Fe Vay a a : : i . i ; : : / : | :
+: : ; , ; , ; : : cA . or Ob avian enue cage op ae om le pe ae es et San z i as . mse Birt <5 eG RY es iy Q ebay ? me: ae; canes Spa i sie se
+aah eas pee Ruy ora a. 3 eu ah ie a (ai ae gee Ass es Bas = Etsy i ob HN de da es rae ah ae, opera pve tre Ae Yess RSE eR a paar 1 See a " 4 :
+4 Bee sonia Aen ay eee ae 2a, ae guna Bas" ; Rand on a es ‘aA phe en ae Fe) 1 teehee § ee ae ad ee. s ay -“ : * : ‘ . . . : |
+, : 3 ; : | : : : A = " ee 5 ee oe Ri te a fad ea +3 ‘4 Sees eh B ee ea ; aes bP Ry “edb EN ee 4
+3 - | ‘ oe : ait Mey Be ‘ oS nat ‘ re Hit La ae eit Rh 2 La rk oh ae Rag i doce ha at) ey ver See har Vy oe) Pace ee ais eet oleh ET Ser a) peek anf, eRe aca
+: . : - : 2 pen aie) a Ny eS, ae ga 3S epee Aa tee sei ‘Sy i age i , bem Su A ie hae ees oe oe St area, hee
+| : . 3 : e a | a é a ue pens miehes oy ad Se es sii has a AE yt ay te ohne errr Y ip Sear i Nae the * of ae Sas Py Pein ¢ 8 iA BS eae a ¥
+' : , a : 3 “ | ee - es: ee sa Bs. ay Biciay ee tae ee: Se be i ra be ces phate ay £ ote ae ee Sie Oe oie Hes ie ibe cy Cia, any autem 4 eBay ’
+4 | . 5 eee A oe DAL ue ef Pe eat Be fe ee bid ie a, Oe ‘ag Bim 3 i Mae ella eae? Esha Re 4 AR # ee hae Bal. ee firs i. oT hes i Bt vay a. ihe So in pers aes ant spent ts Plt a
+a r acl vet fanaa ah of oe we a NSyeee ob Kane a etre ated ‘ais - one ie Pie. ia eb ei vg ett gt » oa i i‘ a ; : : : ; : ;
+: : 2 : e n ie oe We ty ae Senkan ateie fey toe Sh eh wee: eh Neg CARY Ie Baie Bia Wt beg Sac ag se eee ht ae ren ge aS ye aa RGR pale
+ae os a We Seine as i Rees Aa Bits bee RG ea 1 its ye hia ff. fa Sa yaaa ae a Pith Ral ateit? beats gute again ei Ste Se iad Saks At ae rig Be ees Ligh atte cs pete TOES ys
+ae me ts hear: Ai a Be bak Be bebe hae ey anes. ibis 4; bo wie 3 ae aN aEp oe ae cs mak Wntede, Ay ge a as 3 : : : : : :
+‘ Bs at Am Sagara Se fe oa ee He a ea) Sk toes et es pe: A ee Ay gud ce te : . a ; . : ! , 7 i :
+shar 2 Maen % Mate SAE ees Eee ie ees et "sai Ae: a Nia Base aah ig Bs hsited Soy ae, Se Sak iy gi Ta. ese “ia al Bs, pA ae 3 i ae a pea me a | ae 4 J :
+iy i Bie if ce i “anaes a is eran xg Psa YE i aay ¢ ae panei i ae plex aka" Bete es « A cei eee Pipes heh ae tte "en pie Oe Bead Gta Pe or a Be oe 2 o | “ i ae : | :
+ay Samper at" a ity ay: part ne eae So foe UN Bs é ig oe a ee a Sa AG ae, ead nae peg 23 ME re Se ae ere Say Uno PA eh: Sita bt ye coe re oe " |
+Psa ae Bese ig rae: Boy ee ras escut Seay aN BS hes ee Py it ny ine ‘epi othe es sae bi acl PB ce | ae aren Me ph c oe exoty f Sie Ge Bis eke be a * : ‘
+Vea ees me ace ee “ah aie: ae day a Sa ha saith seeks ea ae a A : eee “a a ey Ree ts Ws a Biss phy a CRE at Wb thes aes Sua ae iis Soe vs : is 4
+mee Yi rite Ceti cveee pea a ae ae eee sac ee 3 ia ae Fae is ae PS te Sue se tate ee a! Be ite gy a Wee abe, aS oe peu Es Oe ti 2 ep aa eran Peal ey fs % bas ee
+’ ie se ats re Ey oh ge ae Ba ae a aa ing de Pa pA a Fics Seah fea tre Re: va es 3 ns omer] is Binet Foy iy By aes pak Gee TE et om. hy tes bea 5s May 5 pe Ne Casts CA ae es
+tad Nhe ont : 2 A es Way NDR, oe Mig ee Be ia pee ts peek Regt esa pe a SE ayers ae a Se ee? sik Oe £0 ao (a Pee pene aps ae ms . sy . % ; : ;
+; me ee rae, pee as eles. ae “Mt pei 2h ec eee sit ER Rin i Pe eg’ A o ee ae th, 33 oats one we . hak me beet) Sta iain pot ie wort RY aR Pan Pe ae ae Pe
+A : : a : ye aS ie Set week a a Hat Ret 1 ai a noted Prk Wes hag at Nie, Bin a) eect print. Big apiece Sere wi ay) Sy dle patie poe i aaa 4 ea
+Ry i she}, ere Mle! Oe Sr No ae aa By ys Beit > ee oe cyt Neat i tend Fi Pt SNe = ¥ , he Co, ona Oe se i, he i Pi gi i (ati tee JP RAr) 4 Sink ie rene Pe eS ah uM oS oF ae
+ti lgeD ae Re as oh Ea Stns pin Die Me meu: ae Perit Bea hte ioe i ae pr nate FE es A Pw sas Si Bias tre Bo) iy re ead Safa hs es co ce i. i . i : : : 2 !
+Seay 3 ; ea ae is Sate art as tea 3% Wagan ae) a a yaad as Peat ge ee eon ee i " oat ee : é a 2 ; ; . :
+° : : - a o eee oe nee aN 3 hae ¥ ne ae ne. yi aa Cec Bee ne c es Fea
+aa San SS Sie Pee hie Bx Ke ; ay wana ey i eth: sagas MFA Pe 7 ey ee ve ee Dee . Mga te Pall Rte Eis a oN Saray: 3 ae ES ie iis tS Tae she Bui 5 x as a e it a :
+; Re ey Ratt e Me? pasts ruBec ht Sse RS 4 ‘ae ads Paes bee at ghee mail fe vie ee oe SE Sagres oh Sia Pts 8 is te a Ons 7% pe. Bah en DSS aly 3 Bhat Figs coe Acliome Ss by Bek A: acon Bet) 2 te er
+Ty tied Cy A ert ae ERY ub r ae He ae Wiese ee Sea a peck d te ae P are, ; baa hae Sar a Sty Pes ee ae x epee 1 pried, Ee ees mais Mea "8 ai, ek: Eeaen san Shes Rees”
+’ | ; ‘ : 4 - aN 2 a "hile ae Bee react vate i . gg as ae oh ah ee ee ; a's ear AER Ashy +7 ey tA Set ‘yy » ah: eres tee. t ay 5 ae 4
+Pusat ys Mas rata ie Agee 2 Bae aoe BAY Lael gaat ca selate 42 oe me Pe een ees athe e ! eat pt MG Uy Ge Pi ee ae Jed st Sees eu tap “ if a ey i < . : .
+“ad ones oa eo 4 ee of Ae waa mt Hes i ee ee SEL, at eee es eee =. Be Rahs che Ne ye ss Baa : iA ce = ° : e
+ie: Sao We F Sete e eget ates? ae N gigs ne erie ae si i a ages Gp cE Se A at G eo Sige At, aN Bed Ss ips ae? Oe ee Re Ye : ne ‘ . “ i ; , : d ¥ : ;
+et peel ie ne peal ins a 7 ae pte ke Be a ag sh | non ii ee ioe ae ee oe F, st Fee east Tuas ieee hits « 4 fe i f : | re | ‘ : :
+Sa “ote eias intel oe irks Ny ho hi hinds rene! hi ee ah ee, 3 RS Bey Bite pe tl J see) eee: if ero S- ai Reet bak re eS pe Fah BR 8 : z : ve : : : : : 3 ; | :
+: | < 2 rt 7 ty ae os Ce va ties aes wv ri ae ee ae ae Y Sia Ns ee eee eee, Be
+: a a s 2 e : 4 Sie ‘ atm Ns ee 4 _ Petty oh ae sth gar pat hg Ma! rhe ee hai Cad pe ey 2; gaa. Re aN A Te % hee here Avec Fue 6 bite rk Coes in f Sah Be ear sh ae
+Pt B ri bit 25 ep ole os, be ” Sy Oae Stree: Bs te ® ore Reet By wee . eta vg Pare 5 by. 3 ae sr ty ee 2 oe cht Fo ah : eyes a es ig ey Hae or ree ed HE ee: Fe writing : eh “i pe ie iv
+aay in Fs cs te wh Li oa ee ake e va oe eae : aS: sheet Bie Bi fee Lae a oe ie eae ‘ a ae ie ss : 4
+, | : : : ; , . - 3 7 : a ate Pik hee Pee 4 ea BY Fo ree e's ee ies ‘s Rear Las Vota Sia Ps Bg Ag Sarat oA WS a
+1 haat ne = en Wtae toe ene nhs eae Jas i mau Sees MEP Ret mee oe ee ae Bere alee ae ees Lieb ae ee ae ge ie RS a BS
+4 : : | a : e o : . Ae ie ae BPE. oat a a oo Bey ee es te i re e ae
+: | : 3 7 : | § ie ve Pathe te RR 1h ee ne tye gees vga cates ey, hones oe Ree Miata’ Bo h eather. ae ey. t% are?
+: : ‘: . : 7 oe ‘a At AR pe Naa sess Salk Hee vic eats Pi a ai eal nt Paw aL? ey rite See texan basse caer re ae a eh A Bes pea a ers: Cries, Pa:
+eat F Sohe |. Aagtoys ged, ap ue + Sant ra % ar ete: Ghd ae A wey peas + ee yas oe hina £ a Pgh vas Gy Ay oY ae Nee. ine ny Pie f ee ety ak Ba) Ano Basen any - : ay 2 : : ; |
+NS ass ‘ BOA tian Oe ee ed pe Riey: \ US A a tay iste: or ea * f ot eg ete! hee or ee mee. % Wr %y et Ronee Boi, ah WAS et ae ey of te feds pine (4 PRE) tebe Ot Sane ay Bet onetaG fs Wh Bee
+Pate MES Peg a ae aN Wecitoy yet rans eh iar AM site A: "eet at ? iw clas” ped Ae fi uso ae ¥, Be oat Laas, ie Pee aie Mai mt sea . sag ay) a Cit paged come or Be os Bera eee
+AVA. Beeeey eee Sek is ria 6S ai M ae oe See ea aM. Sp fe se x A Sy a oe! oe Biagio: 4 Ae kis ee iis pa yn ae hak. Be a fT heste TF Bat Nt eh = ah co ‘= * : ; -
+Ate - Be RK aes “ aie a CO isha oat users Tee; 4, Beret aay LSE ss $5 DeDay “ eat “hee ic aa aur sy “*) A Oo baaee ae ea " 3 is ig - 4 |
+hk Beek es eR ig sitar th gate ae Bigg ae eae ihe Beats Were: Se wees Nas Soe Rene Bh ha bea ede ree Ean e oS aa Bee IS & oe a : ae
+: a : a é he ce wee Dyan ee Bea es core or. Bes: 2 eieey py ae a Ee es eee om cae ¥ oe Re ee Kae
+s Vaan) aie ie each are Piagse 2 Ee roe ia ee Ny BAY eat rey CRS gy By ek RNa Payee a a NG oak eee ca at hates Re ae mee tae SO ee : ine : igh 5 : a : . : :
+ae KN pay Sey nes Sith se bese es phous A R eae Pay a eae’ ay it he fie ay ad hee Ed aaah Ly: ree he ets x Mache. ee ce Ag io ~ ak pen Tee i Keep a bi Pitt . fea Mo Ta Re ‘AS a wy 2
+hake ey warty ae Hide: ie at Wo cs ‘i ba, nae See hi ; Wy Raye Ete fl ES aes eats alight: Bere. cyte) 4. i Bias a ee ten, tg Subs ie’ Se Bayt s. eae Be, : . ; ‘ .
+% | = , % : 3 & ; sige bie ¢ Nees LAR a of itp ey; Sei si Pi lai Say as Beet eed PE Ss fo BS oe EOE Boy “he eye . Rey papain aft ahs nh fe Pa ke, Bi wT a at Fy
+t ea s) ene ay ey i es eee tee ee tae ae 2 mat ok ain) peer aa pi Sf, i e2 by . Mies, ae pre Aa Bis. a ae eed oe eae asa oo3 ys oe ’ q - . = ; : :
+to Ge ee aes eat hy pea: ae Bie peck [Ms =, oe ae sd ary hae z Ae a % i : ‘ ; :
+gas bagi, So ay wis tay tea ; Shoal lO hat Re 5 are ey : ROP SaaS os +6 'D a ioe inet Ae ed oe Ah Br apd Saleh ah fue en yi f . ; ‘ ; : | , | | |
+re ope ein toatl ele ee ther, t side He Ae ‘ state a. AB bie fs ay fae ae Sh a pees * ae oe : : | | | .
+yO a ne ft i ep Fe ie Ret ga Wh aaa Pat Sih Bytoe, ais eh ac Cia atest Beg yds as, SS ni reas ( out gina Beak or Rn ose ae Spe as me ogi 4 ‘ ; :
+Mein . ie cehs shee hee in a ce Sy an oa yy anh fi BY hae Be iin Bae on “i ay Bae a (3 Sse ie i Ses, Y eee ere is oe . : a ‘ : . : ‘ j : : | :
+tt ean ogy Ee tee Les ey em ‘ein pa we fs eR iy i x et ay feeiny FR asst ies ah om ie Bie fe SiN pide res oe th BE hi rg fy orm Ae ae bea 8: Mia Rie = ry) bes Sis gant De 7, Ret
+x if : cS he sak OTN St Ses ; ge SOE nit” Viti Seat, Stay At) cant eh re aie po oe we eects aS A gee ton ; oetee AE ak men ras Aw PIR aay e Sieh oy Powe ane
+. : : : , : ) ‘ ‘ : ‘ a : : a eat : ot i é ‘ : : | . |
+ia Wes | lie ae su dll, ae te coer Wee Bos a 4 Beaty i eth CE ea ye tl aa Hiieee, eM Rs es om Thy ae 3) Cees a ee a : es ., eS A ; '
+a Ps Ropes SEN knee oy ree fy + Ge Pe a. Peace 5 mags Cora ios cies es fa aaa enh ie or hag ce rs Sys. Poy engin: is LP ORRESS eet Hr ©
+rave eee oe ee al Make es ‘gern’ Prey aia a, ee best mans hae Be ey i Wig Saher Bree ey Psy ii ha bigs os * Baits Sse aT eres naa ahs oat ea A ak i ee Sour ae a ig . = :
+aie aca eae rae cries ay ie Roan aka oe OA Me at Fe ede are Oae St Ba aghast seid eee. Ne Abe ae Me Dass pies Sih ae Pas Pk oe ee be ae
+‘ 5 : : Z m sf a et eet ae a SE Orie: Fe aS NS sar ee ead aS or aie Sonia ee) pate a ary sa 3, ei Re A
+stone ee 5 5 ai 9 eg ee Dieene F avi a Bas pas o> Porise Bears awe Cas BROS : Dae ’ NA fied Me ee ; oy PISO ‘3 ae oe ie) oe aoe a a e = 3 : i :
+: : : 2 : ‘ : Re ae Ms ey x pric Pes Pep: cei agit Ne ies be Pe Be Pas pias a me a eS mt, Peso Dp a ty Fy Un es he ag
+ee ONS st ee ete * Sea ey Fai Rh ; ese sg Sees any 2 bee ant one ae fea sete ae Ns ae aed gee eee he i Reese SaaS ba ne ted OS i Sfiesc ee els ; aes
+‘ ~ = he PiceesY case ener Be nde Dh aah ’ Pe ah ete ee 2 a Nya Sala Vie £ ha S ‘, ie ee ree hey. ns ate THe ae eon e kai} Ne ie ad bay Stoo 43 Rhy! Phe By s
+is bi Rela ites. a fica paN ges ai igi eke aah eee a eer Wht Fi) “i sae % ‘ si " ie pall ae eS ae ma eth, re Ae aot ES ee ae a : - é : | , -
+: es ee a eo * ree a ae “fe : radia pois ee q La a ra ue or i es oa ne pss ares Shy
+ar eg Re i ae eri ysey any ea BY ine We 3ilie Th Ry eau Mee de a 4 sa a Seo artes ey a ‘fi ial Bip a Ns sae a } : ce : 3 4 : ; :
+ae ARs je ig ese) dr a cia oe Ne fakes i Pan ii! pecs oe ‘ae de 33) ae Dik Ba igh Yaar cy cag eg he j a x : : :
+hg Be AS ae ma Mises hie he ef Saat at Meat: Be Hye somw £ te Pea 0 s. eH Ns a 8 5 ined Bod Ag: ete e Aah MSI | See 4 eee x4 Rae Mahete ere re iny =e be rae Mes idence ‘se a
+eae kes a: ean Ce MD aie a eke LBM es see eae Bat an a Maas |: One ee os Mies a eee Pes ae sore a iter Bats Mee fe My | . ‘ i: : ‘ ,
+; ‘ z | - C a Po See tS aba Ro es, Aieda Rupees ; ae tea ‘ey tag gat *8 sear Ries en We aa wats oy Bh aie Dacia Fane at 5 fate NS Pigs RR Bt Pay Ra eae
+> 2 tina Tw h fos aR Ne nee £: ois RF ee ee te te Tec PN ee mea yah fy ea Oe gttn ie reper tae eh ies i: i eae ee! een i ati on i a 4 : . i Z
+. ‘ see 3 ieee eae Bas Hs safe ie eee ae aeeai: cy Medien ae pds Mane ec dite Sak Rey Pe uh ees a aku Reta 2 ea Pa os Bes Bes Res 3 Sey RR a it pep * oF
+a ae a2 Re Wa Ke aed S Paiahs OC SS sae a ke mie es SR a aia ee Ure i, aay nek coe Ca ties eat Mgh 2 ae eas if eeimt RA. snes eee eee a s . ss d
+Sob ft aot ts3 “Pet bre) tay vex! tee Seasies A iid ein os, 4 were gesp ae dy x ee els S bee i a fe gat Mopee =a) aA e 3 pan Ser a wai) Petes ee utes es con ewe Reba 2 _ on
+te a > ae Scr d a TREE) yoke Aug Seta. Speak aa 4s aA bake etn rae Cate pee ty ca See pv Reet a ee ne whe ete? ory erate: ara a night #
+: ea: ee Bar ee Me RES e ee bea rit SNS hoa Bie ea a ried Pest aate He eA elas vette ad He hang eeoit ee ea as pisvcee soa es eat pune o SEY ig Ms
+; : , uPA 2 ia i c ; bee Ms nt Pe iS eae 2 tue an RR rata wey i ae RY Ht Rei apron Rett Tue Mat at, heey Be AY
+: d | oe ? : we: OE os ae ean oe a a ee Fee eG a Oe 4 ee ye ie ge U8 ee ae eee exe
+re Seah a Se me ee, Fs shy ie aoe bit, es is ie e sy an tr, ay WN, | Cohae ee. tae Ce i sr Mia. ‘3 a oar ee ‘up? oe . ik ae 4 : :
+a Nee yee ote (ete ter om nthe ee 5 at Hee PA 9 spe pase ‘ie ae Lae He aren wich nit it Aer Po: ae He fy Aah hee pues De OP pays Ke: oe ee wae 2: ah a . eo ‘ : : : é
+, . ) | : : 4 : : : fe A eh 5 5 aes we BS Na by a be Ci aes Ey Se pote ‘eters ent Ra: 3 AS beh Gite Bi Ss Pact ae Roa vat bins Rae ae Ahi. ge = eS MP
+:. * i ae oe ne yeti SORE 8 yr eres 184 7a ond aa vee. Matas) vee, me RN pee Rg ieee } hare oe seen Oe “adage Cay moe Meigs eas
+: Pees oo ieath ahs ene a ae wD Vigo ast Bar Ppliy oe ‘ lg ee ae Medan: ate eres o eee fee e ee eee: Al mis Care ae toa ni Me ens Rod PR ai we e iN :
+ir Shera MR ark. a aaa abs Et a > spain a ye tN Nae ee Higa es, ota elt aheree BS - ; : 7 ‘ s | . 3 : , ;
+oF Mansy eee ¢ ee hy PR te Boies oh f2o ine aah te me SS a oh BSE Nee. Os oe Sete ae tom Sap Reed Bek ‘ess cas ae 33 43 aN: be Ngee jay eat er #3 eae ey - es ‘
+, : 7 ) C . : 3 ; ey . oe i Ds es ae ee oe oe Bion eee el aS 7 ae Lae oe oe aoe mies
+‘amis Sede A a Sot oA Pe ree eye oe ae ay sh ies, ae ola er a i ip ar Ba pee Bi ee eae se ole we “f BA ae, ie RATA JERE, % Sit pa ae a : ‘ a z ,
+, : : : ae a rc ie Pee oe Ge te Pai hee s pee eee BEN +
+: ‘ + . we ee. ee 3 he i ee A Se capty eet rs ae ek ear | ys he Se o ae gas ae “i Ps ie tee ees Re tate ite ‘a ra hana eee
+¥ Sti Poe, ae is es oat 6 Ne aes ek aan aoe pene ee oe : “ cs 3 ‘ # ; : : ,
+| | | , , ‘ | : : 3 : : : 2 a ee abe, hie ae hg = a ane ey str te na ot a 4 Ye Fins ee Be See
+: : : , : i o> oP nog, ‘ Re. AG Ties ae tae Aad ial Lae “4 WA Repti rt a9 Be Rad he aon Posy hs Ne Rak ‘tt ayer Ss * GeeHy. a 3 oe peel a Was ee oS he RG Z
+py Same Sa ish a Mea sie ya bilge Sine Gh Sn mS si gals stay as HERE a $2 ee Faris air eae Cree m ae ‘ : : : : ; | : | . , |
+= ee aes ote, wie ee eae OE ae Bhs ee sae ee ef ee oe me ee eos : Mee! ieee te Ay Sato s
+: . i me o a oes bar et Me cee Anas Bite | bee whe ee noe roy - Sr ag he Pie ee We Maa St ER Re ee bee ts es, Ebi Soe
+| rae 2 N a Re, Ri: f say ee) CE i Fe ie Mee se rs, ettoy Tees: Pe Sie ek wy Ras = eegh fies wee 4 es : ng gen Pes fos naa & eerie # Awe
+bd ape Ray ao Bae yas, my tI ee aii lg Nee, Ce ie gana Sa, 1 nied Bark! ; 5. Eat ghey tenes ee ae oe its Bal Wr a tee * . 4 . A
+a, Mee he oe Tee ee Ht ea a ibe ean foiiene ie res che ee od . - oe a r
+y ads ay Dee A tit eaee Dy he ye: Woah th “beta bing ee bt, pine A ip ae ey ar san Vette. ny ae. hy te Re ot ik 3 AC a oe arts “Cy eatin oo pease i Sea le 2 eN % ens PH Ais i a
+' 2 a a he : - wh sist: ae Yara es Fn hie Pat Vega a ae ‘ tani hed % ipeanic’ ier aioe OE ay alas, 4 sea he Sf ite “ay Sits Ky sco
+ee Ai RES re tee, St bak sie a its Stun wel eat 2 panes Speen a ie As atest Cat, Pies ¥ stay sly Matt ms ee gee go ils ey ¥ ery nes ye NS ae Sie veh ee i me 2 ; a
+We SEN Eat a ee ay Sao + Tea Pres Np waa % tye PAL tN ; es ee serch ys sary eae aaa a aety Sree tag ie A Ras, pike. ‘de Sh : #5 oat
+= | : : ae ia pee See a ‘ ae re ae eon re ee oe ae i a
+s pe Sa ea eco ue ah oe Rio ot aba * mes ud: ai Pai A ; Aah SM he 6 att 1 ety RAS op) es eo vis Oe ey pee ee tts ) 8 38 fy ap ke: aba cent 2, Tete PS TRS Ng HEA MG
+a: ie he She Bee AEE ‘e Sai es eae eee wae aa ase ee ee Pets ges 3 a bs ha ears: as: 3 aie eh ee PRS ion Oe be . eS
+ng ea aan se heae ag, ye eh if et ds a Sin, tea fe bh % Wa, Acasa Be et he ces ae eS a ns
+: Sat sede Peaks hie iat, Lie, ae ps eae eae te thes Se ak claus Ap a Rete at ii ieee ras sees ain ee Recs teeny ps ee :
+5 | > os i : a ba é re ie | eh Reais Ress, eS wae Duels ee ers AP Gh tes et dion an Pat aan Ns see res
+; Sie ite Yi ig eee qitkae oy es oe at rane Pes ee, on Ba pen a eee ie Sen Sea ae ete is ae ya Bao. ie :
+ee Cages ie feds cay See MES eins gan: ue a oe Lee es
+. Sa are ge hy aoe Pat see Se aaa a bs Ws iret Laue At Pat Piss ce ae cey eo , : : | :
+: 2 : ees eet tas so ena | 78 bee as ie * $9 eae 2 ap sane ae “pean a tees Weg 33
+y ‘Ve Ya oi ced ‘ edt cp ues a aisaati us B24 Say aes my Te Ricky: Fs hee : " | i : S : i : ‘
+‘ rae aoe ee Mole 2 Gee: es ee - ; = : We
+Mita | jini eas Ass gh hee £ aa fie Lae Sets eaheaets ae alo anon eh? peg Oe ais wets oe ia ; . b a
+: : one . ee beets ane Mere Oa ane ti weehe fae ne an, E Eek ave
+. Mek hae be BE Nig sh 15 ss) ocd ; pes UF teas eben 1 (Spor pp ee i tae 3 Oe eld cee Kee: er
+ie Sone Bade? STs Se a? ate ra sy ie hy AK ay hope Cee: Mg e
+wo eae Bee talk oe ie boat ae. Heb k Kee es iccds cee eee -
+: a : * wa ay > Se wae ripe + ERB 30 ie: save ae oes
+eat ve a aah a Sepa aan ts he Ay Ss fret aes “aa pg tis ‘Me: Ha a age ye = - *
+ete ree ieee eee: shite eae er ee hae
+Hed; gen Rr ‘une rele <3 nee oud ee el a
+ie ia ge ea: fas oh, sepee Be i aeacee ais a ?
+mee Spe tp ety ie P ne rele be sain + ae ae ve Be :
+Ee 4 e Kear: ale oe ae Daeg
+q gua 2 yok oi teat nee Bes Ba o oe
+Heh Pele ace de Bs Rs ae eae bee ee om Cig
+be ph tate se af Bd: fee awl a A ahs Hite ae ae a
+"deh te ge i a ae i MW ye se a) De
+a Lie Ae hee at ay ty
+oe ie Auk ree te
+| 3 ¢ 5 =
+

@@ -1,0 +1,92 @@
+digraph {
+
+digraph {
+    nodesep=0.5;
+    labelloc = "b"
+    fontname = Arial
+    node [
+        shape = rectangle
+        width = 1.5
+        color= lightgray
+        style = filled
+        fontname="Helvetica,Arial,sans-serif"
+    ]
+    edge [
+        len = 2 
+        penwidth = 1.5 
+        arrowhead=open
+        color= darkgray
+    ]
+    start = regular
+    normalize = 0
+
+    subgraph cluster_0 {
+        style=filled;
+        color= deepskyblue;
+        node [style=filled,color=white];
+        SentenceTransformers -> SentenceTransformerEmbeddings -> Annoy -> MultiQueryRetriever;
+        label = "Option #1";
+    }
+
+    subgraph cluster_1 {
+        style=filled;
+        color= yellowgreen;
+        node [style=filled,color=white];
+        TikToken -> OpenAIEmbeddings -> FAISS -> ContextualCompression;
+        label = "Option #2";
+    }
+
+    subgraph cluster_2 {
+        style=filled;
+        color= orange;
+        node [style=filled,color=white];
+        NLTK -> LlamaCCP -> Chroma -> ChromaSelfQuerying;
+        label = "Option #3";
+    }
+
+    subgraph cluster_3 {
+        style=filled;
+        color= deeppink;
+        node [style=filled,color=white];
+        SpaCY -> SpaCYEmbeddings -> Chroma2 -> ChromaSelfQuerying2;
+        label = "Option #4";
+    }
+
+    subgraph cluster_4 {
+        margin=40
+        style=filled;
+        color= gray;
+        node [style=filled,color=white];
+        rankdir=LR;
+        Stuffing, Refine, MapReduce, MapReRank;
+    }
+
+    source -> PyMuPDF;
+    PyMuPDF -> SentenceTransformers;
+    PyMuPDF -> TikToken;
+    PyMuPDF -> NLTK;
+    PyMuPDF -> SpaCY;
+    MultiQueryRetriever -> Stuffing [color = lightblue]
+    MultiQueryRetriever -> Refine [color = lightblue]
+    MultiQueryRetriever -> MapReduce [color = lightblue]
+    MultiQueryRetriever -> MapReRank [color = lightblue]
+    ContextualCompression -> Stuffing [color = lightblue]
+    ContextualCompression -> Refine [color = lightblue]
+    ContextualCompression -> MapReduce [color = lightblue]
+    ContextualCompression -> MapReRank [color = lightblue]
+    ChromaSelfQuerying -> Stuffing [color = lightblue]
+    ChromaSelfQuerying -> Refine [color = lightblue]
+    ChromaSelfQuerying -> MapReduce [color = lightblue]
+    ChromaSelfQuerying -> MapReRank [color = lightblue]
+    ChromaSelfQuerying2 -> Stuffing [color = lightblue]
+    ChromaSelfQuerying2 -> Refine [color = lightblue]
+    ChromaSelfQuerying2 -> MapReduce [color = lightblue]
+    ChromaSelfQuerying2 -> MapReRank [color = lightblue]
+    FAISS -> MultiQueryRetriever [color = yellow]
+    Annoy -> ContextualCompression [color = yellow]
+    LlamaCCP -> FAISS [color = yellow]
+    OpenAIEmbeddings -> Annoy [color = yellow] 
+
+    source [shape=Msquare];
+}
+}
