@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>TAXA Project - Extract text from a PyMuPDF</title>
+<title>TAXA Project - Option 1</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -183,7 +183,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#text-splitters" id="toc-text-splitters" class="nav-link active" data-scroll-target="#text-splitters">Text Splitters</a>
+  <li><a href="#extract-text-from-a-pymupdf" id="toc-extract-text-from-a-pymupdf" class="nav-link active" data-scroll-target="#extract-text-from-a-pymupdf">Extract text from a PyMuPDF</a></li>
+  <li><a href="#text-splitters" id="toc-text-splitters" class="nav-link" data-scroll-target="#text-splitters">Text Splitters</a>
   <ul class="collapse">
   <li><a href="#sentencetransformers" id="toc-sentencetransformers" class="nav-link" data-scroll-target="#sentencetransformers">SentenceTransformers</a></li>
   </ul></li>
@@ -216,7 +217,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Extract text from a PyMuPDF</h1>
+<h1 class="title">Option 1</h1>
 </div>
 
 
@@ -231,12 +232,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Option1_files/figure-html/249dfcc8-1-Possible Architectures.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Possible%20Architectures.png</figcaption>
-</figure>
-</div>
+<ul>
+<li>SentenceTransformers Splitter</li>
+<li>SentenceTransformerEmbeddings</li>
+<li>Annoy</li>
+<li>MultiQueryRetriever</li>
+<li>RetrievalQA with “Reduce”</li>
+<li>RetrievalQA with “Re-rank”</li>
+<li>RetrievalQA with “Stuff” and memory</li>
+<li>Memory</li>
+</ul>
 <div class="cell" data-execution_count="14">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
@@ -275,6 +280,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> pretty_print_docs(docs):</span>
 <span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="ss">f"</span><span class="ch">\n</span><span class="sc">{</span><span class="st">'-'</span> <span class="op">*</span> <span class="dv">100</span><span class="sc">}</span><span class="ch">\n</span><span class="ss">"</span>.join([<span class="ss">f"Document </span><span class="sc">{</span>i<span class="op">+</span><span class="dv">1</span><span class="sc">}</span><span class="ss">:</span><span class="ch">\n\n</span><span class="ss">"</span> <span class="op">+</span> d.page_content <span class="cf">for</span> i, d <span class="kw">in</span> <span class="bu">enumerate</span>(docs)]))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<section id="extract-text-from-a-pymupdf" class="level2">
+<h2 class="anchored" data-anchor-id="extract-text-from-a-pymupdf">Extract text from a PyMuPDF</h2>
 <p>According to <a href="https://python.langchain.com/docs/modules/data_connection/document_loaders/how_to/pdf#using-pymupdf">LangChain</a>, PyMuPDFLoader is the fastest PDF parsing option and contains detailed metadata about the PDF and its pages, as well as returns one document per page.</p>
 <div class="cell" data-execution_count="17">
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Read in some Data</span></span>
@@ -289,6 +296,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <pre><code>19</code></pre>
 </div>
 </div>
+</section>
 <section id="text-splitters" class="level2">
 <h2 class="anchored" data-anchor-id="text-splitters">Text Splitters</h2>
 <p>The concept of text splitters revolves around the need to break down long pieces of text into smaller, meaningful chunks.</p>
