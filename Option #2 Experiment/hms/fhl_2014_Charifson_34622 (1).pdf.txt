@@ -1,0 +1,556 @@
+Charifson 1 
+ 
+Snail Predation by Hemigrapsus nudus and Hemigrapsus oregonensis: Sex and Species 
+Differences in Chela Size. 
+ 
+David Charifson1,2 
+ 
+Marine Invertebrate Zoology 
+Summer 2014 
+ 
+ 
+ 
+ 
+1 Friday Harbor Laboratories, University of Washington, Friday Harbor, WA 98250 
+2 Department of Ecology and Evolution, Stony Brook University, Stony Brook, NY 11794-5245 
+ 
+ 
+ 
+ 
+Contact information: 
+David Charifson 
+Department of Ecology and Evolution 
+Stony Brook University 
+650 Life Sciences Building 
+Stony Brook, NY 11794-5245 
+David.charifson@stonybrook.edu  
+ 
+ 
+ 
+ 
+Keywords: Hemigrapsus nudus, Hemigrapsus orogenensis, Littorina scutulata, Lacuna vincta, 
+predation, sexual dimorphism, character displacement  
+ 
+ 
+Charifson 2 
+ 
+Abstract: 
+ 
+The relationship between propus size and use of snails as prey in sympatric populations 
+of Hemigrapsus nudus and Hemigrapsus oregonensis was investigated. Propal height and propal 
+width increases with body size in a predictable manner in male and female crabs of both species. 
+Sexual dimorphism of propal height and width relationships in both shore crabs is apparent, but 
+there was no detectible difference in chela size between H. nudus and H. oregonensis. The lack 
+of difference in chela size between sympatric H. nudus and H. oregonensis suggests that there is 
+no character displacement in this trait. Both species of crabs showed a strong feeding preference 
+for the thin-shelled gastropod Lacuna vincta over the thicker shelled Littorina scutulata, likely 
+due to the ease of consumption. There were no differences in snail consumption rates between 
+male and female H. nudus of similar propal heights, mostly due to high feeding variation among 
+individual crabs.  
+ 
+Introduction: 
+ 
+A multitude of species coexist in the marine intertidal environment. Closely related 
+species may be sympatric and compete for resources, such as food. Two species of shore crab, 
+Hemigrapsus nudus (Dana 1851) and Hemigrapsus oregonensis (Dana 1851), occur in sympatry 
+in the Salish Sea. Both species are sexually dimorphic, with the males having larger chelae. 
+Species in sympatry may exhibit character displacement, the exaggeration of morphological or 
+behavioral characteristics due to competition for resources (Brown and Wilson 1956). When H. 
+nudus and H. oregonensis co-occur, H. oregonensis tends to be found closer to the waterand in 
+finer sediment than the more desiccation-tolerant H. nudus (Sliger 1982). There is still 
+considerable habitat overlap between these two species; the underside of a single rock may have 
+Charifson 3 
+ 
+roughly equal abundances of the two crab species (personal observation). The size of the chela 
+may differ, which could allow the crabs to differentiate in food resource utilization. 
+Both species are omnivores that eat algae and small invertebrates, including snails 
+(Behrens Yamada and Boulding 1996). The two shore crab species are known to eat Littorina 
+sitkana (Philippi 1846) and Littorina scutulata (Gould 1849), which also occur in the rocky 
+intertidal zone (Behrens Yamada and Boulding 1996). Li. scutulata moves upshore in response 
+to the presence of H. nudus and crushed conspecifics, where H. nudus density is lower (Keppel 
+and Scrosati 2004). This suggests that H. nudus represents an ecologically significant predation 
+threat to littorines.  
+ 
+The thick shelled littorines are difficult prey for both H. nudus and H. oregonensis as 
+neither crab species is a molluscivore specialists; they typically scrape or pick algae and softer 
+invertebrates off rocks using their chelae (Behrens Yamada and Boulding 1996). Behrens 
+Yamada and Boulding (1998) found that large H. nudus were capable of consuming Li. sitkana 
+that were less than 8 mm in length, but had only a 37% success rate of consuming snails with 
+lengths between 5.5-7 mm .  
+I sought to investigate differences in propus size between between males and females of 
+these two crab species. The size of the propus of the chela is positively correlated with the 
+amount of force that can be produced due to greater musculature (Behrens Yamada and Boulding 
+1998). A significant difference in propus size between the two species would suggest that further 
+testing of character displacement may be warranted. A disparity in propus size to body size 
+between male and female crabs might result in different feeding rates and shell breaking 
+capabilities. I devised a test of preference by varying snail shell strength within the same size 
+class. The snail species Li. scutulata and Lacuna vincta (Montagu 1803) are both in the family 
+Charifson 4 
+ 
+Littorinidae and have similar shell shape but different shell thickness. Lacuna vincta has a 
+thinner, more fragile shell and is likely to be preferred as prey by shore crabs. I also hypothesize 
+that, if chela size is held constant, female crabs will have greater snail consumption rates than 
+male crabs. Female crabs with claws equivalent to males have a larger body mass,are likely to 
+have greater metabolic need, and are less easily satiated. 
+ 
+Study System: 
+ 
+All specimens were collected on San Juan Island, Washington.  Two shore crabs (clade: 
+Brachyura: Family Grapsidae), Hemigrapsus oregonensis  and Hemigrapsus nudus were 
+collected in the intertidal adjacent to the Friday Harbor Laboratories dock. These closely related 
+crabs are morphologically similar, but can be distinguished by the presence of purple spots on 
+the cheliped of H. nudus and abundant setae on the pereopods of H. oregonensis (Kozloff 1987). 
+Lacuna vincta, in the Class Gastropoda and Family Littoridae, were collected at False Bay and 
+Dead Man Cove. Littorina scutulata, in the Class Gastropoda and Family Littoridae, were 
+collected from the rocky intertidal zone of Fourth of July Beach.  
+ 
+Materials and Methods: 
+Morphometrics 
+ 
+Male and females of H. oregonensis and H. nudus were measured with digital calipers 
+(0.1 mm). Each crab was measured for carapace width, propal height and propal width. Carapace 
+width was taken at the widest part of the carapace. Propal height was measured at the highest 
+vertical distance along the propus. Propal width was measured perpendicular to propal height, 
+from the left to right sides of the propus. All claw measurements were made on the left cheliped. 
+Charifson 5 
+ 
+If there was a size disparity between the left and right claws due to regeneration of a lost claw, 
+the crab was excluded from the study. Ratios of carapace width:propal height (CW:PH) and 
+carapace width:propal width (CW:PW) were calculated.  
+ 
+Crab Feeding Preference 
+ 
+Three female (Fe1, Fe2, Fe3) and three male (Ma1, Ma2, Ma3) crabs of H. nudus with 
+propal heights between 5-6 mm were placed in small flow-through containers. Five L. scutulata 
+and five L. vincta with shell lengths between 4-6 mm were added to each container. The ranges 
+of crab propal height and snail shell length were chosen based on prior studies to ensure that the 
+crabs were capable of feeding on the hard-shelled L. scutulata (Behrens Yamada and Boulding 
+1998). H. oregonensis was excluded due to the rarity of female crabs of that species within the 
+range of appropriate propal heights. After approximately 15 hours the number of L. scutulata and 
+L. vincta consumed was counted. Three trials were conducted for each crab. 
+Snail Consumption by Hemigrapsus nudus 
+ 
+The crabs from the preference experiment were given five of each snail in each trial. 
+After 1.5 to 3 hours the number of snails consumed was counted and converted to a consumption 
+rate (snails consumed/hour). A total of eight feeding trials were conducted.  
+ 
+Statistical Analysis 
+ 
+For the morphometric analysis, crabs were divided into four groups based on sex and 
+species. Standardized major axis regression was used to determine the relationship between crab 
+morphometric parameters. Arcsin transformations were used to correct for non-normality (Sokol 
+and Rohlf 2011). Differences in CW:PH and CW:PW were analyzed using a two-way ANOVA 
+Charifson 6 
+ 
+with factors: Sex and Species. Prey selection by H. nudus was analyzed using G-tests for each 
+individual that consumed snails. An one-way ANOVA was used to determine differences in snail 
+consumption rates by H. nudus.  
+ 
+Results: 
+Morphometrics: 
+ 
+Carapace width was a good predictor of both propal height (Figure 1, Table 1A) and 
+propal width (Figure 2, Table 1B) in female and male H. oregonensis and H. nudus. There was 
+less variation in the relationship between carapace width and propal height than with propal 
+width.  Due to non-normality of CW:PH and CW:PW an arcsin transformation was used. A 
+significant effect for sex was found for both CW:PH (F1, 45 = 125.6, p < 0.001) and CW:PW  (F1, 
+45 = 103.81, p < 0.001). There was no significant difference between Hemigrapsus species for 
+CW:PH (F1, 45 < 0.01, p = 0.983) and CW:PW (F1, 45 = 0.09, p = 0.764). A significant 
+sex*species interaction was detected for both CW:PH (F1, 45 4.39, p = 0.042) and CW:PW (F1, 45 
+= 7.19, p = 0.010). Figure 3 and 4 show the means of CW:PH and CW:PW in by sex and species 
+respectively.  
+ 
+Crab Feeding Preference:  
+ 
+Expected values for both the number of L. scutulata and L. vincta consumed for the G-
+test are 0.5 multiplied by the total number of snails consumed by each individual crab. G-tests 
+for individual H. nudus that eat snails were all significant at p < 0.001 with 1 degree of freedom 
+(See Table 2 for statistical summary). The three crabs that did not eat either L. scutulata or L. 
+vincta could not be tested for feeding preference.  
+Charifson 7 
+ 
+ 
+Snail Consumption by Hemigrapsus nudus 
+ 
+No significant difference in crab feeding rate (snails consumed/hour) was found (F2, 21 = 
+2.52, p = 0.104) among individual H. nudus that fed on snails during the course of the 
+consumption experiment (Figure 5). Fe2  ate snails at a rate of 0.59±0.53 snails/hour (variance is 
+standard deviation), Ma1 feeding rate was 0.24±0.31 snails/hour, and Ma2 had a feeding rate of 
+0.80±0.38 snails/hour. Individuals Fe1, Fe3 and Ma3 did not consume any snails during the 
+course of the experiment.  
+ 
+Discussion: 
+ 
+A few interesting patterns emerged in the morphometric analysis of Hemigrapsus nudus 
+and Hemigrapsus orogenensis. The variance in propal height or propal width explained by 
+carapace width was surprisingly high in female H. nudus with R2 values of 0.976 found for 
+propal height and 0.927 for propal width. Male H. oregenensis had the greatest variation in chela 
+size parameters, demonstrated by R2 of 0.693 and 0.534 for propal height and propal width 
+respectively. The R2 values for propal width regressed against carapace width were consistently 
+lower than propal height regressed against carapace width across species and sexes (Table 1). In 
+general the ability of carapace width to explain the variance in chela size parameters (i.e.: R2 
+values) was greater in females of both crab species (Table 1, Figures 1 and 2). Males may have 
+more variation in claw size due to trade-offs between claw size and factors like feeding 
+efficiency or resource allocation. Trade-offs relating to chela size are found in fiddler crabs, 
+which exhibit extreme sexual dimorphism. Fiddler crabs have a trade-off between the intrasexual 
+competition and intersexual signaling functions of the dimorphic claw (Swanson et al. 2013). 
+Charifson 8 
+ 
+This is not to say that the particular trade-offs in fiddler crabs case are analogous to that of 
+Hemigrapsus, since both claws in the two shore crabs in this study are used in feeding.  
+Sexual dimorphism in chela size, which is readily apparent to the eye in both 
+Hemigrapsus nudus and Hemigrapsus oregonensis, was detected statistically (Figures 3 and 4). 
+The two-way ANOVA with factors sex and species did not show a significant species effect, 
+suggesting that the claws of both shore crabs produce roughly the same force and are 
+functionally equivalent (Behrens Yamada and Boulding 1998). The lack of morphological 
+difference in the size of the chelae between the crab species removes the possibility of character 
+displacement in the trait. It should be noted that this study was not designed to test for character 
+displacement, but to determine if this would be an interesting question for future investigations. 
+To make a compelling case for character displacement it is necessary to compare multiple 
+sympatric and allopatric populations with similar abiotic and biotic conditions (Stuart and Losos 
+2013). Also it must be demonstrated that the trait differs due to genetic differences between 
+sympatric and allopatric populations, that the differences between the populations are not due to 
+species sorting, that the morphological trait is correlated to differences in resource use between 
+the two sympatric species, and that the similar phenotype in allopatric populations compete for 
+the same resources (Stuart and Losos 2013). The tendency of H. nudus to occupy the upper 
+intertidal zone (Sliger 1987), despite considerable overlap with H. oregonensis, may provide 
+enough differential resource use to prevent exclusion in sympatry. Desiccation tolerance may be 
+a better trait to test for character displacement in these shore crabs.  
+H. nudus males and females clearly preferred to eat the thinner shelled Lacuna vincta 
+(Table 2). During the course of the feeding preference experiment all the crabs that ate snails 
+consumed L. vincta exclusively. However, one Littorina scutuala was eaten by H. nudus when 
+Charifson 9 
+ 
+determining consumption rates. The six crabs were chosen because their claws were of 
+appropriate size to eat littorines with shell length between 4-6 mm, yet only half of the crabs ate 
+these snails. This could be due to insufficient time to acclimate H. nudus to lab conditions and 
+possibly reduced feeding associated with molting. Male snow crabs, Chionoecetes opilio, were 
+shown to cease feeding 3-6 weeks before and 3-4 weeks after molting (O’Halloran and O’Dor 
+1988).  
+It was my original intention to test for sex differences in consumption rates, but this was 
+not possible as I could not collect many crabs of the appropriate claw size for gastropod feeding 
+and many of the crabs I did collect did not feed. There were no statistically significant 
+differences in consumption rates (snails eaten/hour) among the three feeding H. nudus. These 
+individuals had highly variable feeding rates, mostly due to trials in which the crab did not feed. 
+Sylvia Behrens Yamada and Elizabeth Boulding (1998) found that H. nudus consumed 1.8 
+Littorina. sitkana/individual crab/day. In my study crabs fed on 13.03 Lacuna vincta/individual 
+crab/ day. The greater consumption rate in my study is likely due to the easily breakable shells of 
+La. vincta.  
+The findings of this study suggest that there is no potential for character displacement of 
+chela size in the sympatric H. nudus and H. oregonensis. This leaves the question of species co-
+occurrence open to other possibilities. H. nudus has a strong preference for La. vincta, but it 
+seems as if there have been no studies that show predation on La. vincta in the field. It should be 
+noted that H. nudus and La. vincta usually occupy different portions of the intertidal and may 
+have little contact with each other, unlike the relationship between H. nudus and Li. scutulata. 
+There is some potential for overlap in the winter when La. vincta migrates up shore. Although no 
+differences in consumption rates between male and female H. nudus were found, this might be 
+Charifson 10 
+ 
+due to logistical issues surrounding the experimental design and little replication. Future studies 
+should include more crabs, the exclusion of non-feeding crabs, and trial periods with longer time 
+intervals. Additionally, any subsequent study should utilize multivariate and geometric 
+morphometric methods to quantify claw shape instead of using ratios, as two similar ratios may 
+have different shape.  
+ 
+Acknowledgements: 
+ 
+I would like to thank Dianna Padilla, Michael LaBarbera, and Kevin Turner for advice 
+relating to the experimental design of this study. I would also like to thank the director and staff 
+of Friday Harbor Laboratories for use of facilities and permission to collect organisms. Friday 
+Harbor Laboratories, The Libbie Hyman Scholarship, Society for Integrative and Comparative 
+Biology, and the Stony Brook Department of Ecology and Evolution provided financial support 
+and have my gratitude.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Charifson 11 
+ 
+Literature Cited: 
+Behrens Yamada, S. and Boulding, E. 1996. The role of highly mobile crab predators in the
+ 
+intertidal zonation of their gastropod prey. Journal of Experimental Marine Biology and
+ 
+Ecology 204: 59-83. 
+Behrens Yamada, S. and Boulding, E. 1998. Claw morphology, prey size selection and foraging
+ 
+efficiency in generalist and specialist shell breaking crabs. Journal of Experimental
+ 
+Marine Biology and Ecology 220: 191-211. 
+Brown, W. L. and Wilson, E. O. 1956. Character displacement. Systematic Zoology 5:49-64.  
+Keppel, E. and Scrosati, R. 2004. Chemically mediated avoidance of Hemigrapsus nudus
+ 
+(Crustacea) by Littorina scutulata (Gastropoda): effects of species coexistence and
+ 
+variable cues. Animal Behavior 68: 915-920.   
+Kozloff, E. N. 1987. Marine invertebrates of the Pacific Northwest. University of Washington
+ 
+Press, Seattle, Washington, USA.  
+O’Halloran, M. J. and O’Dor, R. K. 1988. Molt cycle of male snow crabs, Chionocetes opilio,
+ 
+from observations of external features, setal changes, and feeding behavior. Journal of
+ 
+Crustacean Biology 8: 164-176.  
+Sliger, M. C. 1982. Distribution and microhabitat selection of Hemigrapsus oregonensis (Dana)
+ 
+and Pachygrapsus crassipes (Randall) in Elkhorn Slough, Monterey County, California.
+ 
+M.S. thesis, California State University, Hayward. 75 pgs.  
+Sokol, R. R. and Rohlf, F. J. 2011. Biometry. 4th ed. W. H. Freeman, New York, New York,
+ 
+USA. 
+Stuart, Y. E. and Losos, J. B. 2013. Ecological character displacement: glass half full or half
+ 
+empty? Trends in Ecology and Evolution 28: 402-408. 
+Charifson 12 
+ 
+Swanson, B. O., George, M. N., Anderson, S. T., and Christy, J. H. 2013. Evolutionary variation
+ 
+in the mechanics of fiddler crab claws. BMC Evolutionary Biology 13: 137. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Charifson 13 
+ 
+Table 1: SMA regressions of carapace width and propus measures.  
+A) The relationship between carapace width and propal height. x is carapace width and y is 
+propal height. B) The relationship between carapace width and propal height. x is carapace width 
+and y is propal width.  
+ 
+ 
+ 
+SMA Regression  
+ 
+A 
+ 
+N 
+Carapace Width vs Propal Height  
+R2 
+ 
+Female H. nudus 
+13 
+y = 0.273*x - 0.678 
+0.976 
+ 
+Male H. nudus 
+13 
+y = 0.311*x - 1.385 
+0.868 
+ 
+Female H. oregonensis 
+9 
+y = 0.351*x - 0.833 
+0.894 
+ 
+Male H. oregonensis 
+14 
+y = 0.39*x - 1.149 
+0.693 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMA Regression  
+ 
+B 
+ 
+N 
+Carapace Width vs Propal Width  
+R2 
+ 
+Female H. nudus 
+13 
+y = 0.157*x - 0.386 
+0.927 
+ 
+Male H. nudus 
+13 
+y = 0.209*x - 1.288 
+0.859 
+ 
+Female H. oregonensis 
+9 
+y = 0.175*x + 0.037 
+0.724 
+ 
+Male H. oregonensis 
+14 
+y = 0.244*x - 0.688 
+0.534 
+ 
+ 
+Charifson 14 
+ 
+Table 2: Size and prey preference in H. nudus.  
+Size parameters of experimental Hemigrapsus nudus and number of prey consumed in 24 hour 
+intervals (three trials). Crabs Fe1, Fe3, and Ma3 did not feed on snails and were not testable (NT) 
+for preference. 
+Individual 
+Carapace 
+Width (mm) 
+Propal 
+Height (mm) 
+Number of 
+Lacuna vincta 
+consumed 
+Number of 
+Littorina scutulata 
+consumed 
+ 
+G 
+ 
+p-value 
+Fe1 
+23.6 
+5.9 
+0 
+0 
+NT 
+ 
+Fe2 
+23.1 
+5.5 
+15 
+0 
+20.8 
+p < 0.001 
+Fe3 
+20.6 
+5 
+0 
+0 
+NT 
+ 
+Ma1 
+19.1 
+5.4 
+14 
+0 
+19.4 
+p < 0.001 
+Ma2 
+18.4 
+5.4 
+15 
+0 
+20.8 
+p < 0.001 
+Ma3 
+20.1 
+6 
+0 
+0 
+NT 
+ 
+ 
+ 
+ 
+Charifson 15 
+ 
+ 
+Figure 1: Relationship of carapace width and propal height in Hemigrapsus. Line of best fit from 
+SMA regression. See Table 1A for descriptive statistics. A) Female H. nudus. B) Male H. nudus. 
+C) Female H. oregonensis. D) Male H. oregonensis.  
+ 
+ 
+ 
+Charifson 16 
+ 
+ 
+Figure 2: Relationship of carapace width and propal width in Hemigrapsus.  
+Line of best fit from SMA regression. See Table 1B for descriptive statistics. A) Female H. 
+nudus. B) Male H. nudus. C)Female H. oregonensis. D) Male H. oregonensis.  
+ 
+ 
+ 
+Charifson 17 
+ 
+ 
+Figure 3: Differences in propal height:carapace width ratio between sex and species. 
+The sex factor was statistically significant (F = 125.6. p < 0.001), while the species factor was 
+insignificant (F > 0.01, p = 0.983). There was a significant interaction (F = 4.39, p = 0.042). 
+Error bars represent standard error of the mean.  
+ 
+ 
+ 
+0 
+0.05 
+0.1 
+0.15 
+0.2 
+0.25 
+0.3 
+0.35 
+H. nudus 
+H. oregonensis 
+Propal Height:Carapace Width 
+Crab Species 
+Female 
+Male 
+Charifson 18 
+ 
+ 
+Figure 4: Differences in propal width:carapace width ratio between sex and species. 
+The sex factor was statistically significant (F1,45 = 103.8. p < 0.001), while the species factor was 
+insignificant (F1,45  = 0.09, p = 0.764). There was a significant interaction (F1,45  = 7.19, p = 
+0.01). Error bars represent standard error of the mean.  
+ 
+ 
+ 
+0 
+0.05 
+0.1 
+0.15 
+0.2 
+0.25 
+H. nudus 
+H. oregonensis 
+Propal Widtht:Carapace Width 
+Crab Species 
+Female 
+Male 
+Charifson 19 
+ 
+ 
+Figure 5: Consumption rates by individual H. nudus.  
+Mean consumption rates (n = 8 trials) of 3 female (Fe1 to Fe3) and 3 male (Ma1 to Ma3) H. 
+nudus. Crabs Fe1, Fe3, and Ma3 did not consume snails. The individuals that eat snails did not 
+differ in their consumption rates (F2,21  = 2.52, p = 0.104). Error bars represent standard error of 
+the mean.  
+  
+0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+0.9 
+1 
+Fe1 
+Fe2 
+Fe3 
+Ma1 
+Ma2 
+Ma3 
+Mean Consumption Rate  
+(Snails Consumed/Hour) 
+Individual H. nudus 

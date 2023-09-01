@@ -1,0 +1,838 @@
+@
+@
+Abstract
+Phytoplankton productivity, standing crop, and community
+
+composition were investigated along a 15 km transect in Monterey
+Bay from deen water to the extreme nearshore (30m from beach)
+during a five week study in April and May, 1972. Consistent
+and significant decreases in vroductivity and standing crop were
+observed at the extreme nearshore station as comvared to a station
+200m offshore. Community structure remained relatively stable
+during the period of study. Several hypotheses are offered in
+
+® an attempt to explain the observed nearshore decrease.
+introduction
+
+}$ The relationship between oceanic and neritic phytoplankton
+vroduction and standing crop has been investigated along the West
+Coast of North America (Anderson, 1964, Curl and Small, 1965, and
+Malone, 1971) and the long term cycle of phytoplankton occurence
+within Monterey Bay has been described by Bolin and Abbott(1961).
+Little work has been done, however, on the productivity and stand-
+ing crop in extreme nearshore areas, i.e., less than 1000 meters
+from shore.
+
+, The phytoplankton of the Monterey Bay are subjected to chang-
+ing hydrographic conditions at different times of the year, and
+these heve been characterized by Bolin and Abbott(1961). The
+period of upwelling normally begins in February or March as a re-
+sult of the vrevailing N to NW winds. ‘The winds parallel the coast,
+
+® and under the influence of Coreolis force cause an offshore move— ~
+ment of the surface waters. These are replaced by a vertical move-
+ment of colder, nutrient rich water Pron dents of 300-500m. Asa
+result, the unwelling period is characterized by low surface tempe-
+ratures (9.5 to 11.5), high salinities (33.2% to 33.9%), and high
+nutrient levels (72.0 pM POY-P, > 5.0 pM NO3-N, and>10.0 pM Si03-Si).
+These upwelling conditions were present throughout the period of
+investigation.
+
+The present study was designed to document the relationships
+' between primary productivity, standing crop, and community compo-
+sition in the Monterey Bay phytoplankton communities @lonz a 15 km
+transect reaching from deev water (gent 900m) to the extreme —
+e nearshore (depth 10m). ae
+oe 3
+: Methods
+@ Measurements of primary productivity and standing crop
+were mede at four stations in Monterey Bay over a five week
+period from April 20 to May 16, 1972. The positions of the four
+stations are shown in Figures 1 and 2. The deep water station,
+CelCOFI 3, is located over the Monterey Submarine Canyon in
+about 900 meters of water CalCOFI 1, the bell buoy adjacent to
+Homeiie Marine Station, is in about 40 meters of water; and the
+two nearshore stations are located in the lee of Cabrillo Point,
+one at the fish hopper, about 200 meters off the beach, and the
+other in the area between the rocks flanking the Agassiz back
+beach cove of the Marine Station, about 30 meters offshore.
+The water depths at the Hopper and Nearshore are 20 meters and
+@ 10 meters, respectively.
+Water samples were collected in polyethylene bottles from
+@ skiff at the two nearshore stations from $ meter depths.
+Samples at CalCOFI 1 and CalCOFI 3 were collected from 0, 5,
+15, and 30 meter depths in Van Dorn bottles(Van Dorn, 1956)
+during weekly cruises. All samples were collected prior to
+1000 PST. Two light bottles and one dark bottle were drawn
+from each sample, inoculated with Nagli*co., and incubated under
+flourescent light(about 0.06 langley/min) for 3 hours at sea-
+surface temperature (Doty and Oguri, 1958). Following incuba-
+tion, the bottles were filtered through .45 micron Millavore
+HA filters. The filters were then rinsed with about Gy nll ones
+filtered sea water, dried in a dessicator, then counted on a
+@
+Nuclear Chicago senlar (model 161A) equipped with a model D47
+© eas flow chamber with a micromil window. Kates of carbon
+
+fixetion were calculated after averaging duplicate light
+
+bottle values. Mean coefficient of variation between duplicate
+
+light bottles was 8.7+2.0 (95% confidence limits). The method
+
+of 146 labeling has been shown to be a dependable tool for
+
+determining relative rates of photosynthesis in marine phyto-
+
+plankton (Doty and Oguri, 1958).
+
+Samoles for chlorophyll analysis were also drawn from the
+water samples, and chlorophyll, and phaeopigment concentrations
+were found using the flourometic method of Strickland and Parsons
+(1968). Samples were fractionated into netplankton and nanno-
+plankton size classes by passing one of two replicates through
+s& 20 micron net filter prior to filtration thorugh a Whatman
+
+G GF/C glass filter. The other replicate was filtered. directly
+through the GP/C*filter.” “Two-m]) offa cd MgCO3 solution was
+used to coat the filters.
+
+The flourometric technique gives a measure of chlorophyll,
+present in any given water sample, and gives good comparative
+standing crop estimates as long as the species compositon remains
+relatively stable between stations. While standing crop values,
+using chlorophyll, as an index, may give a mistaken impression
+of the absolute standing crop (different phytoplankters may
+contain varying amounts of chlorophyll per:unit volume), they
+are still a valuable index of standing crop between sampling
+stations, particularly during a period which shows no major
+changes in phytoplankton adiiee wie composition.
+
+®
+5
+Direct cell count was also used as a measure of the standing
+r orop. of netplankton (> 20 microns) and to provide data for deter-
+mining community composition. Preserved samples of 100 ml were
+placed in Nessler tubes and allowed to settle for 24 hours.
+Ninety. ml were then drawn off with an aspirator, and a 2 ml
+aliquot was counted under an inverted microscope using the tech-
+nique of Untermohl (Lund, et al, 1958). The technique proved
+adequate ( + 5%) for those phytoplankton larger than 20 tieceoeis .
+but the fractionated chlorophyli,g values indicate that a sig-
+nificant amount of nannoplankton was overlooked in the direct
+counts.
+Results ‘
+The levels of primary production and standing crop along
+® the study transect for each cruise are presented in Figures 3-7.
+During the entire study, the standing crop. and productivity in-
+creased from deep water to CalCOFI 1, and decreased inshore of
+CalcOFI 1. In addition, the data on corresponding cell density
+supported the difference in standing crop between the nearshore
+stations. Figure 8 presents the numbers of cell per liter at
+each station for each week of the study. Although some of the
+differences in cell numbers between the Hopper and Nearshore
+are small, the percent contribution to.each sample by the nanno-
+plankton has been underestimated by direct count. Addition of
+the total nennoplankton fraction would make the cell count results
+@ more significant index of the total standing crop.
+; The general increase in productivity from week to week is
+@
+shown in Figure 9. This graph also illustrates the consistent
+; 6
+drop in productivity between the Hopper and, Nearshore, and in
+oS some cases, between CalCOFI 1 and the Hopyner.
+
+Pulses within an upwelling period are often observed, and
+the standing crop data shown in Figure 10 illustrates the dif-
+ferent resvonses of the inshore stations to a strong unwelling
+pulse on May 9. Nearshore is located inshore of a large Macro-
+cyvstis bed, while Hopper is located slightly offshore of the
+same bed. The vresence of the kelp bed may helv create differe
+ent inshore environments for vhytopnlankton within short distances.
+
+The differences in density of cells between the Hovver and
+Nearshore can also be illustrated by calculation of the biomass
+at each station as-shown in Figure 11. These biomass figures
+revresent averages of fractionated chlorophyll, dete for the
+whole study wultiplled by a conversion factor to determine
+
+& biomass (Strickland and Parsons, 1968}.
+
+Pae vertical distribution of the standing crop reriects the
+
+ehangins conditions which can occur within a period of general up~
+| ell ting and nutrient rich waters. This is presented eraphicelly
+in| Figures 12-16.
+
+The analysis of the. phytoplankton community composition is pre-
+sented in Tables 1-3. - The composition of the community at any one
+station changed only slightly during the five week study, and none
+of the observed differences indicated a major shift in the types of
+phytoplankters present. In general, the community present at
+Calcort 1, Hopper, and Nearshore on any one day was relatively
+uniform, as expressed by genera present and percentage component
+of the total community. The decrease in cell numbers on May 16
+
+7. reflects the tailing off of the spring bloom in the Monterey Bay.
+fg
+Discussion '
+6
+The significant decrease in primary production, with the
+accompanying decreases in standing crop and direct cell counts
+over the period of study indicate that extreme nearshore phyto-
+Plankton populations are exposed to conditions not normally
+encountered by pelagic diatoms. The statistical significance
+of the productivity decrease is P=.06; considering that two
+additional parameters are also exhibiting the same trend, the
+results become quite striking.
+A complex system of hydrographic and biological factors
+is operating in the shallower nearshore waters, possibly
+vroviding different environmental conditions within a very
+narrow spatial framework. . Phytoplankton standing crop in the
+© open ocean is limited primarily by grazing of zooplankton and
+limiting nutrient levels due .to stratified water columns. It
+is possible that zooplankton grazing is reducing the phytoplankton
+‘ population in extreme nearshore areas, however, the depth of
+the water column at the inshore stations makes this a remote
+possibility, since much of the zooplankton biomass need deeper
+water for daily vertical migration.
+Table 4 presents the ratio. of phaeophytin to chlorophyll,
+for the five weeks of the study. The nearshore area consistent- :
+Ly showed an increase in phaeophytin with respect to chlorophyll.
+This ratio is often used as an index of grazing pressure on
+phytoplankton, extreme nearshore areas, however, are affected
+by many other factors creating phaeophytin, and grazing may
+® quantitatively be the least important.
+8
+
+One factor which could influence the productivity and
+
+& standing crop is the breakdown of the phytoplankton as a result
+of physical contact with the rocky shore, the shallow bottom, |
+or the sandy beach. The increase in the ratio of phaeophytin
+to chlorophyll, could be the result of cell damage followed by
+bleaching. Yentsch (1970) has suggested this as the principal
+mechanism of chlorophyll degradation following cell fracture.
+
+The physical breakdown of cells could account for some portion
+
+: or the reduction in standing crop and productivity. However,
+the increase in phacopigments in the shallow water could also
+be @ result of increasing contributions of benthic algal detritus
+and wastes from intertidal animals. The digested food products
+of a large filter-feeding population could contribute signif-
+icantly to levels of phaeophytin, either by those animals in
+
+© the immediate area’or perhaps by animals “upstream” of the study
+area.
+
+The presence of benthic algae in’ the shallower water may
+also influence the productivity and standing crop of a phyto-
+plankton population. A comparison of phytoplankton biomass
+with that of the benthic algae illustrates the enormous amount
+of benthic material present in the immediate vicinity of the
+study area. Blinks (1955) gives the total biomass of nine major
+benthic algae as 15 ke/m=, while the biomass of phytoplankton
+may reach 500 mg/m only under peak bloom conditions. Ryther
+and Kramer (1961) demonstrated that an inshore species, Skele-
+tonema costatum, requires 10 to 20 times the amount of minor
+nutrients, e.g. iron, as offshore species. Recent work by
+
+*
+Po , 9
+Lewin and Chen (1971) also indicates that inshore diatoms are
+© not as efficient in utilizing available iron. If the benthic
+algae are either ine or concentrating minor nutrients, the
+inshore populations of diatoms could be suffering a nutrient
+deficiency and not turning over as fast as under normal nutrient
+conditions.
+It can also be speculated that bacterial activity could :
+increase as a vhytoplankton population moves to shallower water.
+The presence of benthic algae, increasing waste products from
+intertidal and bentic animals, and increasing amounts of detritus
+could all lead to a larger bacterial population in the nearshore
+waters. How these bacteria might affect the photosynthetic
+efficiency or the productivity of a cell.is’ open to speculation.
+The most attractive hypothesis to explain dgprecumamuce:
+® uctivity and standing crop nearshore.is that of photodegradation
+of chlorophyll. The growth inhibition of diatoms in response to
+high light conditions has been noted by Epel and Krauss (1966).
+The role of chlorophyllase in chlorophyll degradation is a
+source of controversy at present (Yentsch and Moreth, i970,
+Barrett and Jefferies, 1971), but there is the possibility that
+the bleaching of cells due to higher mean light levels: in
+shallow water activates the membrane-bound chloropvhyllas to
+degrade the chlorophyll to phaeophytin within the living cell.
+Conversely, under certain conditions photodegradation could
+be minimized in a community which had moved inshore as the top
+10 meters of a highly stratified water column. The‘ability of
+& high-density SOruiae en to shade itself and thereby lower the
+@
+ae 10
+depth of the mean light intensity could prevent photoinactivation
+& as the community moves into shallower water. Stratification
+. Whelh occurred at CalCOFI 1 on May 15 is a good illustration of
+this. Figure 17 presents the vertical density layers, showing
+the thin layer of low density water from’ 0 to 5 meters in depth.
+In order to make any generalizations about the relative
+production rates at nearshore stations it. will be necessery to
+cas compile information throughout the annual cycle of hydrographic
+conditions in the Monterey Bay. ‘Phytoplankton populations could
+possibly show different relationships between deep and shallow
+water stations as the community. composition changes during the
+: year. . The absolut values of productivity: and standing crop would
+surely change but the relative values should stay the same.
+Sone variation in productivity and standing crop may bea
+& result of "patches" or bands of phytoplankton , formed by local
+current systems. Aerial photographs taken over Monterey Bay
+during the fall season have shown bands of high chlorophyll
+concentrations in the surface waters. However, this is considered
+to be much more likely during the stratified conditions occurring
+in the autumn months than.during the period of study.
+summary
+1) A significant decrease in productivity and standing crop
+was observed between inshore stations which were 30 m, 200 m,
+and 600 m from the shore, respectively, with the largest and
+most significant: change occurring from 30 meters to 200 meters
+offshore.
+& ; i
+Ld
+2) Community composition during the study changed slightly
+& from week to week, but no significant changes occured between
+inshore stations on any one day.
+3) Several possible explanations are offered, including
+effects of physical breakdown, bacterial activity, nutrient
+deficiency, photoinactivation of chlorophyll, and feeding by
+benthic and intertidal Scie a
+© |
+®
+l2
+I would like to thank Dr. Malvern Gilmartin for providing
+
+ship time aboard the RV Proteus, and for his timely advice and
+guidance throughout this study. I would also like to thank
+Dr. Isabella A. Abbott for her patience and good humor while
+
+& assisting with vhytoplankton identification. Thanks also to :
+Peter Davoll and Ken Johnson for providing hydrographic data
+for) CaLcCOnt tand.CalCoris3.
+Anderson, G. C. 1964. The seasonel and geographic distribution
+of primary vroductivity off the Washington and Oregon coasts.
+Limnol. Oceanogr. 9: 284-302.
+
+Barrett; J., and S. W. Jeffereys. 1971. A note on the ocourrence
+of chlorophyllase in marine algae. J. exp mar. Biol. Ecol.
+
+Blinks, L. R. 1955. Photosynthesis and productivity of littoral
+marine algae.
+
+Bolin, R. L., and D. P. Abbott. 1961.. Studies on the marine
+climate and phytoplankton of the central coastal area or
+California, 1954-1960. Calif. Coop. Oceanic Fish. Invest.,
+Rev. 9: 23-45.
+
+Curl, H., and L. F. Small. 1965. Variations in photosynthetic
+assimilation ratios’in natural marine phytoplankton comm-
+unities. Limnol. Oceanogr. 10(Suppl.): R67-R73.
+
+Doty, M. S.-, and M. Oguri. 1958. Selected features of the
+lsotovic carbon primary productivity technique. Rapp.
+
+Proc. Verb., Cons. Int. Explor. Mer 144: 47-55.
+
+®@ Epel, B., and R. W. Krauss. 1966. The inhibitor effeot of
+light on growth of Prototheca zopfii. Biochim. biophys.
+ACTA. 2202: 75-83.
+
+Lewin; J., and C.°Chen. =~ 1971. Available fmon: a Limiting
+factor for marine phytoplankton. Limnol. Oceanogr. 16:
+670-674.
+
+dund, J. Ws Ge, C.« Kipling, and E. D. LeCren.. 1958. The inverted
+microscope method of estimatin algal numbers and the steat-
+istical basis of estimation of counting. Hydrobiologia 11:3
+143-170.
+
+Malone, T. C. 1971. The relative importance of nannoplankton
+end netplankton as primary producers in the California
+Current System. .Pish. Bull. 69: 799-820.
+
+Ryther, J. H., and D. D. Kramer. 1961. Relative iron requirement
+of some coastal and offshore plankton algae. Ecology 42:3
+LUA ULE
+
+Strickland, J. D. H., and Ts R. Parsons: -1968. A practisal
+henkbook of seawater analysis. Bull. Fish. Res. Bd. Can.
+67s 3324 p-
+
+Van Dorn, We. G. 1956. Large volume water sampler. Trans. Am.
+
+} geophys.“Un. 37: 6. :
+“wentoch, .C.:S., and Moreth, CC. Ms ©1970. .; The: rele. of <chlove-
+vhyllase and light in the decomposition of chlorophyll
+© from marine phytoplankton. J. exp. mar. Biol. Ecol.
+4%: 238-249.
+3 FIGURE |
+: © CalCOFI 3 :
+© &
+GalCOFI
+: 5! :
+: ‘4
+% 5
+a CalCOFI | &
+e ;
+‘-) NS .
+HOPPER O
+HOPKINS MARINE :
+STATION | % NEARSHORE |
+@ :
+meters
+© 20 APR 25 apr |
+FIGURE. 3 FIGURE 4
+3000 3 3000] - 3
+CPM mgChl CPM “| | Serna mg Chi
+: 2000 ore 2|mt--1-19 | fe ~s2 [2 m8
+7 ed | Pe |
+¢ } “ 1 7 |
+1000 “7 aera ee 4 oa
+Ee” a |
+6-3. Cr HOPPER NEAR | 4 ttt GB CG: HOPPER NEAR : |
+ee [PE SHORE UE UPR ae he SHORE! |i) *
+: Eepeeees) arts | Hu 2 MAY bei ele LENT S| MAY. gee pd
+: daz ceat tate abea easuifedd bdtad | ered sed fread
+ee ee CUR ee ee QUT IRIGURE Gini Nau] ey
+© CPM | Serbs mere Ae amgenl cpm Pete fesse ga lee | mach
+En — 3000 set cas Tee I de of sc Ege LS 3m3—-— 3000 ah aaanrng 4 ? ee 3-ms
+| ceeeccre Pamela Zea eat Tec | Gachnaeore ar acre Porat
+errr ‘| | THnRATEy Fifa PSTD ol vaa (na Bs
+fester Sais | EU ETE STEIGER RRA UGE ab ua
+feast “Heees ii] cleeri Mopper near EEE Vee es HELE leet HOPPER NEAR 2101/4
+| | jc SHORE! fi | | i | it | He ie [SHeRs Paes |
+Ba eae feat Psa fet =) cl ae ed es uel Re el tere ee eta al ted Use ed Ee
+Eas PVGOR ES ue ey Ue Badal a ddtedl eadiaial eee RRR Led igee eet aest
+t t | j i | i | | | Litt PSEA Ty | | i | | | rab
+pa: em eens need faces boted tesedcseel iced EARGd REA) (OREN ERUEA DREBGSRAG/ Rata fast FRESE CHEN betes tees CROCS ERE aad edea ness
+ES eee een eee | yi] | ae RS
+SStOPMe ist a /\ | mg Ch joer: PRODDETINITY. |
++3000 at bioea PEE th ae USslea bbe k pUARU ERE ESses Ese) Fe 3 —ms3 {GSS ESUSSasGnget evaudesecee sab euieald Bea Es feosueseen
+: E 2 Bey fash \ ~ gg STANDING CROP
++2000 J|-——---- — Saul —|-2— wa TH Tralee eal ee aaagarpitpeajpenaseiec:
+=f OOO Fa ce MEE aA ee ds a5i24 S¢8U FU ccatevee| AF ual sGteeEESo] TTUMGRBIOEEGIITT RATERS ETT
+} ce-s CCl HOPPERNEAR bated seen; ated ted ed | pa
+| SHORE = | THEE PRET UETE TEE ETE EE GEE SGU EE ai
+‘ '
+2 nT | i TAT TNHH TE
+ae | a ae | Maa ea ee
+OR @ Het et
+oi 2 i) | | |
+? i i i |
+yr) — 1m} a SO oe Bian nines
+| RRS ERR et ee pal jm | |
+orate ck, CEE EEE ED | | | EEG oniret fristletentestepieagy
+& ye) fexuxe naa sa Seatac peentvent many | | | j | | | Petts tos Mm t = i] H
+pede xa pol HUTS RE Ea AE
+2 bet eat obe 5} 66000 BEEE EGG aca aval 000 GSU EGEI Fea ELSE pea GER bet Fal uJel o s ESd ad ae
+ron Ros He HR Ee ET ET ER SE ETS DORE
+T pp EEE EEE EF ee HH Ory Hea
+CO Ree Sbee sas Seg EOUeS SE Cocca | x i
+YO CO CEARSBEN SESSS SESS SSS ces. : SSH Prices LSda LESES bises Oa U5) LGSSh SSAC SEES hoses
+| | | | | |
+Sgegeee ae Oe ee oe oe oe = eH TREE EEE ea RS TT Fg |
+ee ae Fogel Pages Fra bad (3223
+eet iors ; i et eet Mm bESES Senbd SSZSE BREE Ache bObGU boars ema Bowes sane:
+| = oO RRETEIT ICS SST eee des |
+“fs leg BOG oO 0 OO OC OO 6 6 Oo, fipei: O 7O O} eeded Fea] 2d Ha
+ft ae - E Heth Cf) _ Fay hs 9 peceeeneees eenae eens enneeenees suceeueunssnenaccens|
+$ j Beas teay | Beet riety ttt ee et oot ' |
+| | pear] PETE | Oe a | ea
+tuewa ota bn Sab awes| =e sabe UUEUeeeed beakh el eae STTRAOEETA My y SAU UKE SA FSGS SESSSEREAU SedegEERs3 EALELLEIES Hee sts eeieey
+FREER ses Se ee Se ARP pea Uae eed eve een ea eee sted sed eee eg gE TEes HEdUEete TER Reese
+SPETPS TS Ty peapuaiabaasagaaaaas yp TPT ATE Hut a TEEN |agel apa beSHy s¥aqzd Fas tes0a aay taal ead aes trae
+gs: 3] degen hae: buese SH eS) Passa teeeaenade teed pers pseen anes | PaaSg paged | boy
+Sweep e seep pope as werd ye 4 rE 8 Fs BD IEG r } TP CARTS RSE ET UUs STP ROSES Pos OT YAR Che OWES FOES REE  BREYE BENT TEES PETE oI eRSRE REC Ed ome Pee eR CRN by toe FEY IIo ae ee
+e arian een cee dape BROREFored total bevadpeeea tev oranct iaoraarel ceeeveeedt| | PESTA RSS|
+ces : ee at Soest beset cessed Pecsabensetanes! SeGENEEEEL ES iba S2eseu edad Beagaszed | cBeed eebsl testi VABTIGEEE REL TEEE
+pee RE EQ USER PERT
+Eee pre RTT gS RT OS ATT Gas eT SOLUTE TTT Te
+Pte hieee | ate | eeeed cheba Poses steed FesEs ceed osertcdoed bests ERGasate: ested esad raat msaeebeetale‘s EEEi Eesed feed peeac eta
+Eaten | Esai ne baad Fase ead fea PRP aT [ae Re
+SS RRIRRRIE, ST © sn or i ef eas THANG HIE CO afin! G aah]
+O: Eee Say GFSEN Fbagd CCHHEeHEd F019] (2:a1 FLTHI IEEE THETA on QFESTUIGTET ED cH GBH Eh Teslosed eezireeal
+esse Ee ed Es bo-s-o-oal eve NG Le LRU esee LLG Leet HEEL HHH RGB b> «EEE Edd ape PEt
+f j | i | j H | | | | ] | | | | |
+Eas ¥ Efe] fe EaE HG EEE HUET EEUU ee FE at
+— | | 1 | | | re) | } | ae
++ i ‘ | | ! { ‘ | | i 1 |
+Sea: ees SUPA TE AE SOs eT
+i: i ser iit Bl Nag liar we lef nc lle a Ses Geet caues cdneua gag) fasne geH| REeGa tor oy pomytaseategs: ERERa bess (besa geas| beeee se:
+aS OO O 0.6 OC O_O} BG ESERS S4SH1 FSRSi E5151 SESE EERSH EGE ERS ERESd Ei ry Ea HEEES ae ESTE Lite ESE Eee
+| Ee ge | | FESS] ESES Ezz] FFB RB eae dE Feet TREE ER
+SEssupeaa pepe enc psa Cie neSeriOnTe Rink ReNGRiE orb oe ~ a Rae bistinhaihitinbotoah
+fesceccons stat eed | = See STvaney PETE tad beat Eeeed eeead stad faced fated fae Gaed Sued Reese Ene
+=e ros 7 Pet Tet ial oe Sastre arte
+Best byell 6 OO 0 0 0 0 OO OO SHES rey ee SP UU ee
+ese | hel REIT EPPS ASSS ESA cS Hew o>» bree Cees eo a ede dea
+HR ESSER CL eta | |
+seh f Prey | [SHEAR EY
+| | aia see] ET FUTT Hg FTG] EU HGH GH FTI TT BGT HEL |
+ies pai | Hits | Pes Pen Edd te |
+HIG {i | pti PRRaG omad Peeea Gy Reet DRI Canton ERD
+ban! HOT Ad 40H eRUGH F2as3 FEPOH FOGEOLREHH EA FGD LEAH EAD POuee AESOd GOVOMENOLH FHUGUUSASESHBOVESSUOAEEAUOREAY LoaEUQSHOQ eGEE4CEQ) E0324 L001 GREAS Qodd OTEEY QUAN MREAdtebsi (seul aE
+‘ ‘
+@ | ee CO lea
+| | faaae Piety
+| | | | | } | |
+| pved badd EbteH tsa feat tated tate AbsetEea Vasat iI
+| Ered ieed Re EEA REL ee tie eathed |
+| EE | Vorehaenene | avaeenone havent
+f mapa eaate ree cane tamed caus erage raga} tH od guhed cea
+| | emeadecae | Hit Ba Pee ee ta [ett Path HUGH Te
+La fa ase VGH TgHI LATGERTT ATE fees fel eeitaaad Fesetasi| as HTT FHTFEEE toc SAF RET LTTE iactteretrnt
+eUHRhd tesa Sees Neate Sab, | PEM oo Seenapeeay FANseacuUsseAbasea iad ROBE RMB SS BARS. Leela Scat hd
+| ESET Tee TET Te PE TAHT [TEE ae fer eet ERTS]
+FasGnbueds beset acted Veoane beuel ested eetad leeds eeseseed 80) DD Shaan fe esa i Eb Gud Eebeat24f det! Coad ces) Foes toed
+resrgrase Caartcenrareniivenng tea, r he 7 alee iO Z mane i : ror F + fli at Pobata QI ear THRE terry sail
+. Leet naa es. at esas eosed eres benee booed Ceeete Tet sth ita ra pesed eestl tet¢ fea {i as
+| i | | | | | } | ' | | ' | + ' |
+eset aaa Hp oe et ee REE EE ee EL a | [iis Fbbesfeeeifeset ts) caest tet)
+a eqn ie REE Panel cress Fanny aesey curavened Crud eabad basen pena pasa races
+| bite ReaRUSeSEaRaPad prepa rated poeag| uBR eay: Bagh teens Reeay| | eee pehon (gee iiaerageees
+Spas RES E54 S283 YRUGGTESEG OBSGH GETS RAST PEREL FEES Trhiihinhe de lcnbin baad mile aia merapeartgn nan bte |
+: FSzes ced es coed Eetcd Hoge bededeSezd F908 coed Level PEEET ad] POgEd Fetes Pest oadt]PeeaT i: at] OATH Ledsd Het be4#Y Gat (pee BES] $8004 Ocelot banad Godage beees Erect
+Se ggg re a at EG
+Sessa corsa feses uss tees ai te ati teadl ff i pose) SBA aay ial AvETH RE|Fasl aT | Peesreeees
+| | pees | peold bs seg dean RD ee dmenMn RicHEUnMed |: CUR OMENS CRPEE AMER | peaeaseeat ated i f EP and i | i eereeet
+: Piet bebchekratad oleh tot | eettelal clukannte | je Qualitas
+ishotojsntistspani etd tat SAEAgHI AGTiQeee| OeEG ETH LER ITUATGAVGGETECHUTEN (Rt HL oman vate cure
+| Soees bases toca csans soxas nakeg| aera earn } Teaat ces ea pe [PessseteccSeaaitcebaud is : Hy O . jibseddnaued Suone tes i
+Speas eees Peres teeas bess opeeh Hii neasnadaagugcy ecg  iesaaee {! i pote tapes (eeguedeed teqeaope
+eas | eeseucseea baneaceeed ces | S422 BRUBIESESLERSRA EGEON BERR IEE SEU EGS TER Inae WBSSARSSS LESLU ELI mM \Pedaa baad baSuaebees betes eeey
+gapecg Coat Sepa ryan] bake lgMEN Prana uagay (OGuuseTTGRr, -MEaRELSaMnaonNE Rel upe ceeE Ga yeleuaauanySUeuaNy| SeRaa naar a Raaaa | Fate | aa gours Panay seuss
+yr) Fezes ares Eceoa Set poebt Setel ESSEEE eH Oe Ha ESSE tn case ceed] kage tee ted AHH esedoaedi tet SEU eT HEHE
+Rete Be aie e rear ae aE EY HERTHA TE | ie dies ll a HE
+sede eta Uta ape STM HIG: @ [He POET ATT er THE Deo HE HunCatee tees Gees
+| ewes SSVSHS SOM RASH bAd VERSA samy EASE ORSOM ; PeGs Kadasbrbee Meteh ne cell ties es ute nO Ao tH Bk lB | + ! JER oa Naas hoa eel Bawits wa me
+Poet oe hol delebeh IQ hai ale HITCH EY ATR ETTTTITEE| REIBTATELSE) ERS RE
+Sess es eees aces cea ar cue] SG H954 neue (f GENE REE TU OPE uBU EDT GREENTREE! af] FER RE TE EEE WEEE SOs
+: SSeeees phetat hits ia alee EEE teal ieaeed beskiberes cose © id Geb faved ed fxs etd eed need as Foca HES pg eae eee
+Sppeeicnera bag: i aya loc sspeeagueeseausanen AOUeH Reags anes peeey povas cenyd (Geer oaeaeaveceReedbenadea cep pand| | 3 eat { pists
+SESS Sede cove! ected bec asd noid steadied rd tenat sad 2S OG coeddGAEEy Lt cata cess FLSTSOTAR LEAH LEEGe HL CHLGEy [RLGUIEE | dead WY (ote tage ete eee ete |
+Ess ee ees ete sta etal ate tal Ee edd SE fic ERG ede PE gsee] Regie uate tt adel at feed Sb ES feat Obs L0 AG ead ate azz}
+| PBERES Bee | Pa Bata | } Fe | OBES W | 1) | H | i { Sa ee Bt 1 a tet a | ¥ a Hd 1} } pa | jit t ‘ +] yy
+ss : eee SBS ie ta] A PEt TPM GEN TT POT 4 sees s 4 Tae Lt a eaen pet Segetce ei Hibar iese Bee eet % 93 ubaest FSR yer ow E is — 4 3 5B Spa | Tety- SS a maa eat a a
+perereeneeatirarst eazi ae bal bbeab8azdFbzuafeeadpaaai Fea | Ba ESSA ESEaT EEG ea) BSSea BE Eoces eet
+Sesssszess oss sures tessa asa Feces ana HECEH FSus1 REGU FEGH] ouT$sSGzd posed spend FsaHUTE=70 (9500 {SEEd EEHIETETTEGEE?™°rg OGHEERED Pai CPE] F2Sea TUT] 42a zvEd PEsel zed [Sazt aes
+BSore aEsS? PONS ENGR EAC i met The i Hites CEOB ITA ED PERC ReY FER Oo Eee Eh Ge peo ‘ | paeee bones Deeunsosns booeeseees saneanoasa
+Sones soens | iaei beset pebey ity Reeag bet cadwegs peeptpsanspeags| Weselecesacabeuinser + | esmautpeas | | See ase
+SEESSSOERS a eee CSE (CES Da OR BSR ba baaoa RSA ACS CANSCL Eade Uae a De
+Bee top wtih tors Teen |S ee oh
+FSS SETS TPE SEIT eee EET PTET SATE TE at aaa Ee Hea ues
+Son ke EE AS ERA ABeUE So kes SHO be So pao e Bu MLN GEORELSOAG dood) ReGe smRoehRNGoE Koes seeese ue smae bales Uda bret MU Rasemascdsinuanansod Sekos ckwae Ba:
+Hes iig Ges ayia Hii me eT erin tie iT ts [Sore fun Pasa Fe aa ee
+iad pare 152 EH { H | | | |  aseres a0 w | aie | ttt tt Petey Sie egee | 1B Hee | Barat tes
+eS bee <Q pg a 3
+: ; Easpesches| i; aD | i { et oabenalnaegubasel| | eases vest eae | abel fesesteses|
+= Sense ascad wags secsirseesleace aedeed yf feces encase bau Geesgecessouukuh Vid caduanesauguueunonen oesce Weed eabduusdeasnaesGenausbsscetuaalusasc caze
+mn fe |e S84 based nS OGA hbase Easel Mbsausbacs cuicsaseh oa cReid caess canes ResHsusen pasualiacs [5 CS5ELo83besesboaal fnesaekesd casos tsccs|
+SesesSapedfogea post 650530205 ppp BATGHEEH] raid } Dray lintaniedonitnhoanl
+esaecerd secttieedl Cesstectsa ated © ©) UesttsESi ket seats SEER) CEE A oe) ene diesel beedt ceeds setea fetal
+sesbeets egg: C2aU Sane CaEA REY feet Sheet TEA) ae Ce ats Ra | cana thet ESS boead Hail poet cated pon eed
+Suntabstea ivan: heateugad gona) bean! seepatsuoaa lays Ghia | | POUT UES Perna Eaeiy besuateces
+earieeay Rees Resta ee) poaed eget fa (dee edted eet eted fata Etat] bea edd cc ees Fests rted feat beva feat fests fats feezd anted Geastested [aebsteeed eeeeteee]|
+& Forty ewe ihe athittg | sea eel ae ae Tig ae i peat wees Sse fo Ree Tilt = ease pasa Hat egal i rina! | _ Hii pp Tah | HY Biri ten es rape
+= ; oa es. Swoab Eston sadsedebed binge cas nbead saad re) Tp peesss tcoscecersucezcecc: teceabccat besos cases boats ceed bocesseeed tered beses sal
+} | 1 | } | | | j Va | i a Oe | | | j bette | | | | j
+MGoehEgnss Mali Lalae betas oes PER Hea a ees Cee Ee ee Han VRa TRE et | it sTHGaHTHtTil fe ine
+E5E2 UbbSen BagBu escad nea uaesa pe BOREUGESSi EAUGECLEEECASURUNSI bGRabBRSipoaUuUabcuUSSSd Bhauguagel cos suRae preted
+ues Veeewa | 4H Goezs (EAS EE nH VTE FUERTE Fon FRE TEE bit Mee tee ATER TRETTTTTEI FER TEE aaa aa
+SSCOUEEREs caste GRAN ATCA URESAN SES el coUbd MERRAUSCUBEEGOReHURE UiseHneESh Geueep Cuan SeAaNNelea LERMCuaee cUsnbueoaneGGbURauus LousaUNmuosuoUsbuscs Usinuenelabeuesnbaudpounsisncl tsdanbanes,
+ee se a Tee oe CE te ai
+Rear red esata anit MOBS HOSTEL RUTH GHOH ESHA HPRSGTROHORAREUHGGOMUONOVEGEAT REGNGAEAI PMG OROdEGLOVOG Fufua vo aT il ERR ag ie) ead elas
+| aT eee i RRB UTE FE HRP FT LRAT EE gd
+aoe (vers cnape pee dcHaued Evaagieeayuan ans Pa aed Head dead toca douts poset puuad puagebunuatay co puuey boo oe uezod Ogee dca ep SeABE SL eet Ee
+© fe et get WE vA ET CE AEE HEAL Cae
+| Hu) | | | | ui oe ponpeet
+: eee TA SU EE ee HEE ee |
+RU Shs apa eb oun GEHL fet Hilt ah | oni i AG SE EE efi Hie Vea |
+“ Baus Eoed HP Fest Lesa FUE FEE FEUER HUET LUE PREY UO AU ada MeAOAME EGE EEUU GEES ESN G42 FSGS EEE SU FEEE FREE LEE |
+BaGiEY ARETE nie a ae ae aaa Fan ce Pe
+ponte beware teas beped beees tried spans nya ena PRT Tay riya bet UBER EC ER eaaee rat aps ycaaT titi rer rageauened ipisi beaed (seni tvesd Sugar sewed
+feet Saat Eee aan ica be He Se bell ak ELENA AE gue
+Rede caer | | aA AE Teer i See
+3 FEES PS REET mae) OF 2 = a PU Ved REE ge AG EE USE GFT PG
+gg 22 NA meme
+= Ree ee ea corer (es teo eit nian HATH RUT TE STM Hee entered t'] sti) ie [pee
+= Rent aisattniasiniet. P1 fale Taras f Heil ESE HULL TABI | eae aeae free ats
+é Has sas SE RP SP ES et dn ele Ee a 1 SIZE-CLASSES ——-
+= Eeccee izes cal 20 set ee Peel ORES PE PEELORCeLenedioved © URL Gaateceed ROBBEE| Cet tert] gael 2d me ao Oey Ee
+: Eee eal a bt HE ee «Be ee C1 <20 microns ~
+Sexes ares abeneyy eee RSeeaEeU Cart eaeaeremy © < (UREUURENTESESGUEySH TETGU GeRai buted teead Fesel batt fuees gaa aE
+} etiatt a ees SUS: MERA Rabag ceased bagegneeeenaaa peeeacsegy pamae pene] as ealiggenes 2 | Dees 89 5
+E ee eae SO TIGHTER REST —_ ait TET c | E29 920 microns —
+= Petits HSEsd creed COSEATAEML CEESASEEEFTORATLGEIVREEATEEML << ERM GEDEL ETTTA ERENT CAERA CHRTT FRUGAL EAEE/ canal Fadi FATEAFGERT FRERIPORT] (ETEATEERT (REI TEATT (FIT TTTTT
+[EEE TeSees HESSEveRl MEAESEGILAESUGGdHAEGaTHEOm © BNMLASSNQG44dE000U (08302484 904d Este dl fa4dd|Ssa4Hs oeHi teaedC2sdattea] Oedidevad est] ate
+ee MOC ee Tate eH EEE EEE ET GEESE Fag TT ce
+Peeve renee iy a Heel a pee TIT tiatiithiT be: sees aa Nai PeSSH LEE ceca Tet hislin CRIT TSS Eieehtt tit peahh edad hae hpaeed eas ottons
+ms bis 60 PETER |S Fg Hitt HEH TE sibs Sas Faded poet aaesg ast actor leeds feagaaseecsaed esac! ges
+mips Gl ISH EEEETEPCTIRGEELLEam «RGU ERETEESEUTER TEU EEE FREE EP FERS UT F ag GS FTFad SH
+Esaisdeahinhictas é Set aaa ELE TGSTES TS PERSE: aig FaaE debinfe bn tse irae
+ae ere eee le eee ue A Ee ea ee a ee ae
+: Sseter tera ett edt EHgdfveeifevetecegs ——«—_Ruafvees ETET ENTE PREPS EE ed ev 90s LE ad eal eee et ed asco
+ve SSR Ott aR RHETT cee eer te
+PE pe epee
+- S2eies meee ho oe aoumg Remy G Rearoowad dt i SR CER | | Seana sees. I i EatHtahesethbornleepetetady peated
+ie ee ee Pe ieee ee |: eat Meragaienan ee
+0 BBE HOPPER | NEARSHOR Ee
+lel eee le eal et acl er tt ete ee et eee Cu (eee CU Et et td tet tt ee a ae LE ae HERE He
+gzoea tess iaaag eat Sone di gesecau HATE rep th: BUTTE cad Wea peneacsseapoues cosas cece ae He pbb rages psasesses Hh peat beeed peesaees: pettrd
+sete eee ed ee na ee Get eet Ell eal Ree eee rie Ee eet a ee td LE a el tee Ea
+Bee aaa sen ue ep a LE Ee eg EEL eg TE PE EP rE Te Tf
+en ereteec: coq press teugu cess erase satay epazeeseayaneaé 1eabsieesd sags Esza aeri fa¥e]caza4 (sed s2a3i EEESd¢EEEI FEEa1 CES] EEIE9 CEST] FEEREEESRI FSECTOESTI (G5TG GERI [TETIGSTE
+Ez carne eee HEH EB en Es
+SLE SEE Pac Bini nee St i ln le Bune
+Esesee ae See HH SE EU ae ater ce
+egos tage: puapedaied Penta peoea Ceasd pated ppsad aud] fava ataeas fapea saona Eagpa gata pats cu eey Sedat baat oesad cttad beael vosci tered yoeyt aiceaeeg( jeveryevay facut aeal paegereau paige a
+Segee hase « SE TERSI2y WOREEZENA Eoaad ES SRE teGs oe Wbeake feoda poten [SeestGeea baad eosee bo. RSE eget ead Eezo1 Cees kane CSSRSOREas Secea steed
+Eetisieecnematerss| teatcrccy ail atelier treetaTeattlital | aaelcat Hn eet Tear ee eT a aT ete tee GT HTT at eH Feet
+@ ee ap ET RA Fagen a Sy Tih
+ga eal cre ee Ta TE ET Tn atita atte aE saa panera aead
+2 a rs oe } i pitti Soeensubos bones SaeEs bobae bees: ety tft: a eeeea nea sea een Spit aes Tete Sebi f ett rittteitit vty! ‘ rg ie Bh: | iF eae
+Bore aR VETS i eee OE ST He an ee
+Tt EE |
+ener 3 | HAE EEL ah t VEEL LAG Ud dd ea ed edd ne
+a. Ha | liiessai iis == lenin) | | | |
+Mee | | Hina L retina rani cy laine
+: mb ON Hares at ge Gael Rae etuctége WAP FET RTCT I ul rl Pe
+ww | | | | 7 Sei eae Rigs ices teeta
+Kal... | | Oy 2) Va ee
+Ee —K SS ~ SS a RESTS Beuae Sera geeeay gagg) o E oO i i ee J Z LEE ies Ys ty iy Yi yy reese
+ie. ae FRO Hel : ###&+§;Qi.i iio
+epee! N Potiihtoht olan iial ie hilitil eee | Eg
+LJ ASAEUEROEY GARE ERESA PT 0 aoe a] fess cies
+[Co A ead POG) Peat apenas cat ee | Rerna eats cies nies ass atiaas cen naenaa] ban eueaney
+3 © | | ee L | HERR EAA Ht) EB
+ae | | | | Rico | | H i | | |
+: UL eS hae Del pen taba titer tte
+: Le Oi OO OO ee Ft ee ee aaa a
+Tbe PQ nia | | SP AEE EET HEUTE
+| ; Pant ee STEHT elite Maton iatiaidealaapesh | |
+Stee Gobind ELEUS Betas PUN GARG LAREN CENA EXERC: TootuN, ’ URE ERAS RAE DASSREE ACB ES UORALUEUER EGER So VMBBOULYY | | URMaMNLeMGEESBRG EE SACEBSEUEASAREIOAA AORTI EGdes Mhodi codes tee se hoe"
+Be LTS AT TEE Gn Gls ES LENE BE
+Haga Pale Tene a aren adanc Ogiale BE MuLa dca | g
+a ob SOE jee — Ser cane IEAaRa aE ee = +40 ff f= ESSN Seal i
+esbsd ext Exada Seti Getad cut0d Ata eed! Eauel cited codes teens teem © | astatteny pani cited (ats bees Eevé]
+‘ | | | | | ear Ses t t fee | | i
+SSRTo sagets kxeenip) ueaseaus cotea cits clas sent) ESEsi ESE BS i/aiel ees iatsseeet aus eee REE Licey poi:
+= OL 4 Weeet Fosse Sdeteates tecegrcuol becestaase peeey aetna vansae QF
+Eoce pote On it On i oe
+ial { | | i | } Ht | \ | "| ga
+fo oh gb
+Ee PR ee eine [a
+eee Pr — . ~ eee | Jerri
+Zl — SRE ee al fo etd bbeed fats beets tats
+Eo | ete boo Haebt Renta need cocoa eaes ceed aces tae = eS lLlLULmLmLrcllllC COC“
+a eset bee fesdetevel tisei ate) AEE a | ecearsess
+: a MPC pe Tee EN
+‘ oe iy EO pe eae Ne YY iearie Seas
+{ i i } : o ! i i i ina of hee |
+a6 pediobs besa seas bebe) svete kes $1 Rieau nokia hewaa be Ged keen bESoe TE ty
+| j } Boxy S j | | } =) j
+Fit Bee a ene Pe |
+i bea Eoed PRSa ESB LESSLESEL i RSAAO obec E2aN Costs GEL FRSED Ghd Eide head PETS dca ted betat cabo g ad
+i | ata | | { | | fend |
+4 4+ i + | t +. a + pone : a te ae ab = b bcd oD i
+seas Sid) PSE: 1084 POEs RESTS EEG Peds ceaalatey OO IOREEE ES STORALEGHs FEEEAFSEHs SaeH QEHAIGGRT eds Eset Bead Ladd] ERI L=2ifceStee — cea nea
+man euoea Rae bith itt | area
+| | Biv nebe | peihbeds i | | i |
+nh] | | ees beee eee fia rceuret
+| ie HE 5 8 | | ‘| | | | |
+7 i } } Li Tat i 4 | t | i ; | Tae { t |
+pot tif el Jos Heian att
+| | eal mat aga paes Rese apatites mofeeecp ten ah Sabes Soest
+| Hid Ee Ee in thea pote fe He facie Ei ta
+ean Bae vhodepencf Waeibetaay Fe a } jrisatteesy
+‘ | ObREs Cheed boeea Rusice RRA eed tabs: Reeea easy heee bee bie breve | aiSoe iy {
+| aRSSBEGSB BEES any eit bled i beaten Hitt i | ' | aie
+| Hu ta fea ai Kei FRR sth | HEE SET FEE (Es
+@ Rae sint ay Pe ye LeU Hal ee eee |
+| | Oa | | } | | SiS Hizid GOR Fatt | eapiea Ren De | Ree SA nt Tea
+eae Hee EERE Lil ATH AITaaTEnEEN Ei Ll. TH ETH iE A neue
+rit ° | BERD ERE aa fit th | | SETHE ead pea hp
+bee nner | | Rien ee fi Peapinauie RMSE NEY | yeti fey BATU BUT BH nena | | | te
+j { 1 ° pupae | { i | | i | cooat anneanas | | | r++ | } i ! =f
+posit cial i) 1, | A eae ee nae geen aaa Li a sana Faeeeesey fee
+" coaued ae eae Fria fern Li fC AE aaah se IES: ps gee Ran
+fee cea le al aa Mia en EN Gree aaa eet eal te SB FL Ca ret Haba
+i | | | | | rit i | ene Baek ew | Besa Cab | \ saree cote neem t i
+| aed IEEE ERY ie tts lit | eae Ly a EBL - Ht Esta 96) PADS LET fest: i |
+Pe ah | rate atta feat Hen Tuaaae ai ieee eae ee
+| = Eo ELE | ee eeen apa cesas TINGE" Hee if STLSRLLTEEHE mob ieee
+ey dee eee aed oe eN ata ee ae Aa Essie te el ea SEE ees Han He a |
+Bea fea = TN ah Lecad cay ESE | ith hin CO EaTE Ey fea | Hed
+EN Bel et ee iN Fea footie ai HERI Sd Rene TRIS
+Se eee RE lead el |i ER eps pt pe
+Panis rigee tt aes [EH © | a oM Hentai fe are Hare anent sb Bete Hi FRB SE | etek
+x I t j — aos © | £ | | } RRS Beis! | | | pifipts | | { | SESSED Ee) i
+Geen retention” eee meats Te ere eae
+sent tyer ss ee ee ii eet i et ata ist eee et ‘itt al Ei feeit| feaay Feeaesass|
+: Suneeet oe anita Bay ated i ee i rete |
+po ee Tags Rib | Fess Fores heeds ats veel | ssraqiiuy Pail ieee aasabese
+meee esse tector a beeee bone bas] rs boeas pea oO saad ea ana fan el 7 reeed en
+aod He, a Sas a a il ie
+ace ca EIeMeai Me o Sons Pe f HAIER bela
+See Biaithie ata an eran REALE £2 (ae il aa a Ha ie i
+: Bacal Pre aati ES STS Ga Ee eT ie
+: Err eal a re aU RE TEE ene ie aaa
+es ea apie SEs SUT a FAEaOTSGRAUGE deudii pater? Tan ei eat SN Faaa EE en ane aH UaTeiAERTECT =
+ee Tae lll an HHA Pree He pet ela Heated be ae tt
+ot } hast aReuah Hi eae ac TSERUERE Sisge RMRSNEBE SN CLE, peed PRR Bead fae auaeeead gieea: ores peed coceaes sa neae yee
+aeniea ict fl (Hd LE] if GRU GREE HEY TEs (ae aicuit tay REGGE . mabey Beatie sieseaisre
+. asp ie: fagee at mi see at Hn al HE ; IE ET EE Hie sisal ea fees eae fees
+Riel babes fi dans Pate it maeesd Trtithiil esl Senanasay : dpe s heitat npeeegeesuy i] ‘ iakaa bethiqgefamet! Saba seset:
+eoeeere ce q See aE cle
+3 Bebe i cine EG ES eGR for aa eS EHERIHGTE
+eeeesoesestpeaaa Pot 23 mops Hf: aes cee EEE ees eisns Barbs ed es ea eeeeaceets jasat aul este ead ganas em PSE
+eee of < Ree wid MERU BTC GEE featintetterd Hai ap lee tte eT ag (eae,
+So ce reo a jt Bee ee il lh He sl tat a iedeee| eudatel area beast
+Bane ta | aii ou an pee pal an ee fanaa TE Pode fate Ei oh leestareeal epee
+peeee feo Une eet ‘ oa capes ; | aed: Toop | cheep ed as 8 | Be ey | pt 4
+bee area aed Wal | — HUGH SHEE eat eaea anos a
+scaeeee ee fuel te a fe oN lee eae sa etal | arta Hee
+ence enildelrel St a i pits Le Ags buecaeeagl eaaey a taoea Teas rege
+Eien eee. wanes Ss oe fo —-—1---+-} beaeacuaat Ege eerTaceaqiaaai Peete et ig owi bere be dBesiaincd|
+zee ae +9 ‘OL ae Saige GHEE Eta ae ace |
+See Se Ae ith ESET flute URRNERI I sees at ee
+eee ath feat a iti fuaai aes ae hein See fe Biseaedes epagaered
+eecesees : pt SS aaaaenseae Ebene [ea Teta fem geass |
+ Soome ceees | ESE PSR act iy seeyul ea aaa | EiSbakbosd seamen: eaees | ratte tied | wie
+fea eoredseasy rear] eased bak Pin aBEPaAERERINGTA loa pgsare pesese: eeReRE! the eau meee |
+ozus Sauer tse oe SEEN ead aes Pie a Hey Haan AT | ara GREG:
+f iets ; | sai eee j into uae ae eparage:| ie }isst caruegraquney Weert Wea tacesns
+See SE PHS | tad ae HES REIS Be ibsea ced as a eee dESRLESOaE! st | east eet eed
+Ben menue arid BEI foci Ae Tanner Para
+fe Bei pss iaea SED) age |: it ca He fares ryza pa SL hte UL! a }
+feta(eah Co seit Pane 2S a aan a anaemia a |
+feat A | Te aH LAE FGI TES mn Pah te is HRs | ieee 4 it i aa FaTOTRREGT Lagoa
+- eonck ide Oo itt eee eae monet ee eter
+tests rota ER Bes es bees boeep | PeRes Rey Rea | @ om & | bade \saead Base ta | Raa Ease aa Des
+Heures esc ean patie THIET EVAN EE ee
+iit :  prayinense carat Paneaneead | sibthereiiaead ada sahHGSTAUEESS ieuea keene ly Fag po agy Sai EeHs teaeaneces tan
+Some ares Saari TITHE TET feat He Rt Ea
+©@ : | t ry REEL tea, rat Hint HTT THELEN
+Spar raees [esa aRESLGOERS GaTEA BESANSEESCASaTEESES
+pattie HERES HELE EAT EES TET
+| : | ew i VEREARRERS METER GREGEGAR
+@ ,
+Table 1
+GENUS 20 A0Tt 25 April 2 May 9 May 16 May
+
+Rhizoselenia 172000 86000 265000 330000 3000
+Chaetosceros 78500 164000 120000 192000 4500
+Eucampia 12700 40500 10400 3820 720
+Nitzschia 10200 12500 6900 16000 1080
+Skeletonema 3800 8180 2540 62700 360
+Navicula 540 360 180 0 0
+Ditylum 360 900 180 4.80 0
+Thealasionema 900 Oven 2s 42000 0 0
+Thelasiosira 0 0 3220 2270 0
+
+- Coscinodiscus 540 0 1620 360 0
+Licmorphea 180° e) 0 0 0
+
+. Asterionella 0 11300 0 2550 180
+Stevhanopyxis 0 0 1080 Pp 0
+Biddulphia 0 ; 0 0 1450 0
+Lauderia ) 0 0 1810 0
+Noctiluca 180 0 1080 540. 0
+other Dinoflag. 180 1444-0 1080 7640 2700
+<20 microns 0 20300 0 0 1080
+unidentified
+@
+@
+Table 2
+GENUS 2OsWpris« 25 tert 2 May 9 May 16 May
+Rhizoselenia 136000 73200 215000 338000 5850
+Chaetosceros 152000 230000 119000 235000 151000
+Eucampia 19300 38200 8180 4,000 1780
+Nitzschia 8180 11300 7600 16400 11200
+Skeletonena 4910 17800 3040 28500 0
+Navicula 0 0 | 0 - 360 0
+Ditylun 0 360 360 0 0
+Thalassionema 180 720 1080 2280 0
+Thalasiosira 900 0 2180 720 0
+rs Coscindiscus 54.0 1350 180 0 0
+Licmorpha 180 0 0 0 0
+Noctiluca 180 0 140 540 0
+other Dinoflag. 900 Ve) 13690 12200 16000
+- Asterionella 0 11300 0 2730 500
+Silicaflag. ¢) 360 360 180 1080
+Biddulpvhia 0) 0 0 0 750
+<20 microns 4750 10200 0 4360 0
+unidentified
+@
+© ,
+Table 3
+GENUS 20 April 25 Avril 2May Oo May. 16) Mey.
+Rhicoselenia 2h-700 182000 290000 53100
+Ges chete nde 170000 179000 114000 90200
+Eucampia 4.9300 17800 8550 4000
+Nitzschia 19100 27100 6730 12200
+Skeletonema 37600 16400 14700 63600
+- Naviculea 0 720 24900 0
+Asterionella 9640 2550 1800 1380
+Thalassionema 4000 0) 1700 0
+Thalassiosira 180 | 0 fo) 360
+@ Coscinodiscus 3090 1080 360 9)
+Stephanovyxis 360 0 3090 360
+Lauderia 3450 0 0 0
+Bacteriastrum 0 0 360 5400
+Noctiluca 360 726 180 540
+other Dinoflag. 5090 3820 8910 3270
+Silicaflag. 54-0 } 540 1800 360
+€20 microns 1080 7090 £3100 12000
+unidentified
+@
+@
+Table 4
+STATION 20 Avril 25 April 2 May 9 May 16 May
+
+Nearshore 66 90 ol -08 2429
+Hopper 47 | 2446 Beat 09 rae 6
+Calcory I Om 46 ee -08 +09 Ad
+5m 43 s12 3 ode, ~10
+15m 5 Pio: «02 “25 43
+® 30m 1252 1.08 136 164 36
+CalcOFI 3 Om «26 ~O1 #5 io «56
+Sm 27 <1? 08 9 oo
+15m .57 13 <20 “50 “55
+30m 1.60 - 50 1.43 1625 olde
+
+@
+Tare
+Pisure: Lecends :
+e
+Figure 1. Phe locations of CalCOFPL 3 and CalCOPl 1 with respect to
+Monterey Bay.
+Figure 2. The positions of the inshore stations with respect to
+Hopkins Marine Station.
+Figure 3+7. Comparisons of productivity and standing crop at the four
+stations.
+Fieure 8. Comparison of direct cell counts between the three inshore
+stations.
+Plgure 9.3iComparison of produetiva ty between all stations during the
+study.
+Figure 10. Standing crop at the inshore stations during the five
+weeks of the study.
+= FPicure ii. Comparison of biomass between the nearshore stations with
+size class breakdown.
+Figure 12~16. Vertical distribution of chlorophyll, at CalcoFI i
+during the five weeks of the study.
+Figure 17. Vertical density layers at: Calcorr 1.
+®@
+1 > 6
+Table Legends
+Table 1. Community comvosition at Nearshore.
+Table 2. Community composition at Hopper.
+Table 3. Community composition at CalCOFI 1, surface only.
+Table 4. Ratio: of phaeopigment to chlorophyll, at all stations.
+
