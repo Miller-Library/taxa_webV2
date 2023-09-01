@@ -40,7 +40,7 @@ website:
         text: Experiments
       - href: content/Option1.ipynb
         text: Option 1 Notebook
-      - href: content/Option2.ipynb
+      - href: content/Option2final.ipynb
         text: Option 2 Notebook
 
 format:
