@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>TAXA Project - Results</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../millerlogo.ico" rel="icon">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
+      TAXA Project
+      </li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/millerlogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">TAXA Project</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://library.stanford.edu/hopkins" rel="" title="Hopkins Marine Station" class="quarto-navigation-tool px-1" aria-label="Hopkins Marine Station"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/Miller-Library" rel="" title="Harold A. Miller Library" class="quarto-navigation-tool px-1" aria-label="Harold A. Miller Library"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/plan.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Project Plan</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/experiments.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Experiments</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/Option1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Option 1 Notebook</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../content/Option2final.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Option 2 Notebook</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#option-1" id="toc-option-1" class="nav-link active" data-scroll-target="#option-1">Option 1</a></li>
+  <li><a href="#option-2" id="toc-option-2" class="nav-link" data-scroll-target="#option-2">Option 2</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.dev/Miller-Library/taxa_webV2/blob/main/content/Comparing Results - Options 1 &amp; 2.ipynb" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Miller-Library/taxa_webV2/blob/main/content/Comparing Results - Options 1 &amp; 2.ipynb" class="toc-action">View source</a></p><p><a href="https://github.com/Miller-Library/taxa_webV2/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Results</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<div class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<section id="option-1" class="level2">
+<h2 class="anchored" data-anchor-id="option-1">Option 1</h2>
+<p>Here are the results of testing out the 4 different chain types for Retrieval QA.</p>
+<ul>
+<li>Refine</li>
+<li>Map Reduce</li>
+<li>Re-rank</li>
+<li>Stuff</li>
+</ul>
+<p>Based on the results, Refine and Stuff performed better than reduce and re-rank in terms of accuracy.</p>
+<div class="cell" data-execution_count="8">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="co">#| label: tools-test</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co">#| fig-cap: &gt;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">#|  Comparing results for initial questions</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="co">#|  across the three tools.</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_excel(<span class="st">'Recording of Results on Test Questions (1).xlsx'</span>, nrows<span class="op">=</span><span class="dv">5</span>, usecols<span class="op">=</span>[<span class="dv">0</span>,<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>,<span class="dv">7</span>,<span class="dv">8</span>,<span class="dv">9</span>,<span class="dv">10</span>,<span class="dv">11</span>,<span class="dv">12</span>,<span class="dv">13</span>], sheet_name <span class="op">=</span> <span class="st">"Option #1 Exp - fhl_Charifson"</span>)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>df.style.set_table_styles([<span class="bu">dict</span>(selector<span class="op">=</span><span class="st">"th"</span>,props<span class="op">=</span>[(<span class="st">'max-width'</span>, <span class="st">'200px'</span>)])])</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>left_aligned_df <span class="op">=</span> df.style.set_properties(<span class="op">**</span>{<span class="st">'text-align'</span>: <span class="st">'left'</span>})</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>display(left_aligned_df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<style type="text/css">
+#T_31d42_row0_col0, #T_31d42_row0_col1, #T_31d42_row0_col2, #T_31d42_row0_col3, #T_31d42_row0_col4, #T_31d42_row0_col5, #T_31d42_row0_col6, #T_31d42_row0_col7, #T_31d42_row0_col8, #T_31d42_row0_col9, #T_31d42_row0_col10, #T_31d42_row0_col11, #T_31d42_row0_col12, #T_31d42_row0_col13, #T_31d42_row1_col0, #T_31d42_row1_col1, #T_31d42_row1_col2, #T_31d42_row1_col3, #T_31d42_row1_col4, #T_31d42_row1_col5, #T_31d42_row1_col6, #T_31d42_row1_col7, #T_31d42_row1_col8, #T_31d42_row1_col9, #T_31d42_row1_col10, #T_31d42_row1_col11, #T_31d42_row1_col12, #T_31d42_row1_col13, #T_31d42_row2_col0, #T_31d42_row2_col1, #T_31d42_row2_col2, #T_31d42_row2_col3, #T_31d42_row2_col4, #T_31d42_row2_col5, #T_31d42_row2_col6, #T_31d42_row2_col7, #T_31d42_row2_col8, #T_31d42_row2_col9, #T_31d42_row2_col10, #T_31d42_row2_col11, #T_31d42_row2_col12, #T_31d42_row2_col13, #T_31d42_row3_col0, #T_31d42_row3_col1, #T_31d42_row3_col2, #T_31d42_row3_col3, #T_31d42_row3_col4, #T_31d42_row3_col5, #T_31d42_row3_col6, #T_31d42_row3_col7, #T_31d42_row3_col8, #T_31d42_row3_col9, #T_31d42_row3_col10, #T_31d42_row3_col11, #T_31d42_row3_col12, #T_31d42_row3_col13 {
+  text-align: left;
+}
+</style>
+
+<table id="T_31d42" data-quarto-postprocess="true" class="table table-sm table-striped small">
+<thead>
+<tr class="header">
+<th class="blank level0" data-quarto-table-cell-role="th">&nbsp;</th>
+<th id="T_31d42_level0_col0" class="col_heading level0 col0" data-quarto-table-cell-role="th">Paper</th>
+<th id="T_31d42_level0_col1" class="col_heading level0 col1" data-quarto-table-cell-role="th">RetrievalQA - Chain_Type</th>
+<th id="T_31d42_level0_col2" class="col_heading level0 col2" data-quarto-table-cell-role="th">What is this paper about?</th>
+<th id="T_31d42_level0_col3" class="col_heading level0 col3" data-quarto-table-cell-role="th">Summarize the paper concisely with reference to materials and methods.</th>
+<th id="T_31d42_level0_col4" class="col_heading level0 col4" data-quarto-table-cell-role="th">Write a one sentence summary of the purpose of the paper</th>
+<th id="T_31d42_level0_col5" class="col_heading level0 col5" data-quarto-table-cell-role="th">Terms that may be used to identify an observation include “in the field”, “this study”, “observed”, “taken”, “collected”, “sampled”, “collection”, “seen”, “harvested”, “found”, etc. Does the paper include one or more observations?</th>
+<th id="T_31d42_level0_col6" class="col_heading level0 col6" data-quarto-table-cell-role="th">Does this paper contain observational or experimental research conducted in the natural environment or with organisms collected in nature?</th>
+<th id="T_31d42_level0_col7" class="col_heading level0 col7" data-quarto-table-cell-role="th">What are the scientific names of the species mentioned in this paper?</th>
+<th id="T_31d42_level0_col8" class="col_heading level0 col8" data-quarto-table-cell-role="th">Does the paper mention where the species were observed or collected, and if so, what locations are given?</th>
+<th id="T_31d42_level0_col9" class="col_heading level0 col9" data-quarto-table-cell-role="th">Can you give a more specific location?</th>
+<th id="T_31d42_level0_col10" class="col_heading level0 col10" data-quarto-table-cell-role="th">Are any coordinate locations given in latitude / longitude, and if so, what are they?</th>
+<th id="T_31d42_level0_col11" class="col_heading level0 col11" data-quarto-table-cell-role="th">In what habitat were the species found?</th>
+<th id="T_31d42_level0_col12" class="col_heading level0 col12" data-quarto-table-cell-role="th">Does the paper mention a year, date and/or time that species were collected or observed, and if so, what was mentioned?</th>
+<th id="T_31d42_level0_col13" class="col_heading level0 col13" data-quarto-table-cell-role="th">Are there any maps, figures, tables or diagrams in the paper?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td id="T_31d42_level0_row0" class="row_heading level0 row0" data-quarto-table-cell-role="th">0</td>
+<td id="T_31d42_row0_col0" class="data row0 col0">fhl_2014_Charifson_34622.pdf; Snail Predation by Hemigrapsus nudus and Hemigrapsus oregonensis: Sex and Species Differences in Chela Size</td>
+<td id="T_31d42_row0_col1" class="data row0 col1">Refine</td>
+<td id="T_31d42_row0_col2" class="data row0 col2">the paper is still primarily focused on the relationship between carapace width and propus measures in H. nudus and H. oregonensis crabs. The additional context provided describes consumption rates by individual H. nudus crabs, which is not directly related to the content of the paper.'</td>
+<td id="T_31d42_row0_col3" class="data row0 col3">The paper utilized SMA regressions to examine the relationship between carapace width and propal height in Hemigrapsus species. The relationship was analyzed using a line of best fit from SMA regression, as shown in Figure 1. Descriptive statistics for female and male H. nudus and H. oregonensis can be found in Table 1a.'</td>
+<td id="T_31d42_row0_col4" class="data row0 col4">The purpose of the paper is to analyze the relationship between carapace width (CW) and propus measures (PH and PW) in different species of crabs, specifically examining the differences in propal width: carapace width ratio between sexes and species, with the sex factor being statistically significant while the species factor was insignificant, and a significant interaction between the two factors.'</td>
+<td id="T_31d42_row0_col5" class="data row0 col5">The additional context provided does not directly relate to the question at hand, which is whether the paper includes observations. Therefore, the original answer remains valid and does not need any refinement.'</td>
+<td id="T_31d42_row0_col6" class="data row0 col6">Based on the additional context provided, it is clear that the paper contains experimental research conducted in the natural environment or with organisms collected in nature. The mention of logistical issues surrounding the experimental design, the need for more crabs, and the acknowledgment of permission to collect organisms indicate that the research involved conducting experiments with live organisms in their natural habitats.</td>
+<td id="T_31d42_row0_col7" class="data row0 col7">Based on the additional context provided, the scientific names of the species mentioned in the paper are:\n\n1. Hemigrapsus nudus (female and male)\n2. Hemigrapsus oregonensis (female and male)'</td>
+<td id="T_31d42_row0_col8" class="data row0 col8">The new context provided does not mention anything about the locations where the species were observed or collected. Therefore, the original answer remains the same.'</td>
+<td id="T_31d42_row0_col9" class="data row0 col9">Thank you for providing additional context. However, the new information does not specify the location of the study. The references you provided are book titles and do not specify a particular study or location. Therefore, the original answer remains the same: the specific location where this study took place is not mentioned.</td>
+<td id="T_31d42_row0_col10" class="data row0 col10">The new context provided does not contain any coordinate locations given in latitude/longitude. Therefore, the original answer remains the same.'</td>
+<td id="T_31d42_row0_col11" class="data row0 col11">The new context provided does not give any information about the habitat in which the species were found. Therefore, the original answer remains unchanged.</td>
+<td id="T_31d42_row0_col12" class="data row0 col12">Based on the new context provided, the paper does not mention a specific year, date, or time when species were collected or observed. The information provided in the new context is related to the statistical analysis of propal width: carapace width ratio between sexes and species of crabs. It does not provide any temporal information regarding the collection or observation of the species. Therefore, the original answer remains the same.'</td>
+<td id="T_31d42_row0_col13" class="data row0 col13">Based on the additional context provided, there is no mention of any maps, tables, or diagrams in the paper. However, there are figures in the paper. Figure 1, titled "Relationship of carapace width and propal height in Hemigrapsus," shows the relationship between carapace width and propal height in different species and genders of Hemigrapsus. The figure includes subfigures (a, b, c, d) for female and male Hemigrapsus nudus and Hemigrapsus oregonensis. Additionally, Table 1a provides descriptive statistics related to these figures.</td>
+</tr>
+<tr class="even">
+<td id="T_31d42_level0_row1" class="row_heading level0 row1" data-quarto-table-cell-role="th">1</td>
+<td id="T_31d42_row1_col0" class="data row1 col0">nan</td>
+<td id="T_31d42_row1_col1" class="data row1 col1">Map Reduce</td>
+<td id="T_31d42_row1_col2" class="data row1 col2">Based on the provided text, it is difficult to determine the exact topic of the paper. However, it appears to be discussing the consumption rates of individual H. nudus (presumably a type of crab) and their consumption of snails. The text mentions the mean consumption rates of female and male crabs, as well as the fact that some individuals did not consume snails.'</td>
+<td id="T_31d42_row1_col3" class="data row1 col3">The paper analyzed the relationship between carapace width and propal height and width in two species of crabs, H. nudus and H. oregonensis. The authors used a two-way ANOVA to compare the differences in cw:ph and cw:pw. They conducted simple moving average (SMA) regressions and provided regression equations and R-squared values for each species and gender. The paper also included a figure showing the relationship between carapace width and propal width in different species of Hemigrapsus crabs, using a line of best fit from a SMA regression analysis. Descriptive statistics for the data can be found in Table 1a and 1b.'</td>
+<td id="T_31d42_row1_col4" class="data row1 col4">The purpose of the paper is to analyze the relationship between carapace width and propal height/width in different species of crabs, as well as the differences in these ratios between sexes and species.'</td>
+<td id="T_31d42_row1_col5" class="data row1 col5">Based on the provided portions of the document, it does not appear to include any specific observations.'</td>
+<td id="T_31d42_row1_col6" class="data row1 col6">Based on the provided information, it is not possible to determine whether the paper contains observational or experimental research conducted in the natural environment or with organisms collected in nature.'</td>
+<td id="T_31d42_row1_col7" class="data row1 col7">The scientific names of the species mentioned in this paper are Hemigrapsus nudus and Hemigrapsus oregonensis.</td>
+<td id="T_31d42_row1_col8" class="data row1 col8">The provided portion of the document does not mention anything about the locations where the species were observed or collected.'</td>
+<td id="T_31d42_row1_col9" class="data row1 col9">nan</td>
+<td id="T_31d42_row1_col10" class="data row1 col10">There is no mention of any coordinate locations or latitude/longitude in the given portion of the document.'</td>
+<td id="T_31d42_row1_col11" class="data row1 col11">The given portion of the document does not provide any information about the habitat in which the species were found.'</td>
+<td id="T_31d42_row1_col12" class="data row1 col12">No, the given portion of the document does not mention any specific year, date, or time related to the collection or observation of species.'</td>
+<td id="T_31d42_row1_col13" class="data row1 col13">There is no information provided in the given portion of the document about the presence of maps, figures, tables, or diagrams in the paper.'</td>
+</tr>
+<tr class="odd">
+<td id="T_31d42_level0_row2" class="row_heading level0 row2" data-quarto-table-cell-role="th">2</td>
+<td id="T_31d42_row2_col0" class="data row2 col0">nan</td>
+<td id="T_31d42_row2_col1" class="data row2 col1">Map Re-Rank</td>
+<td id="T_31d42_row2_col2" class="data row2 col2">This document is about biometry and ecological character displacement.'</td>
+<td id="T_31d42_row2_col3" class="data row2 col3">This document provides a figure showing the relationship between carapace width and propal width in different species of Hemigrapsus crabs. The figure includes data for female and male H. nudus and H. oregonensis. The figure also includes a line of best fit from a simple linear regression analysis. For more detailed information, refer to Table 1b for descriptive statistics.</td>
+<td id="T_31d42_row2_col4" class="data row2 col4">This document does not provide enough information to determine the purpose of the paper.'</td>
+<td id="T_31d42_row2_col5" class="data row2 col5">This document does not answer the question'</td>
+<td id="T_31d42_row2_col6" class="data row2 col6">This document contains experimental research conducted with organisms collected in nature.'</td>
+<td id="T_31d42_row2_col7" class="data row2 col7">h. nudus'</td>
+<td id="T_31d42_row2_col8" class="data row2 col8">This document does not mention where the species were observed or collected.'</td>
+<td id="T_31d42_row2_col9" class="data row2 col9">nan</td>
+<td id="T_31d42_row2_col10" class="data row2 col10">No, there are no coordinate locations given in latitude/longitude in the context.'</td>
+<td id="T_31d42_row2_col11" class="data row2 col11">This document does not answer the question'</td>
+<td id="T_31d42_row2_col12" class="data row2 col12">No, the paper does not mention a year, date, or time that species were collected or observed.'</td>
+<td id="T_31d42_row2_col13" class="data row2 col13">Yes, there are figures in the paper. Figure 2 shows the relationship of carapace width and propal width in hemigrapsus. It includes four subfigures: a) female H. nudus, b) male H. nudus, c) female H. oregonensis, and d) male H. oregonensis. The line of best fit from sma regression is also shown. Table 1b provides descriptive statistics.</td>
+</tr>
+<tr class="even">
+<td id="T_31d42_level0_row3" class="row_heading level0 row3" data-quarto-table-cell-role="th">3</td>
+<td id="T_31d42_row3_col0" class="data row3 col0">nan</td>
+<td id="T_31d42_row3_col1" class="data row3 col1">Stuff</td>
+<td id="T_31d42_row3_col2" class="data row3 col2">This paper is about the analysis of carapace width and propus measures in different species of crabs, specifically H. nudus and H. oregonensis. It also discusses the consumption rates of individual H. nudus crabs.</td>
+<td id="T_31d42_row3_col3" class="data row3 col3">The paper analyzed the relationship between carapace width and propus measures in H. nudus and H. oregonensis crabs using a two-way ANOVA. The authors conducted SMA regressions to determine the relationship between carapace width and propal height and width, and provided descriptive statistics and line of best fit graphs for each species and sex.</td>
+<td id="T_31d42_row3_col4" class="data row3 col4">The purpose of the paper is to analyze the relationship between carapace width and propus measures in different species of crabs and to compare the differences between sexes and species.'</td>
+<td id="T_31d42_row3_col5" class="data row3 col5">Based on the given context, it is not clear whether the paper includes one or more observations.'</td>
+<td id="T_31d42_row3_col6" class="data row3 col6">Based on the given context, it is not clear whether the paper contains observational or experimental research conducted in the natural environment or with organisms collected in nature. The context provided does not explicitly mention any observations being made or data being collected.'</td>
+<td id="T_31d42_row3_col7" class="data row3 col7">The scientific names of the species mentioned in this paper are Hemigrapsus nudus and Hemigrapsus oregonensis.'</td>
+<td id="T_31d42_row3_col8" class="data row3 col8">Based on the given context, it is not mentioned in the paper where the species were observed or collected. No specific locations are given.'</td>
+<td id="T_31d42_row3_col9" class="data row3 col9">nan</td>
+<td id="T_31d42_row3_col10" class="data row3 col10">No, there are no coordinate locations given in latitude/longitude in the provided context.'</td>
+<td id="T_31d42_row3_col11" class="data row3 col11">The species were found in water and in finer sediment.'</td>
+<td id="T_31d42_row3_col12" class="data row3 col12">No, the paper does not mention a year, date, or time that the species were collected or observed.'</td>
+<td id="T_31d42_row3_col13" class="data row3 col13">Yes, there are figures in the paper. Figure 1 shows the relationship between carapace width and propal height in different species and genders of Hemigrapsus. Figure 2 shows the relationship between carapace width and propal width in the same species and genders. There are also tables mentioned in the context, such as Table 1a and Table 1b, which provide descriptive statistics.'</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+<section id="option-2" class="level2">
+<h2 class="anchored" data-anchor-id="option-2">Option 2</h2>
+<p>Here are the result from testing the ConversationalRetrievalQA with “Stuff” chain type with and without Contextual Compression.</p>
+<p>One challenge with retrieval is that usually you don’t know the specific queries your document storage system will face when you ingest data into the system. This means that the information most relevant to a query may be buried in a document with a lot of irrelevant text. Passing that full document through your application can lead to more expensive LLM calls and poorer responses.</p>
+<p>Contextual compression is meant to fix this. The idea is simple: instead of immediately returning retrieved documents as-is, you can compress them using the context of the given query, so that only the relevant information is returned. “Compressing” here refers to both compressing the contents of an individual document and filtering out documents wholesale.</p>
+<div class="cell" data-execution_count="9">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_excel(<span class="st">'Recording of Results on Test Questions (1).xlsx'</span>, nrows<span class="op">=</span><span class="dv">5</span>, usecols<span class="op">=</span>[<span class="dv">0</span>,<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>,<span class="dv">7</span>,<span class="dv">8</span>,<span class="dv">9</span>,<span class="dv">10</span>,<span class="dv">11</span>,<span class="dv">12</span>,<span class="dv">13</span>], sheet_name <span class="op">=</span> <span class="st">"Option #2 Exp - fhl_Charifson"</span>)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>df.style.set_table_styles([<span class="bu">dict</span>(selector<span class="op">=</span><span class="st">"th"</span>,props<span class="op">=</span>[(<span class="st">'max-width'</span>, <span class="st">'200px'</span>)])])</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>left_aligned_df <span class="op">=</span> df.style.set_properties(<span class="op">**</span>{<span class="st">'text-align'</span>: <span class="st">'left'</span>})</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>display(left_aligned_df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<style type="text/css">
+#T_0070d_row0_col0, #T_0070d_row0_col1, #T_0070d_row0_col2, #T_0070d_row0_col3, #T_0070d_row0_col4, #T_0070d_row0_col5, #T_0070d_row0_col6, #T_0070d_row0_col7, #T_0070d_row0_col8, #T_0070d_row0_col9, #T_0070d_row0_col10, #T_0070d_row0_col11, #T_0070d_row0_col12, #T_0070d_row0_col13, #T_0070d_row1_col0, #T_0070d_row1_col1, #T_0070d_row1_col2, #T_0070d_row1_col3, #T_0070d_row1_col4, #T_0070d_row1_col5, #T_0070d_row1_col6, #T_0070d_row1_col7, #T_0070d_row1_col8, #T_0070d_row1_col9, #T_0070d_row1_col10, #T_0070d_row1_col11, #T_0070d_row1_col12, #T_0070d_row1_col13, #T_0070d_row2_col0, #T_0070d_row2_col1, #T_0070d_row2_col2, #T_0070d_row2_col3, #T_0070d_row2_col4, #T_0070d_row2_col5, #T_0070d_row2_col6, #T_0070d_row2_col7, #T_0070d_row2_col8, #T_0070d_row2_col9, #T_0070d_row2_col10, #T_0070d_row2_col11, #T_0070d_row2_col12, #T_0070d_row2_col13 {
+  text-align: left;
+}
+</style>
+
+<table id="T_0070d" data-quarto-postprocess="true" class="table table-sm table-striped small">
+<thead>
+<tr class="header">
+<th class="blank level0" data-quarto-table-cell-role="th">&nbsp;</th>
+<th id="T_0070d_level0_col0" class="col_heading level0 col0" data-quarto-table-cell-role="th">Paper</th>
+<th id="T_0070d_level0_col1" class="col_heading level0 col1" data-quarto-table-cell-role="th">ConversationalRetrievalQA - Chain_Type</th>
+<th id="T_0070d_level0_col2" class="col_heading level0 col2" data-quarto-table-cell-role="th">What is this paper about?</th>
+<th id="T_0070d_level0_col3" class="col_heading level0 col3" data-quarto-table-cell-role="th">Summarize the paper concisely with reference to materials and methods.</th>
+<th id="T_0070d_level0_col4" class="col_heading level0 col4" data-quarto-table-cell-role="th">Write a one sentence summary of the purpose of the paper</th>
+<th id="T_0070d_level0_col5" class="col_heading level0 col5" data-quarto-table-cell-role="th">Terms that may be used to identify an observation include “in the field”, “this study”, “observed”, “taken”, “collected”, “sampled”, “collection”, “seen”, “harvested”, “found”, etc. Does the paper include one or more observations?</th>
+<th id="T_0070d_level0_col6" class="col_heading level0 col6" data-quarto-table-cell-role="th">Does this paper contain observational or experimental research conducted in the natural environment or with organisms collected in nature?</th>
+<th id="T_0070d_level0_col7" class="col_heading level0 col7" data-quarto-table-cell-role="th">What are the scientific names of the species mentioned in this paper?</th>
+<th id="T_0070d_level0_col8" class="col_heading level0 col8" data-quarto-table-cell-role="th">Does the paper mention where the species were observed or collected, and if so, what locations are given?</th>
+<th id="T_0070d_level0_col9" class="col_heading level0 col9" data-quarto-table-cell-role="th">Can you give a more specific location?</th>
+<th id="T_0070d_level0_col10" class="col_heading level0 col10" data-quarto-table-cell-role="th">Are any coordinate locations given in latitude / longitude, and if so, what are they?</th>
+<th id="T_0070d_level0_col11" class="col_heading level0 col11" data-quarto-table-cell-role="th">In what habitat were the species found?</th>
+<th id="T_0070d_level0_col12" class="col_heading level0 col12" data-quarto-table-cell-role="th">Does the paper mention a year, date and/or time that species were collected or observed, and if so, what was mentioned?</th>
+<th id="T_0070d_level0_col13" class="col_heading level0 col13" data-quarto-table-cell-role="th">Are there any maps, figures, tables or diagrams in the paper?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td id="T_0070d_level0_row0" class="row_heading level0 row0" data-quarto-table-cell-role="th">0</td>
+<td id="T_0070d_row0_col0" class="data row0 col0">fhl_2014_Charifson_34622.pdf; Snail Predation by Hemigrapsus nudus and Hemigrapsus oregonensis: Sex and Species Differences in Chela Size</td>
+<td id="T_0070d_row0_col1" class="data row0 col1">Stuff</td>
+<td id="T_0070d_row0_col2" class="data row0 col2">This paper is about the differences in chela size between Hemigrapsus nudus and Hemigrapsus oregonensis and how it relates to snail predation.'</td>
+<td id="T_0070d_row0_col3" class="data row0 col3">The paper discusses the limitations of a previous study due to logistical issues and lack of replication. It suggests that future studies should include more crabs, exclude non-feeding crabs, and have longer trial periods. Additionally, it recommends using multivariate and geometric morphometric methods to quantify claw shape instead of ratios.</td>
+<td id="T_0070d_row0_col4" class="data row0 col4">The purpose of the paper is to address the limitations of a previous study and propose improvements for future studies on crab feeding behavior and claw shape.'</td>
+<td id="T_0070d_row0_col5" class="data row0 col5">Yes, the paper includes one or more observations.'</td>
+<td id="T_0070d_row0_col6" class="data row0 col6">This paper contains both observational and experimental research conducted in the natural environment or with organisms collected in nature.'</td>
+<td id="T_0070d_row0_col7" class="data row0 col7">Hemigrapsus nudus and Hemigrapsus oregonensis.'</td>
+<td id="T_0070d_row0_col8" class="data row0 col8">The paper mentions that the species were observed and collected in Elkhorn Slough, Monterey County, California.' (INCORRECT - Pulling from Citation Section)</td>
+<td id="T_0070d_row0_col9" class="data row0 col9">The study was conducted in a rural area in northern California.'</td>
+<td id="T_0070d_row0_col10" class="data row0 col10">No, there are no coordinate locations given in latitude/longitude in the provided context.'</td>
+<td id="T_0070d_row0_col11" class="data row0 col11">The species Lacuna vincta were found in False Bay and Dead Man Cove. The species Littorina scutulata were found in the rocky intertidal zone of Fourth of July Beach.</td>
+<td id="T_0070d_row0_col12" class="data row0 col12">The paper does not mention a year, date, or time that species were collected or observed.'</td>
+<td id="T_0070d_row0_col13" class="data row0 col13">Yes, there are figures in the paper.'</td>
+</tr>
+<tr class="even">
+<td id="T_0070d_level0_row1" class="row_heading level0 row1" data-quarto-table-cell-role="th">1</td>
+<td id="T_0070d_row1_col0" class="data row1 col0">nan</td>
+<td id="T_0070d_row1_col1" class="data row1 col1">Stuff w/o Contextual Compression</td>
+<td id="T_0070d_row1_col2" class="data row1 col2">This paper is about the mechanics of fiddler crab claws and the need for future studies to improve experimental design and methodology.'</td>
+<td id="T_0070d_row1_col3" class="data row1 col3">The paper discusses the need for future studies to address logistical issues and increase replication. It also suggests using multivariate and geometric morphometric methods to quantify claw shape instead of ratios. The acknowledgements section mentions individuals and organizations that provided advice and financial support for the study.'</td>
+<td id="T_0070d_row1_col4" class="data row1 col4">The purpose of the paper is to discuss the logistical issues and limitations of a previous study on fiddler crab claw shape and suggest improvements for future studies.'</td>
+<td id="T_0070d_row1_col5" class="data row1 col5">"I don't know."</td>
+<td id="T_0070d_row1_col6" class="data row1 col6">This paper contains experimental research conducted with organisms collected in nature.'</td>
+<td id="T_0070d_row1_col7" class="data row1 col7">Hemigrapsus nudus, Hemigrapsus orogenensis, Littorina scutulata, Lacuna vincta.'</td>
+<td id="T_0070d_row1_col8" class="data row1 col8">The paper mentions that the study was conducted at Friday Harbor Laboratories, University of Washington, Friday Harbor, WA 98250.'</td>
+<td id="T_0070d_row1_col9" class="data row1 col9">No, the specific location is not provided in the given context.'</td>
+<td id="T_0070d_row1_col10" class="data row1 col10">No, there are no coordinate locations given in latitude/longitude.'</td>
+<td id="T_0070d_row1_col11" class="data row1 col11">The species were found in the rocky intertidal zone.'</td>
+<td id="T_0070d_row1_col12" class="data row1 col12">No, the paper does not mention a year, date, or time that species were collected or observed.'</td>
+<td id="T_0070d_row1_col13" class="data row1 col13">Yes, there is a figure in the paper.'</td>
+</tr>
+<tr class="odd">
+<td id="T_0070d_level0_row2" class="row_heading level0 row2" data-quarto-table-cell-role="th">2</td>
+<td id="T_0070d_row2_col0" class="data row2 col0">nan</td>
+<td id="T_0070d_row2_col1" class="data row2 col1">Stuff w/ Contextual Compression</td>
+<td id="T_0070d_row2_col2" class="data row2 col2">This paper is about the differences in chela size between Hemigrapsus nudus and Hemigrapsus oregonensis and how it relates to snail predation.'</td>
+<td id="T_0070d_row2_col3" class="data row2 col3">The paper discusses the limitations of a previous study due to logistical issues and lack of replication. It suggests that future studies should include more crabs, exclude non-feeding crabs, and have longer trial periods. Additionally, it recommends using multivariate and geometric morphometric methods to quantify claw shape instead of ratios.</td>
+<td id="T_0070d_row2_col4" class="data row2 col4">The purpose of the paper is to address the limitations of a previous study and propose improvements for future studies on crab feeding behavior and claw shape.'</td>
+<td id="T_0070d_row2_col5" class="data row2 col5">Yes, the paper includes one or more observations.'</td>
+<td id="T_0070d_row2_col6" class="data row2 col6">This paper contains both observational and experimental research conducted in the natural environment or with organisms collected in nature.'</td>
+<td id="T_0070d_row2_col7" class="data row2 col7">Hemigrapsus nudus and Hemigrapsus oregonensis.'</td>
+<td id="T_0070d_row2_col8" class="data row2 col8">The paper mentions that the species were observed and collected in Elkhorn Slough, Monterey County, California.'</td>
+<td id="T_0070d_row2_col9" class="data row2 col9">"I don't know."</td>
+<td id="T_0070d_row2_col10" class="data row2 col10">No, there are no coordinate locations given in latitude/longitude.'</td>
+<td id="T_0070d_row2_col11" class="data row2 col11">The species Lacuna vincta were found in False Bay and Dead Man Cove. The species Littorina scutulata were found in the rocky intertidal zone of Fourth of July Beach.'</td>
+<td id="T_0070d_row2_col12" class="data row2 col12">The paper does not mention a year, date, or time that species were collected or observed.'</td>
+<td id="T_0070d_row2_col13" class="data row2 col13">Yes, there are figures (Figure 1 and Figure 2) and tables (Table 1A and Table 1B) in the paper.'</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© CC-1.0</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+  </div>
+</footer>
+
+
+
+</body></html>
