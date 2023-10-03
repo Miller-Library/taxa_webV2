@@ -6,7 +6,7 @@ page-layout: full
 
 ## Motivations for Project
 
-Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things, Long-term biological and environmental observations, and an ability to discover and access them.
+Climate change is driving rapid changes in our biosphere on local and global scales. Our capacity to understand these shifts relies entirely upon two critical things: long-term biological and environmental observations, and an ability to discover and access them.
 Species Occurrence records are foundational to understanding biodiversity in ecosystems and help researchers track adaptation and the effects of climate change.
 
 Knowledge bases that gather observations from around the world including species, location and time of the event provide a more complete picture of historical and geographic changes in biodiversity. Not surprisingly, observations from the past recorded on paper are often missing from these knowledge bases because they are hard to come by. Libraries up and down the Pacific coast hold collections of undergraduate student papers with observations of marine plants and animals “hidden” in the text. Reading and extracting those observations by hand is an effort libraries cannot afford to undertake.
@@ -38,11 +38,11 @@ The undergraduate student research papers available for the Data Over Decades pr
 | --- | --- | --- | --- | --- | --- |
 | [Bamfield Marine Sciences Centre](https://bamfieldmsc.com/) (consortium) | 5,426 papers | 1973 - present | [No](https://www.librarycat.org/lib/BMSC/search/text/student+report) | No | No |
 | [Friday Harbor Labs](https://fhl.uw.edu/), University of Washington | 5,000 papers; 2011-2020, 480 papers in hand | 1946 - present | [Pre-2011](http://db.lib.washington.edu/fhlclasspapers/) not scanned; [2011+](https://digital.lib.washington.edu/researchworks/handle/1773/16337) born-digital | 2011-2020, 480 papers | Pre-2011, No; 2011+ Yes |
-| [Hatfield Marine Science Center](https://hmsc.oregonstate.edu/), Oregon State University | 400 papers | 1967 - present | No | No | No |
+| [Hatfield Marine Science Center](https://hmsc.oregonstate.edu/), Oregon State University | [140](https://ir.library.oregonstate.edu/collections/8049gf06p?locale=en) + [170](https://ir.library.oregonstate.edu/collections/0r967c47n?locale=en) papers | 1966 - present | Yes | No | Yes |
 | [Bodega Marine Laboratory](https://marinescience.ucdavis.edu/bml/about), UC Davis | 3,800 papers | 1928 - present | [No](https://marinescience.ucdavis.edu/sites/g/files/dgvnsk9221/files/inline-files/CHL_BML_STUDENT_REPORTS_CATALOG_to_2021.pdf) | No | No |
 | [Moss Landing Marine Labs](https://mlml.sjsu.edu/), San Jose State University | 690 theses | 1968 - present | [Yes](https://scholarworks.calstate.edu/catalog?f%5Bcampus_sim%5D%5B%5D=Moss%20Landing) | Yes | Yes |
 | UC Berkeley (research conducted at Hopkins) | 239 papers | 1947 - 1952 | No | No | No |
-| Hopkins Marine Station, Stanford University | 746 papers | 1963 - 2011** | [Yes](https://searchworks.stanford.edu/view/hq527zr3245) | Yes | 672 Yes; 74 No |
+| Hopkins Marine Station, Stanford University | 778 papers | 1963 - 2011** | [Yes](https://searchworks.stanford.edu/view/hq527zr3245) | Yes | 672 Yes; 74 No |
 | [Wrigley Marine Science Center](https://dornsife-wrigley.usc.edu/research/wmsc/), USC, UCLA, Carleton College (corpus held at HMS Library) | 300 papers | 1970s - 2000 | Yes | Yes | No |
 | UC Santa Cruz (corpus held at HMS Library) | 59 papers | 1973 - 2000 | [Yes](https://searchworks.stanford.edu/catalog?f%5Bcollection%5D%5B%5D=bj090cv2271) | Yes | No |
 
