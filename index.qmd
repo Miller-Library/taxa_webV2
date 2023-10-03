@@ -42,7 +42,7 @@ The undergraduate student research papers available for the Data Over Decades pr
 | [Bodega Marine Laboratory](https://marinescience.ucdavis.edu/bml/about), UC Davis | 3,800 papers | 1928 - present | [No](https://marinescience.ucdavis.edu/sites/g/files/dgvnsk9221/files/inline-files/CHL_BML_STUDENT_REPORTS_CATALOG_to_2021.pdf) | No | No |
 | [Moss Landing Marine Labs](https://mlml.sjsu.edu/), San Jose State University | 690 theses | 1968 - present | [Yes](https://scholarworks.calstate.edu/catalog?f%5Bcampus_sim%5D%5B%5D=Moss%20Landing) | Yes | Yes |
 | UC Berkeley (research conducted at Hopkins) | 239 papers | 1947 - 1952 | No | No | No |
-| Hopkins Marine Station, Stanford University | 778 papers | 1963 - 2011** | [Yes](https://searchworks.stanford.edu/view/hq527zr3245) | Yes | 672 Yes; 74 No |
+| [Hopkins Marine Station, Stanford University](https://hopkinsmarinestation.stanford.edu/) | 778 papers | 1963 - 2011 | [Yes](https://searchworks.stanford.edu/view/hq527zr3245) | Yes | 672 Yes; 106 No |
 | [Wrigley Marine Science Center](https://dornsife-wrigley.usc.edu/research/wmsc/), USC, UCLA, Carleton College (corpus held at HMS Library) | 300 papers | 1970s - 2000 | Yes | Yes | No |
 | UC Santa Cruz (corpus held at HMS Library) | 59 papers | 1973 - 2000 | [Yes](https://searchworks.stanford.edu/catalog?f%5Bcollection%5D%5B%5D=bj090cv2271) | Yes | No |
 
@@ -52,7 +52,7 @@ The undergraduate student research papers available for the Data Over Decades pr
 
 ## Student Papers - From Paper to Digital
 
-We partnered with the Stanford Libraries [Digital Production Group (DPG)](https://library.stanford.edu/research/digitization-services/labs/digital-production-group) to scan all of the Hopkins Marine Station student papers. The DPG is staffed by highly skilled professional imaging specialists and student assistants, and they have well-established workflows for capturing and processing digital content, and accessioning it into the Stanford Digital Repository (SDR). Their scanning process generated, for each page, a high-resolution JPEG 2000 for preservation, a medium resolution jpg for the catalog media viewer interface, an ALTO XML file, and a text-searchable PDF of the full paper. These files are all stored in Stanford Digital Repository (SDR) for preservation and access purposes. 
+We partnered with the Stanford Libraries [Digital Production Group (DPG)](https://digitization2023.sites.stanford.edu/) to scan all of the Hopkins Marine Station student papers. The DPG is staffed by highly skilled professional imaging specialists and student assistants, and they have well-established workflows for capturing and processing digital content, and accessioning it into the Stanford Digital Repository (SDR). Their scanning process generated, for each page, a high-resolution JPEG 2000 for preservation, a medium resolution jpg for the catalog media viewer interface, an ALTO XML file, and a text-searchable PDF of the full paper. These files are all stored in Stanford Digital Repository (SDR) for preservation and access purposes. 
 
 For this phase of the project we will be working with the PDFs, but we plan to incorporate an open software image OCR step into our workflow so it will be more directly portable to our community of practice.
 
