@@ -44,6 +44,8 @@ website:
         text: Option 2 Notebook
       - href: content/ComparingResults-Options1&2.ipynb
         text: Results Table - Options 1 & 2
+      - href: content/Text_Difference_Checker.ipynb
+        text: difflib Transkribus Output Text Checker
 
 format:
   html:
