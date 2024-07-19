@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Miller-Library/taxa-project/sitemap.xml
+Sitemap: https://Miller-Library.github.io/taxa-project/sitemap.xml
