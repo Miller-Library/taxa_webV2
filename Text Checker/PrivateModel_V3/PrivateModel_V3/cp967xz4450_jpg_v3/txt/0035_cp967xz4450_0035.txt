@@ -1,0 +1,32 @@
+Figure 7. Dlogroms showing how forces were opplied to Shells. DiogramS
+Show externol surface of shell from the top. A. "Front Scor' refers to 6
+force opplled longitudinolly 6t the Scor. B. "Front morgin' refers to 6
+force opplled longitudinolly bt the morgin. C. "aterol Scor' refers to 6
+force opplied loterolly 6t the Scor. D. "oterol morgin' refers to 6 force
+bpplled loterolly 6t the morgin.
+Figure B. Technique used to generote XYi coordinates for the finite
+element model. A. Groting(porollel block lines) used to project lines onto
+the shells. B. Diogrom of projector set-up. The lines ore projected(in 6
+dork room) onto the Shell ond the contour pottern photographed. C. Top
+vicw of B. D. Topogrophic mop obtoined when contour lines from each
+Side of the shell ore ploced next to each other. The coordinte 6KeS D6SS
+through the 6pex(ot the origin). E. Final limpet model(A. Mitro ShoWh)
+obtoined from topographic map. The dork circles ore nodol(/VZ) pointS.
+Figure 9. Graph Showing the force required to fracture a shell versus the
+Shell thickness ot the onterior end of the shellfot the level of the muscle
+Scor) for oll four species. A. Volues for all four Species shown together.
+B. Lincear regressions for each species. The mean force/thickness v6lueS
+were not Significontly different omong the four species. C. GigitoliS:
+U-186.6% +343, MK-.33, DO2,h-17. C Jim8lul6: U-231.4% +3S.3, MK-64,
+D(.O01,h-22. A. Mitr6: 4-95.9% +B0.46, F6-.13, D.05, h-11. C.Rli6:
+4-153.0, F6-.26, D05, N-18.
+Figure 10. Regression lines for the force required to fracture 6 Shellfin
+Newtons) plotted ogainst the shell thickness. The force values for cach
+grosping orientation(for Shells froctured longitudinlly 6nd loterally 6lOnD
+the muscle Scor and margin) did not differ Significantly from coch other
+6nd 6re combined for each Speciec into one dat6 Set. Bre6king forCeS
+increosed with chell thickness in all cases except for A. mitra A. C.
+Jim6tul. 4-211.9% + 145. T-.49, p<001. (n-63) B. C Gigitalis
+4-161.3%+ 21.9. M6-30,p<.001. (n-51) C. A. Mitr6 4- 46.6%+76.5. T
+E.06, D).06 (n-69) D. C.pella W-162.9%+ 41.T. M-28,p<001 (n-46)-
+Figure 11. Lincor regression showing the force necescory to fracture C.

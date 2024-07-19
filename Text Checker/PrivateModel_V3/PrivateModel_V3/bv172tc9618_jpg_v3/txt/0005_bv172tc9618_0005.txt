@@ -1,0 +1,28 @@
+timc aftcr which viSually obviouS changc5 in pattern morphology COuld N0
+longer be diStingulched, 1 WaS able to cftimatt Ganddab accllmatlon fatt
+to a ncW SubStrate
+Digital Image DroCeSSIng WaS 4Sed to analyzt a (cW TcDrESttatlVc
+Dhotographt ac a demonStration that thlS tcchnology may bc appllcd af a
+Valuablc complement to other formS of photographlc analySiS. The lmagc
+proceSSing waS conducted on the Megalision 1024-%M computer With
+input from a vidco camcra. Photographic Imaget were Stored 1n 1024%
+1024 arrayc Of pIxcIS, With cach plxcl aSSlgned a gray valuc (rom 0
+(black) to 255 (white). 1 Selected pre- and poSt-accl/mation photos for
+Onc roCky fiSh placed on Sand and for One Sandy fiSh placed On ToCK (G66
+Figures 48 5 reSpectively). HiStogramS of the gray Scalc valu65 for 3
+Small arca around the Same cyeSDot On cach fich were Obtained to
+COmDarc how thio Specific arca changed after 8 day5 of accl/matlon to a
+diffcrent SubStratc. HiStogramS of gray Scalc valuc5 for cdual Sz6d
+arcaC Of Sand and rock were alco obtalned for comparicon of the tW0
+SubStrates. The Command "Scanner" waS uSed to input the vidco /mage of
+the black and white print Into onc of the tcmporary mcmoric6. "DolyGON
+WaS 456d to create a template So that Gevcral photographS of the Samc
+fI6h could be allgned. ThIS Command waS then 4S6d to Creatc a Sample
+arca for the analySlS Of gray Scalc Valu6S (rOm An ImaG6. "HpOlyGON"
+Cfcated a hiStogram of gray Scalc value5 from the Imagc withln the
+DOIyGOn. "HlISt" WaS uS6d to obtaln the raw data from th hlStogrAm,
+which was Stored onto a floppy di5c and transferred to lotus for
+Graphing. To CompenSate for differences in cxpoSure or development of
+the photograph5, "Sample" WaS UG6d to Obtaln polnt TcadIngS Of Uray SCalc
+valucs from the Imagc, and "mapper" was u5ed to cquallze cxISting
+differenC5.

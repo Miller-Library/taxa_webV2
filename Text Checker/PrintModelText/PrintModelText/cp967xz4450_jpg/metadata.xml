@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>2584984</docId>
+    <title>cp967xz4450_jpg</title>
+    <uploadTimestamp>1717112235580</uploadTimestamp>
+    <uploader>aclao89@stanford.edu</uploader>
+    <uploaderId>234545</uploaderId>
+    <nrOfPages>38</nrOfPages>
+    <pageId>71842846</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=XWXAUEKKMOWGPRJHYDGKCLGQ</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=XWXAUEKKMOWGPRJHYDGKCLGQ</thumbUrl>
+    <language></language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_2584984</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>299579</colId>
+            <colName>Hopkins Student Papers (Training Data)</colName>
+            <description>created by qad@stanford.edu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>299579</mainColId>
+</trpDocMetadata>

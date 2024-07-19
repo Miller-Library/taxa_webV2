@@ -1,0 +1,11 @@
+FiEurCS
+1: Location of Center of Gravity of the Sanddab.
+2: Liftoff Sequence of the Canddab. Each frame 1/305.
+3: Speed of Wave Propagation along the Canddab dufing liftoff.
+4: Eadius of Curvature of Wave along the Sanddab duringliftoff.
+S: Displacement of the Center of Gravity of the Sanddab duringliftoff.
+6: Velocity of the Center of Gravity of the Canddab during liftoff.
+7: Acceleration of the Center of Gravity of the Canddab duringliftoff.
+G: Undulatory motion of a Sanddab during liftoff from a Colid Subctrate (top)
+And typical undulatory imotion of a transiently Swimming fiSh (bottom) (from
+Webb.1974)

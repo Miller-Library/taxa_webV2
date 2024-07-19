@@ -1,0 +1,19 @@
+C
+properties for the shells, including ectual thicknesses for each
+plate.used material properties for another limpet species,
+Estelle mevicans (Currey, 1980): Voung's Modulus-6.0 x 109
+N/m2, Shear Modulus-2.7 x 10° N/m2, Vielding Strength-3.3 x
+107 H/m2, Poisson's Ratio-O.1, Calcium Carbonate Mass
+Density-2.93). For each species ! applied forces equal to
+75-802 of the predicted breeking force (ascertained from the
+force vs. thickness results of part A).
+RESULTS
+A. COMPARISON AMONG SPECIES OF FORCE VS. THICKNESS
+VALUES AT EACH GRASPING ORIENTATION
+Figure 94 shows the combined force vs. thickness values
+of the four species tested (C. Felte, C limatule, C digitalis, 4.
+mitre) for forces epplied along the length of the muscle scar.
+Figure 9B plots individual linear regressions and reveals that .
+limatule, C pelte, end C. digitalis eoch showed e significent
+increase in force required to frecture the shell as thickness et
+the scor increosed (r z.65, p4.001, r z.26, p«.05, r z.33, p..02,

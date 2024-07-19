@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>2584826</docId>
+    <title>wp009br6936_jpg</title>
+    <uploadTimestamp>1717111585863</uploadTimestamp>
+    <uploader>thalassa@stanford.edu</uploader>
+    <uploaderId>14810</uploaderId>
+    <nrOfPages>12</nrOfPages>
+    <pageId>71842616</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=GJHBGPIFBNKXCMHVDDCBBHNI</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=GJHBGPIFBNKXCMHVDDCBBHNI</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_2584826</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>299579</colId>
+            <colName>Hopkins Student Papers (Training Data)</colName>
+            <description>created by qad@stanford.edu</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>299579</mainColId>
+</trpDocMetadata>

@@ -1,0 +1,25 @@
+A 9 volt clectric prod diccharged at the extreme pocterior end of the
+Caudal fin of the Sanddab, Cauced it to lift off from the Subctrate on which it
+UAS Iying. A tipod-mounted Sony HandyCam video Camcordef, filmingat 30
+frames per Second and 1/250 Sec per frame, recorded aliftoff cequence on
+Cach of two differentSubctrates. In each cace, the depth of bater above the
+SubStrate was 0.17m. No Sand waS available for the Sanddab to bury itcelf.
+Recording Continued until the camera Captured the fich lifting off from both
+Subctrates in a Similar fachion.
+The colid Subctrate wasa Plexiglas SheetServingas the bottom of the
+tank. The poroucSubctrate wasa Sheetof 1 1/2 mech galvanized
+chickenwire recting 0.08 m off the bottom of the tank. The Sanddab
+ApDeaIed to be equally comfortable on cach SubStrate, although the mech did
+tend to ffay the dorSal, anal, and Caudal finS of the fich Slightly over time.
+Playback of the two video Sequences on alarge-Screen televicion
+provided large, clear imagec eaSily traceable onto acetate film. A digitizinE
+Dad, fecording at centimeter intervals the pocition of the curved back of the
+fich, converted the chape of the fich into Cartesian coordinates. Thece
+COordinates provided values for the fadius of Curvature at each pointalong
+the back of the fich uSing the following formula ifom ThomaS (1953):
+(1+(dy/dx)2)3/2)
+Tho = —-------- - fadiuc of Curvature atK
+dlyldx.
+By hanging each of fixifozen dead Sanddabs irom each of thfee pOintS
+along the perimeter of their bodies, the intercections of the three vertical
+lines Showed where the approximate center of Eravity of the fiSh WaS

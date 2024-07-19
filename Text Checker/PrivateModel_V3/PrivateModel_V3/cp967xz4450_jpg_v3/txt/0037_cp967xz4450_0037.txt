@@ -1,0 +1,32 @@
+Structure 6t the muscle Scor. Surfoce shown is the beginning of the
+myostrocum, viewed(bt 6 Slight ongle) from the front ond toword the reor
+of the shell. The cross-lomellor sheets originote just below the upper
+(octuolly lower on the shell) loyer of prisms. B. SEM photogroph of the
+frocture Surfoce blong the Scor. The Surfoce is Smooth Since the crack
+troveled between the lomelloe. C. Diogrom showing orlentotion of
+crossed-lomellor Sheets ot the muscle Scor. The primory lomelloe run
+normbl to the externol shell surfoce, Such thot 6 crob-like force con Couse
+crocks between the sheets. Once between the lomelloe the crack Con
+Spre6d bround the Shell.
+Figure 18. Color scheme for the finite element onolysis Stress diogromS.
+Volues listed ore for compressive Stress in terms of the percentoge of
+moximum uield Strength. Tensile Stresses bppeor on the groph os white
+plotes with volues included in the legend.
+Figure 19. Stress digrams for C. digitolis comporing forces 6pplied 6t
+the margin ond Scar. Forces opplied 6t the morgin produced high
+compressive Stresses 6long the Scor, possibly Pxploining Why in theSe
+cases the Shell froctured first olong the Scar. A. "Front Scor' refers to 6
+force opplied longitudinolly 6long the Scor. B. "Front margin' refers to 6
+force opplied longitudinolly blong the morgin. In C & D "aterol" refers to
+6 force opplied l6terolly long the Scor(C) 6nd morgin(D). Tensilc
+StreSSeS(E of uicelding Strength): A. 1-3.6,2-3.3, 8-3.1,4-3.3,6-3.1 B.
+1-9.8,2-47,3-6.9 C. 1-1.3,2-63 D. 1-149,2-11.6, 3-0.3
+Figure 20. Stress diograms comporing Stresses in equol length C. Jimmtul6
+6nd A.mitrg computer models. For forces opplied longitudinally blong the
+SC6r(A.B) ond the morgin(C.D) C. Jimatula Shows much greoter
+compressive Stress olong both the Scor ond morgin. This most likelN
+occurs becouse C. Jimetulg is much thinner than A. Mnitra ll 6long th6
+Shell. Tensile Stresces(E of yiclding Strength): A. 1-1.7 B. 1-2.5, 2-2.8
+3-2.6, 4-2.3, 6-2.2 C. 1-2.0,2-3.0, 8-8.2 D. 1-1.9, 2-1.8, 3-1.8, 4-2.1
+FEEATTmpctc iroctured at the muccle Scor. A. fkomplcc of Chcllc
+cruched with the nutcracker-like device. B. Diogram of frocture Surf6ce.
