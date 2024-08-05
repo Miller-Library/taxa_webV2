@@ -1,87 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Miller-Library.github.io/taxa-project/index.html</loc>
-    <lastmod>2024-07-19T17:55:57.028Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/Option #2 Experiment/Option #2A Refinement.html</loc>
-    <lastmod>2024-07-19T17:55:56.964Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/architectures.html</loc>
-    <lastmod>2024-07-19T17:55:57.016Z</lastmod>
-  </url>
-  <url>
     <loc>https://Miller-Library.github.io/taxa-project/Text Checker/Text Difference Checker.html</loc>
-    <lastmod>2024-07-19T17:55:57.016Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/ComparingResults-Options1&amp;2.html</loc>
-    <lastmod>2024-07-19T17:55:57.016Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/Text_Difference_Checker.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/code.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/experiments.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/Option1.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/Option2final.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/plan.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/rendering.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/add-content.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/customizing.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/rmarkdown.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/Option2.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/experiments_1.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Miller-Library.github.io/taxa-project/content/publishing.html</loc>
-    <lastmod>2024-07-19T17:55:57.020Z</lastmod>
+    <lastmod>2024-08-05T20:37:55.851Z</lastmod>
   </url>
   <url>
     <loc>https://Miller-Library.github.io/taxa-project/Option #1 Experiment/Option #1.html</loc>
-    <lastmod>2024-07-19T17:55:56.928Z</lastmod>
+    <lastmod>2024-08-05T20:37:55.763Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/ComparingResults-Options1&amp;2.html</loc>
+    <lastmod>2024-08-05T20:37:55.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/Option2.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/Option1.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/experiments_1.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/code.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/Improving OCR&#39;d Papers.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/Text_Difference_Checker.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/rmarkdown.html</loc>
+    <lastmod>2024-08-05T20:37:55.943Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/Option #2 Experiment/Option #2A Refinement.html</loc>
+    <lastmod>2024-08-05T20:37:55.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/architectures.html</loc>
+    <lastmod>2024-08-05T20:37:55.851Z</lastmod>
   </url>
   <url>
     <loc>https://Miller-Library.github.io/taxa-project/Option #2 Experiment/Option 2 Final Draft.html</loc>
-    <lastmod>2024-07-19T17:55:56.964Z</lastmod>
+    <lastmod>2024-08-05T20:37:55.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/experiments.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/add-content.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/plan.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/Option2final.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/publishing.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/customizing.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/content/rendering.html</loc>
+    <lastmod>2024-08-05T20:37:55.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Miller-Library.github.io/taxa-project/index.html</loc>
+    <lastmod>2024-08-05T20:37:55.947Z</lastmod>
   </url>
   <url>
     <loc>https://Miller-Library.github.io/taxa-project/Text Difference Checker.html</loc>
-    <lastmod>2024-07-19T17:55:57.016Z</lastmod>
+    <lastmod>2024-08-05T20:37:55.851Z</lastmod>
   </url>
 </urlset>
