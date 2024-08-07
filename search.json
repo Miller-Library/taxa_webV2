@@ -215,7 +215,7 @@
     "href": "content/image_gallery.html",
     "title": "Image Gallery",
     "section": "",
-    "text": "Image Gallery\nimport os from pathlib import Path\ndef display_images(folder_path): image_files = list(Path(folder_path).glob(“*.jpg”)) html_code = “” for image_file in image_files: html_code += f”” return html_code\n\n\nDefine your folders\nfolders = [“content/bv172tc9618”, “content/cp967xz4450”]\n\n\nGenerate HTML for each folder\ngallery_html = “” for folder in folders: gallery_html += f”## {Path(folder).name}” gallery_html += display_images(folder)\nprint(gallery_html)",
+    "text": "Image Gallery\nckettbsu import os from pathlib import Path\ndef display_images(folder_path): image_files = list(Path(folder_path).glob(“*.jpg”)) html_code = “” for image_file in image_files: html_code += f”” return html_code\n\n\nDefine your folders\nfolders = [“content/bv172tc9618”, “content/cp967xz4450”]\n\n\nGenerate HTML for each folder\ngallery_html = “” for folder in folders: gallery_html += f”## {Path(folder).name}” gallery_html += display_images(folder)\nprint(gallery_html)",
     "crumbs": [
       "difflib Transkribus Output Text Checker",
       "Text Checker Outputs"
