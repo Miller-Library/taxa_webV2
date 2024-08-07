@@ -42,6 +42,8 @@ website:
         text: Option 1 Notebook
       - href: content/Option2final.ipynb
         text: Option 2 Notebook
+      - href: content/Global_Biodiversity_Information_Facility_(GBIF)_API.ipynb
+        text: GBIF API Test
       - href: content/ComparingResults-Options1&2.ipynb
         text: Results Table - Options 1 & 2
       - href: content/Text_Difference_Checker.ipynb
