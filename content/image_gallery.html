@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Image Gallery – TAXA Project</title>
+<title>Text Difference Checker – TAXA Project</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header sidebar-header-stacked">
@@ -191,23 +191,22 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#image-gallery" id="toc-image-gallery" class="nav-link active" data-scroll-target="#image-gallery">Image Gallery</a></li>
-  <li><a href="#define-your-folders" id="toc-define-your-folders" class="nav-link" data-scroll-target="#define-your-folders">Define your folders</a></li>
-  <li><a href="#generate-html-for-each-folder" id="toc-generate-html-for-each-folder" class="nav-link" data-scroll-target="#generate-html-for-each-folder">Generate HTML for each folder</a></li>
+  <li><a href="#motivation-for-checker" id="toc-motivation-for-checker" class="nav-link active" data-scroll-target="#motivation-for-checker">Motivation for Checker</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/Miller-Library/taxa_webV2/edit/main/content/image_gallery.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Miller-Library/taxa_webV2/blob/main/content/image_gallery.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/Miller-Library/taxa_webV2/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/Text_Difference_Checker.html">difflib Transkribus Output Text Checker</a></li><li class="breadcrumb-item"><a href="../content/image_gallery.html">Text Checker Outputs</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Image Gallery</h1>
+<h1 class="title">Text Difference Checker</h1>
+<p class="subtitle lead">Compare and Contrast Transkribus Outputs: Private model vs.&nbsp;Print 0.3 (Public) model</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -219,19 +218,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="image-gallery" class="level1">
-<h1>Image Gallery</h1>
-<p><code>ckettbsu</code> import os from pathlib import Path</p>
-<p>def display_images(folder_path): image_files = list(Path(folder_path).glob(“*.jpg”)) html_code = “” for image_file in image_files: html_code += f”<img src="{image_file}.png" class="img-fluid" alt="{image_file.name}">” return html_code</p>
-</section>
-<section id="define-your-folders" class="level1">
-<h1>Define your folders</h1>
-<p>folders = [“content/bv172tc9618”, “content/cp967xz4450”]</p>
-</section>
-<section id="generate-html-for-each-folder" class="level1">
-<h1>Generate HTML for each folder</h1>
-<p>gallery_html = “” for folder in folders: gallery_html += f”## {Path(folder).name}” gallery_html += display_images(folder)</p>
-<p>print(gallery_html)</p>
+<section id="motivation-for-checker" class="level2">
+<h2 class="anchored" data-anchor-id="motivation-for-checker">Motivation for Checker</h2>
+<p>We wanted to compare the outputs between our private model and Print 0.3 (public) model on Transkribus. Our private model was trained using 70 pages of student papers with the Print 0.3 as our base model. Consequently, our private model perform significantly worse than the Print 0.3M model.</p>
+<p>Upon further research and guidance from Transkribus’s support team, our results was an example of overfitting. Overfitting is a common problem in machine learning where a model learns the details and noise in the training data to such an extent that it negatively impacts the performance of the model on new data. In essence, an overfitted model performs very well on training data but poorly on validation or test data.</p>
+<p>As a result, the print 0.3 was deemed effective enough with an character error rate (CER) of 1.6%. CER measures the number of characters that were incorrectly predicted compared to the ground truth, normalized by the total number of characters in the ground truth.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/Miller-Library/taxa-project/blob/main/content/bv172tc9618/0001_bv172tc9618_0001_diff.jpg" class="img-fluid figure-img"></p>
+<figcaption>bv172tc9618_0001</figcaption>
+</figure>
+</div>
 
 
 </section>
@@ -801,7 +798,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="../content/Text_Difference_Checker.html" class="pagination-link" aria-label="difflib Transkribus Output Text Checker">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">difflib Transkribus Output Text Checker</span>
