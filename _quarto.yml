@@ -48,6 +48,10 @@ website:
         text: Results Table - Options 1 & 2
       - href: content/Text_Difference_Checker.ipynb
         text: difflib Transkribus Output Text Checker
+        contents:
+        - href: Text Check/Outputs/bv172tc9618_jpg
+          text: bv172tc9618 Comparison
+
       - href: content/PyTesseract_OCR.ipynb
         text: PyTesseract_OCR - Improving OCR'd Papers
 
