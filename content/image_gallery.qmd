@@ -3,7 +3,7 @@ title: "Image Gallery"
 ---
 
 # Image Gallery
-```{python}
+```{python}```
 import os
 from pathlib import Path
 
