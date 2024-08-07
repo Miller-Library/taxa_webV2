@@ -3,7 +3,6 @@ title: "Image Gallery"
 ---
 
 # Image Gallery
-
 ```{python}
 import os
 from pathlib import Path
@@ -16,7 +15,7 @@ def display_images(folder_path):
     return html_code
 
 # Define your folders
-folders = ["content/bv172tc9618", "content/images/folder2", "content/images/folder3"]
+folders = ["content/bv172tc9618", "content/cp967xz4450"]
 
 # Generate HTML for each folder
 gallery_html = ""
