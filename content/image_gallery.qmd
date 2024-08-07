@@ -1,0 +1,27 @@
+---
+title: "Image Gallery"
+---
+
+# Image Gallery
+
+
+import os
+from pathlib import Path
+
+def display_images(folder_path):
+    image_files = list(Path(folder_path).glob("*.jpg"))
+    html_code = ""
+    for image_file in image_files:
+        html_code += f"![{image_file.name}]({image_file})\n\n"
+    return html_code
+
+# Define your folders
+folders = ["content/bv172tc9618", "content/images/folder2", "content/images/folder3"]
+
+# Generate HTML for each folder
+gallery_html = ""
+for folder in folders:
+    gallery_html += f"## {Path(folder).name}\n\n"
+    gallery_html += display_images(folder)
+
+print(gallery_html)
