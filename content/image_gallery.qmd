@@ -15,4 +15,10 @@ Overfitting is a common problem in machine learning where a model learns the det
 
 As a result, the print 0.3 was deemed effective enough with an character error rate (CER) of 1.6%. CER measures the number of characters that were incorrectly predicted compared to the ground truth, normalized by the total number of characters in the ground truth.
 
-![bv172tc9618_0001](https://github.com/Miller-Library/taxa-project/blob/main/content/bv172tc9618/0001_bv172tc9618_0001_diff.jpg)
+Below is the gallery of text comparisons:
+
+- Left: Print 0.3
+- Right: Private model
+
+
+![bv172tc9618_0001](content/bv172tc9618/0001_bv172tc9618_0001_diff.jpg)

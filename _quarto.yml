@@ -46,11 +46,11 @@ website:
         text: GBIF API Test
       - href: content/ComparingResults-Options1&2.ipynb
         text: Results Table - Options 1 & 2
+      - href: content/image_gallery.qmd
+        text: Text Checker Outputs
+        contents:
       - href: content/Text_Difference_Checker.ipynb
         text: difflib Transkribus Output Text Checker
-        contents:
-        - href: content/image_gallery.qmd
-          text: Text Checker Outputs
       - href: content/PyTesseract_OCR.ipynb
         text: PyTesseract_OCR - Improving OCR'd Papers
 
