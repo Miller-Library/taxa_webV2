@@ -21,4 +21,4 @@ Below is the gallery of text comparisons:
 - Right: Private model
 
 
-![bv172tc9618_0001](content/bv172tc9618/0001_bv172tc9618_0001_diff.jpg)
+![bv172tc9618_0001](bv172tc9618/0001_bv172tc9618_0001_diff.jpg)

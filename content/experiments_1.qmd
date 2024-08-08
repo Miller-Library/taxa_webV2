@@ -44,8 +44,8 @@ digraph {
 		fontname="Helvetica,Arial,sans-serif"
 	]
 	edge [
-    len = 2 
-    penwidth = 1.5 
+    len = 2
+    penwidth = 1.5
     arrowhead=open
     color= darkgray
   ]
@@ -93,8 +93,8 @@ subgraph cluster_3 {
 	FAISS -> MultiQueryRetriever [color = yellow]
   Annoy -> ContextualCompression [color = yellow]
   LlamaCCP -> FAISS [color = yellow]
-  SpaCYEmbeddings -> Chroma [color = yellow] 
-  OpenAIEmbeddings -> Annoy [color = yellow] 
+  SpaCYEmbeddings -> Chroma [color = yellow]
+  OpenAIEmbeddings -> Annoy [color = yellow]
 
 	source [shape=Msquare];
 }
