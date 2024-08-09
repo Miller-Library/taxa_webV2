@@ -50,7 +50,7 @@ website:
         text: Text Checker Outputs
         contents:
           - href: content/Text_Difference_Checker.ipynb
-            text: difflib Transkribus Output Text Checker
+            text: difflib Transkribus Output Text Checker Notebook
       - href: content/PyTesseract_OCR.ipynb
         text: PyTesseract_OCR - Improving OCR'd Papers
 
