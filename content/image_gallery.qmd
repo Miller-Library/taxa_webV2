@@ -15,11 +15,29 @@ Overfitting is a common problem in machine learning where a model learns the det
 
 As a result, the print 0.3 was deemed effective enough with an character error rate (CER) of 1.6%. CER measures the number of characters that were incorrectly predicted compared to the ground truth, normalized by the total number of characters in the ground truth.
 
-Below is the gallery of text comparisons:
+
+## Tools Used
+
+- Python
+- Difflib (comparing differences between sequences and calculating similarity)
+- Jupyter Notebook
+
+## Compare Character sequences
+
+SequenceMatcher is a class in difflib that can be used to compare the similarity between two sequences (such as strings).
+It uses the [Ratcliff/Obershelp](https://xlinux.nist.gov/dads/HTML/ratcliffObershelp.html) algorithm to calculate the similarity between two sequences.
+
+
+## Create a difference report
+
+HtmlDiff is a class that can be used to create an HTML table, howing a side by side, line by line comparison of text with inter-line and intra-line change highlights.
+
+## Below is the gallery of text comparisons:
 
 - Left: Print 0.3
 - Right: Private model
 
+## bv172tc9618_0002
 
 ![bv172tc9618_0002](bv172tc9618/0002_bv172tc9618_0002_diff.jpg){ width=1250px }
 ![bv172tc9618_0003](bv172tc9618/0003_bv172tc9618_0003_diff.jpg){ width=1250px }
@@ -35,6 +53,7 @@ Below is the gallery of text comparisons:
 ![bv172tc9618_0013](bv172tc9618/0013_bv172tc9618_0013_diff.jpg){ width=1250px }
 ![bv172tc9618_0014](bv172tc9618/0014_bv172tc9618_0014_diff.jpg){ width=1250px }
 
+## cp967xz4450
 
 ![cp967xz4450_0001](cp967xz4450/0001_cp967xz4450_0001_diff.jpg){ width=1250px }
 ![cp967xz4450_0002](cp967xz4450/0002_cp967xz4450_0002_diff.jpg){ width=1250px }
@@ -75,7 +94,7 @@ Below is the gallery of text comparisons:
 ![cp967xz4450_0037](cp967xz4450/0037_cp967xz4450_0037_diff.jpg){ width=1250px }
 ![cp967xz4450_0038](cp967xz4450/0038_cp967xz4450_0038_diff.jpg){ width=1250px }
 
-
+## dr894zh9418
 
 ![dr894zh9418_0001](dr894zh9418/0001_dr894zh9418_0001_diff.jpg){ width=1250px }
 ![dr894zh9418_0002](dr894zh9418/0002_dr894zh9418_0002_diff.jpg){ width=1250px }
@@ -96,6 +115,7 @@ Below is the gallery of text comparisons:
 ![dr894zh9418_0017](dr894zh9418/0017_dr894zh9418_0017_diff.jpg){ width=1250px }
 ![dr894zh9418_0018](dr894zh9418/0018_dr894zh9418_0018_diff.jpg){ width=1250px }
 
+## kr104zb7305
 
 ![kr104zb7305_0001](kr104zb7305/0001_kr104zb7305_0001_diff.jpg){ width=1250px }
 ![kr104zb7305_0002](kr104zb7305/0002_kr104zb7305_0002_diff.jpg){ width=1250px }
@@ -116,6 +136,7 @@ Below is the gallery of text comparisons:
 ![kr104zb7305_0017](kr104zb7305/0017_kr104zb7305_0017_diff.jpg){ width=1250px }
 ![kr104zb7305_0018](kr104zb7305/0018_kr104zb7305_0018_diff.jpg){ width=1250px }
 
+## wp009br6936
 
 ![wp009br6936_0001](wp009br6936/0001_wp009br6936_0001_diff.jpg){ width=1250px }
 ![wp009br6936_0002](wp009br6936/0002_wp009br6936_0002_diff.jpg){ width=1250px }
@@ -130,6 +151,7 @@ Below is the gallery of text comparisons:
 ![wp009br6936_0011](wp009br6936/0011_wp009br6936_0011_diff.jpg){ width=1250px }
 ![wp009br6936_0012](wp009br6936/0012_wp009br6936_0012_diff.jpg){ width=1250px }
 
+## yw206cp4709
 
 ![yw206cp4709_0001](yw206cp4709/0001_yw206cp4709_0001_diff.jpg){ width=1250px }
 ![yw206cp4709_0002](yw206cp4709/0002_yw206cp4709_0002_diff.jpg){ width=1250px }
@@ -144,6 +166,7 @@ Below is the gallery of text comparisons:
 ![yw206cp4709_0011](yw206cp4709/0011_yw206cp4709_0011_diff.jpg){ width=1250px }
 ![yw206cp4709_0012](yw206cp4709/0012_yw206cp4709_0012_diff.jpg){ width=1250px }
 
+## zz472cp8582
 
 ![zz472cp8582_0001](zz472cp8582/0001_zz472cp8582_0001_diff.jpg){ width=1250px }
 ![zz472cp8582_0002](zz472cp8582/0002_zz472cp8582_0002_diff.jpg){ width=1250px }
