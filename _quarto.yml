@@ -51,11 +51,11 @@ website:
         contents:
           - href: content/Text_Difference_Checker.ipynb
             text: difflib Transkribus Output Text Checker Notebook
-      - href: contents/
+      - href: contents/pytesseract.qmd
         text: PyTesseract - Improving OCR'd Papers
         contents:
           - href: content/PyTesseract_OCR.ipynb
-            text: PyTesseract_OCR - Improving OCR'd Papers
+            text: PyTesseract_OCR Notebook
 
 format:
   html:
