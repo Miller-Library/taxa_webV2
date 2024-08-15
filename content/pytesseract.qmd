@@ -78,30 +78,30 @@ Below are papers with each of the parameters printed on the output. The left is 
 
 ## bg870mr8040
 
-![bg870mr8040_1](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0001_sidebyside.jpg){ width=1250px }
-![bg870mr8040_2](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0002_sidebyside.jpg){ width=1250px }
-![bg870mr8040_3](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0003_sidebyside.jpg){ width=1250px }
-![bg870mr8040_4](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0004_sidebyside.jpg){ width=1250px }
-![bg870mr8040_5](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0005_sidebyside.jpg){ width=1250px }
-![bg870mr8040_6](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0006_sidebyside.jpg){ width=1250px }
-![bg870mr8040_7](PyTesseract_OCR_Outputs/output_folder/bg870mr8040_0007_sidebyside.jpg){ width=1250px }
+![bg870mr8040_1](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0001_sidebyside.jpg){ width=1250px }
+![bg870mr8040_2](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0002_sidebyside.jpg){ width=1250px }
+![bg870mr8040_3](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0003_sidebyside.jpg){ width=1250px }
+![bg870mr8040_4](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0004_sidebyside.jpg){ width=1250px }
+![bg870mr8040_5](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0005_sidebyside.jpg){ width=1250px }
+![bg870mr8040_6](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0006_sidebyside.jpg){ width=1250px }
+![bg870mr8040_7](PyTesseract_OCR_Outputs/bg870mr8040/output_folder/bg870mr8040_0007_sidebyside.jpg){ width=1250px }
 
 
 ## bj170wc5114_
 
 
-![bj170wc5114_1](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0001_sidebyside.jpg){ width=1250px }
-![bj170wc5114_2](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0002_sidebyside.jpg){ width=1250px }
-![bj170wc5114_3](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0003_sidebyside.jpg){ width=1250px }
-![bj170wc5114_4](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0004_sidebyside.jpg){ width=1250px }
-![bj170wc5114_5](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0005_sidebyside.jpg){ width=1250px }
-![bj170wc5114_6](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0006_sidebyside.jpg){ width=1250px }
-![bj170wc5114_7](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0007_sidebyside.jpg){ width=1250px }
-![bj170wc5114_8](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0008_sidebyside.jpg){ width=1250px }
-![bj170wc5114_9](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0009_sidebyside.jpg){ width=1250px }
-![bj170wc5114_10](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0010_sidebyside.jpg){ width=1250px }
-![bj170wc5114_11](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0011_sidebyside.jpg){ width=1250px }
-![bj170wc5114_12](PyTesseract_OCR_Outputs/output_folder/bj170wc5114_0012_sidebyside.jpg){ width=1250px }
+![bj170wc5114_1](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0001_sidebyside.jpg){ width=1250px }
+![bj170wc5114_2](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0002_sidebyside.jpg){ width=1250px }
+![bj170wc5114_3](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0003_sidebyside.jpg){ width=1250px }
+![bj170wc5114_4](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0004_sidebyside.jpg){ width=1250px }
+![bj170wc5114_5](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0005_sidebyside.jpg){ width=1250px }
+![bj170wc5114_6](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0006_sidebyside.jpg){ width=1250px }
+![bj170wc5114_7](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0007_sidebyside.jpg){ width=1250px }
+![bj170wc5114_8](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0008_sidebyside.jpg){ width=1250px }
+![bj170wc5114_9](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0009_sidebyside.jpg){ width=1250px }
+![bj170wc5114_10](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0010_sidebyside.jpg){ width=1250px }
+![bj170wc5114_11](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0011_sidebyside.jpg){ width=1250px }
+![bj170wc5114_12](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0012_sidebyside.jpg){ width=1250px }
 
 
 ## ch792bx6307; h = 10, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
