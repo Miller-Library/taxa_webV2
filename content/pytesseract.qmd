@@ -99,9 +99,9 @@ Below are papers with each of the parameters printed on the output. The left is 
 ![bj170wc5114_7](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0007_sidebyside.jpg){ width=1250px }
 ![bj170wc5114_8](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0008_sidebyside.jpg){ width=1250px }
 ![bj170wc5114_9](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0009_sidebyside.jpg){ width=1250px }
-![bj170wc5114_10](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0010_sidebyside.jpg){ width=1250px }
-![bj170wc5114_11](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0011_sidebyside.jpg){ width=1250px }
-![bj170wc5114_12](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_0012_sidebyside.jpg){ width=1250px }
+![bj170wc5114_10](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_00010_sidebyside.jpg){ width=1250px }
+![bj170wc5114_11](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_00011_sidebyside.jpg){ width=1250px }
+![bj170wc5114_12](PyTesseract_OCR_Outputs/bj170wc5114/output_folder/bj170wc5114_00012_sidebyside.jpg){ width=1250px }
 
 
 ## ch792bx6307; h = 10, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
@@ -538,3 +538,200 @@ Below are papers with each of the parameters printed on the output. The left is 
 ![gx021jv8425_0024](PyTesseract_OCR_Outputs/gx021jv8425/output_h20/gx021jv8425_0024_sidebyside.jpg){ width=1250px }
 ![gx021jv8425_0025](PyTesseract_OCR_Outputs/gx021jv8425/output_h20/gx021jv8425_0025_sidebyside.jpg){ width=1250px }
 ![gx021jv8425_0026](PyTesseract_OCR_Outputs/gx021jv8425/output_h20/gx021jv8425_0026_sidebyside.jpg){ width=1250px }
+
+## ry002zj8695 ; h = 10, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![ry002zj8695_0001](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0001_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0002](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0002_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0003](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0003_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0004](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0004_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0005](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0005_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0006](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0006_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0007](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0007_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0008](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0008_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0009](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0009_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0010](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0010_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0011](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0011_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0012](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0012_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0013](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0013_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0014](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0014_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0015](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0015_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0016](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0016_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0017](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0017_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0018](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0018_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0019](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0019_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0020](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0020_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0021](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0021_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0022](PyTesseract_OCR_Outputs/ry002zj8695/output_h10/ry002zj8695_0022_sidebyside.jpg){ width=1250px }
+
+## ry002zj8695 ; h = 15, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![ry002zj8695_0001](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0001_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0002](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0002_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0003](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0003_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0004](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0004_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0005](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0005_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0006](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0006_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0007](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0007_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0008](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0008_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0009](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0009_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0010](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0010_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0011](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0011_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0012](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0012_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0013](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0013_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0014](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0014_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0015](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0015_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0016](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0016_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0017](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0017_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0018](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0018_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0019](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0019_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0020](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0020_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0021](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0021_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0022](PyTesseract_OCR_Outputs/ry002zj8695/output_h15/ry002zj8695_0022_sidebyside.jpg){ width=1250px }
+
+## ry002zj8695 ; h = 20, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![ry002zj8695_0001](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0001_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0002](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0002_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0003](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0003_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0004](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0004_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0005](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0005_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0006](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0006_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0007](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0007_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0008](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0008_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0009](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0009_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0010](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0010_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0011](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0011_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0012](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0012_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0013](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0013_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0014](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0014_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0015](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0015_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0016](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0016_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0017](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0017_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0018](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0018_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0019](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0019_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0020](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0020_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0021](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0021_sidebyside.jpg){ width=1250px }
+![ry002zj8695_0022](PyTesseract_OCR_Outputs/ry002zj8695/output_h20/ry002zj8695_0022_sidebyside.jpg){ width=1250px }
+
+## rz356zt5681 ; h = 10, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![rz356zt5681_0001](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0001_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0002](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0002_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0003](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0003_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0004](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0004_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0005](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0005_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0006](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0006_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0007](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0007_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0008](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0008_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0009](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0009_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0010](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0010_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0011](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0011_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0012](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0012_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0013](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0013_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0014](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0014_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0015](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0015_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0016](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0016_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0017](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0017_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0018](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0018_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0019](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0019_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0020](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0020_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0021](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0021_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0022](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0022_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0023](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0023_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0024](PyTesseract_OCR_Outputs/rz356zt5681/output_h10/rz356zt5681_0024_sidebyside.jpg){ width=1250px }
+
+
+## rz356zt5681 ; h = 15, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![rz356zt5681_0001](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0001_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0002](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0002_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0003](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0003_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0004](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0004_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0005](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0005_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0006](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0006_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0007](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0007_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0008](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0008_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0009](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0009_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0010](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0010_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0011](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0011_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0012](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0012_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0013](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0013_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0014](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0014_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0015](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0015_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0016](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0016_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0017](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0017_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0018](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0018_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0019](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0019_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0020](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0020_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0021](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0021_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0022](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0022_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0023](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0023_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0024](PyTesseract_OCR_Outputs/rz356zt5681/output_h15/rz356zt5681_0024_sidebyside.jpg){ width=1250px }
+
+## rz356zt5681 ; h = 20, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![rz356zt5681_0001](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0001_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0002](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0002_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0003](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0003_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0004](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0004_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0005](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0005_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0006](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0006_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0007](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0007_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0008](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0008_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0009](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0009_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0010](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0010_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0011](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0011_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0012](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0012_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0013](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0013_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0014](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0014_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0015](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0015_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0016](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0016_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0017](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0017_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0018](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0018_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0019](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0019_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0020](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0020_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0021](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0021_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0022](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0022_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0023](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0023_sidebyside.jpg){ width=1250px }
+![rz356zt5681_0024](PyTesseract_OCR_Outputs/rz356zt5681/output_h20/rz356zt5681_0024_sidebyside.jpg){ width=1250px }
+
+
+## sh033st8655 ; h = 10, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![sh033st8655_0001](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0001_sidebyside.jpg){ width=1250px }
+![sh033st8655_0002](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0002_sidebyside.jpg){ width=1250px }
+![sh033st8655_0003](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0003_sidebyside.jpg){ width=1250px }
+![sh033st8655_0004](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0004_sidebyside.jpg){ width=1250px }
+![sh033st8655_0005](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0005_sidebyside.jpg){ width=1250px }
+![sh033st8655_0006](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0006_sidebyside.jpg){ width=1250px }
+![sh033st8655_0007](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0007_sidebyside.jpg){ width=1250px }
+![sh033st8655_0008](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0008_sidebyside.jpg){ width=1250px }
+![sh033st8655_0009](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0009_sidebyside.jpg){ width=1250px }
+![sh033st8655_0010](PyTesseract_OCR_Outputs/sh033st8655/output_h10/sh033st8655_0010_sidebyside.jpg){ width=1250px }
+
+## sh033st8655 ; h = 15, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![sh033st8655_0001](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0001_sidebyside.jpg){ width=1250px }
+![sh033st8655_0002](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0002_sidebyside.jpg){ width=1250px }
+![sh033st8655_0003](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0003_sidebyside.jpg){ width=1250px }
+![sh033st8655_0004](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0004_sidebyside.jpg){ width=1250px }
+![sh033st8655_0005](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0005_sidebyside.jpg){ width=1250px }
+![sh033st8655_0006](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0006_sidebyside.jpg){ width=1250px }
+![sh033st8655_0007](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0007_sidebyside.jpg){ width=1250px }
+![sh033st8655_0008](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0008_sidebyside.jpg){ width=1250px }
+![sh033st8655_0009](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0009_sidebyside.jpg){ width=1250px }
+![sh033st8655_0010](PyTesseract_OCR_Outputs/sh033st8655/output_h15/sh033st8655_0010_sidebyside.jpg){ width=1250px }
+
+## sh033st8655 ; h = 20, templateWindowSize = 7 (default) & searchWindowSize = 21 (default)
+
+![sh033st8655_0001](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0001_sidebyside.jpg){ width=1250px }
+![sh033st8655_0002](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0002_sidebyside.jpg){ width=1250px }
+![sh033st8655_0003](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0003_sidebyside.jpg){ width=1250px }
+![sh033st8655_0004](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0004_sidebyside.jpg){ width=1250px }
+![sh033st8655_0005](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0005_sidebyside.jpg){ width=1250px }
+![sh033st8655_0006](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0006_sidebyside.jpg){ width=1250px }
+![sh033st8655_0007](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0007_sidebyside.jpg){ width=1250px }
+![sh033st8655_0008](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0008_sidebyside.jpg){ width=1250px }
+![sh033st8655_0009](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0009_sidebyside.jpg){ width=1250px }
+![sh033st8655_0010](PyTesseract_OCR_Outputs/sh033st8655/output_h20/sh033st8655_0010_sidebyside.jpg){ width=1250px }
